@@ -1,0 +1,17 @@
+LOCUS       Aspergillus_niger_T-tef1 450 bp ds-DNA     linear       15-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:OR540301.1"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry: OR540301
+            Accession: OR540301.1 Description: Aspergillus niger strain BB1
+            translation elongation factor 1-alpha (tef1) gene, partial cds
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cactggtacc tcccaggctg actgcgctat cctcatcatt gcctccggta ctggtgagtt
+       61 cgaggctggt atctccaagg atggccagac tcgtgagcac gctctgcttg ctttcaccct
+      121 cggtgtccgt cagctcattg ttgccctcaa caagatggac acctgcaagt ggtccgagga
+      181 ccgttacaac gaaatcgtta aggagacctc caacttcatc aagaaggtcg gctacaaccc
+      241 caagggtgtt cctttcgtcc ccatctccgg tttcaacggt gacaacatgc tcgagccctc
+      301 ccccaactgc ccctggtaca agggttggga gaaggagacc aaggccggca aggtcaccgg
+      361 taagaccctc ctcgaggcca tcgacgccat cgagcccccc gtccgtccct ccaacaagcc
+      421 cctccgtctt cccctccagg atgtctacaa
+//

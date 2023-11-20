@@ -1,0 +1,301 @@
+LOCUS       chro2_anid_is4          6517 bp ds-DNA     linear       18-NOV-2023
+DEFINITION  TPA_asm: Aspergillus nidulans FGSC A4 chromosome II.
+ACCESSION   BN001302
+VERSION     BN001302.1
+SOURCE      Aspergillus nidulans FGSC A4 (unknown)
+  ORGANISM  Aspergillus nidulans FGSC A4 Eukaryota; Fungi; Dikarya; Ascomycota;
+            Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales;
+            Aspergillaceae; Aspergillus; Aspergillus subgen. Nidulantes.
+COMMENT     Imported using the Genbank importer. File name: chro1_anid_int1.gbk
+            Aspergillus nidulans FGSC A4 CADRE, updated by Eurofungbase with
+            contributions from CADRE (http://www.cadre-genomes.org.uk), AspGD
+            (http://www.aspergillusgenome.org) and Ensembl Genomes
+            (http://www.ensemblgenomes.org).
+FEATURES             Location/Qualifiers
+     source          1..6517
+                     /label="chr II"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /organism="Aspergillus nidulans FGSC A4"
+                     /mol_type="genomic DNA"
+                     /strain="FGSC A4"
+                     /db_xref="taxon:227321"
+                     /chromosome="II"
+     misc_feature    1..6517
+                     /label="contig 1.69 1..80995(-1)"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     mRNA            1..46
+                     /label="ANIA_04253"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="transcript_id=CADANIAT00004403"
+                     /old_locus_tag="AN4253.4"
+     CDS             join(1..46,149..636)
+                     /label="ANIA_04253"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="transcript_id=CADANIAT00004403"
+                     /old_locus_tag="AN4253.4"
+                     /product="conserved hypothetical protein"
+                     /protein_id="CBF74386.1"
+                     /db_xref="EnsemblGenomes-Gn:CADANIAG00004403"
+                     /db_xref="EnsemblGenomes-Tr:CADANIAT00004403"
+                     /db_xref="GOA:Q5B5C7"
+                     /db_xref="InterPro:IPR029208"
+                     /db_xref="UniProtKB/TrEMBL:Q5B5C7"
+                     /translation="NKAHKTMVYTLITASGICGVLTVYSMVSLTLYNRRQRALWIEKEMQTLRDAQAAYVTGTATAEQLELLKKEKIGEIYKQKKEEERAQRPWNKVKNYLLGGLKTEETAPAGAAAVGAENNKPGVLEALNAAASKPDQAPSTPSTAAPAAPGQLDVLAENAEAAAKQTTKSWTSWLTGR*"
+     gene            1..922
+                     /label="ANIA_04253"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /old_locus_tag="AN4253.4"
+     mRNA            149..922
+                     /label="ANIA_04253"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="transcript_id=CADANIAT00004403"
+                     /old_locus_tag="AN4253.4"
+     mRNA            1807..2151
+                     /label="ANIA_04252"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="transcript_id=CADANIAT00004404"
+                     /old_locus_tag="AN4252.4"
+     gene            1807..2775
+                     /label="ANIA_04252"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /old_locus_tag="AN4252.4"
+     CDS             join(1874..2151,2204..2281,2346..2559)
+                     /label="ANIA_04252"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="transcript_id=CADANIAT00004404"
+                     /old_locus_tag="AN4252.4"
+                     /product="high expression lethality protein Hel10,putative (AFU_orthologue; AFUA_1G06580)"
+                     /protein_id="CBF74387.1"
+                     /db_xref="EnsemblGenomes-Gn:CADANIAG00004404"
+                     /db_xref="EnsemblGenomes-Tr:CADANIAT00004404"
+                     /db_xref="GOA:Q5B5C8"
+                     /db_xref="UniProtKB/TrEMBL:Q5B5C8"
+                     /translation="MSGPYDHNQGYYNPNQYQQGYYPEQGQQYQGYQPQHSQQYDQGYPQQHGQPYDQGYPQQHQQYDSQRGTSNDYYGQQPPQQGYDQYGQHQQQQYGQEAPGGAQEGERGLGGAVAGGLAGAFGGHKVNHGVLGAIGGAIVGSLAQDALKKKDKHKDEPYYDQHSQYGGSHHSGQSGHSSKLDQLGSFFKK*"
+     mRNA            2204..2281
+                     /label="ANIA_04252"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="transcript_id=CADANIAT00004404"
+                     /old_locus_tag="AN4252.4"
+     mRNA            2346..2775
+                     /label="ANIA_04252"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="transcript_id=CADANIAT00004404"
+                     /old_locus_tag="AN4252.4"
+     misc_feature    2541..3536
+                     /label="Homology_arm_UP"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    complement(3542..3544)
+                     /label="PAM"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     misc_feature    complement(3545..3562)
+                     /label="anid_is4_gRNA_1_FW"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    complement(3545..3564)
+                     /label="protospacer"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    3553..3564
+                     /label="anid_is4_gRNA_1_RV"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    3579..4577
+                     /label="Homology_arm_DW"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     mRNA            4940..4992
+                     /label="ANIA_04251"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="transcript_id=CADANIAT00004405"
+                     /old_locus_tag="AN4251.4"
+     gene            4940..6204
+                     /label="ANIA_04251"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /old_locus_tag="AN4251.4"
+     CDS             join(4962..4992,5061..5249,5306..6084)
+                     /label="ANIA_04251"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="transcript_id=CADANIAT00004405"
+                     /old_locus_tag="AN4251.4"
+                     /product="40S ribosomal protein S2, putative(AFU_orthologue; AFUA_1G06570)"
+                     /protein_id="CBF74389.1"
+                     /db_xref="EnsemblGenomes-Gn:CADANIAG00004405"
+                     /db_xref="EnsemblGenomes-Tr:CADANIAT00004405"
+                     /db_xref="GOA:C8V427"
+                     /db_xref="InterPro:IPR001865"
+                     /db_xref="InterPro:IPR005706"
+                     /db_xref="InterPro:IPR023591"
+                     /db_xref="UniProtKB/TrEMBL:C8V427"
+                     /translation="MIVRQLYARQSRQLLALNRQGYIPRRFSSTGTETPTPVETIVHRSIPEPGTRQSSAALTNNPAAKALAQEAEQRHKFQQLGTSVTNVYKPENLIRHPPFPSDITLELLLANQTHLGHSTSRWNPQNSRYIFGIREGIHIISLDITAAYLRRAAKVVEEVAARGGLILFAGTRPGQKRIVVRAAELSKGYHIFERWIPGSLTNGEQILGHCEKKVVNVLDEELPDLKESLADHAILKPDLVICLNPLENEPLLHECGLNNVPTIGIIDTDADPTRVTYPIPANDDSLRSVAVIAGVLGRAGQAGQKRRLEQAKKDLERKALHGDAGEVGSPQF*"
+     mRNA            5061..5249
+                     /label="ANIA_04251"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="transcript_id=CADANIAT00004405"
+                     /old_locus_tag="AN4251.4"
+     mRNA            5306..6204
+                     /label="ANIA_04251"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="transcript_id=CADANIAT00004405"
+                     /old_locus_tag="AN4251.4"
+     gene            complement(5728..6517)
+                     /label="ANIA_04250"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /old_locus_tag="AN4250.4"
+     mRNA            complement(5728..6412)
+                     /label="ANIA_04250"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="transcript_id=CADANIAT00004406"
+                     /old_locus_tag="AN4250.4"
+     CDS             complement(join(6382..6412,6464..6517))
+                     /label="ANIA_04250"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="transcript_id=CADANIAT00004406"
+                     /old_locus_tag="AN4250.4"
+                     /product="mitochondrial carrier protein (Ymc1), putative(AFU_orthologue; AFUA_1G06530)"
+                     /protein_id="CBF74391.1"
+                     /db_xref="EnsemblGenomes-Gn:CADANIAG00004406"
+                     /db_xref="EnsemblGenomes-Tr:CADANIAT00004406"
+                     /db_xref="GOA:C8V428"
+                     /db_xref="InterPro:IPR002067"
+                     /db_xref="InterPro:IPR018108"
+                     /db_xref="InterPro:IPR023395"
+                     /db_xref="UniProtKB/TrEMBL:C8V428"
+                     /translation="HWADPTQGYACFCGNIRCC*THHESSRL"
+     mRNA            complement(6464..6517)
+                     /label="ANIA_04250"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="transcript_id=CADANIAT00004406"
+                     /old_locus_tag="AN4250.4"
+ORIGIN
+        1 AACAAGGCAC ACAAGACGAT GGTATACACG CTCATTACCG CGTCCGGTAC GCCTACCCCC
+       61 TTGTGGCTCG GTTTATCATG CAAACGCGCC TTCGCAATCA CAGCGTAGCT GTATCCAAAG
+      121 AGTAGGATGA TGGCTAATGG TATAACAGGC ATATGCGGTG TGCTCACTGT CTACTCCATG
+      181 GTCTCCCTAA CACTATATAA CCGTCGCCAA CGCGCCCTAT GGATCGAGAA GGAAATGCAG
+      241 ACACTCCGCG ATGCCCAAGC GGCTTATGTG ACCGGAACAG CGACAGCGGA ACAACTGGAG
+      301 CTGTTGAAAA AGGAGAAGAT TGGCGAAATC TATAAGCAGA AGAAGGAGGA GGAGAGGGCT
+      361 CAACGGCCGT GGAACAAGGT CAAGAACTAC CTGCTGGGTG GACTGAAGAC CGAGGAGACT
+      421 GCGCCAGCGG GGGCTGCTGC GGTGGGCGCG GAAAACAATA AGCCCGGGGT TCTGGAAGCC
+      481 CTTAACGCCG CCGCGTCTAA GCCGGACCAG GCTCCCTCAA CCCCTAGCAC TGCGGCTCCC
+      541 GCTGCTCCGG GACAGTTAGA CGTCCTCGCT GAGAACGCAG AGGCAGCTGC CAAGCAGACA
+      601 ACGAAAAGCT GGACGAGTTG GCTCACTGGT CGGTGAGTTG GGAGCTCGGG CTTGAAAAGA
+      661 GACGAGACGA TTTGAAGATT CAAAAGTATA GATTGTGTCC CGGGCGTCCC ACCCGGGGTT
+      721 GCAGCCGGGA TCCCCGCCTC GACAGGGTTG TCTGTCTCGG GCTAGCCGTT TCCTTTTTGC
+      781 ATCGCATCCG GTGTCATCCT CTTTCACTTC GTTGTAGTTT ACTAAGTCAG GTTGTGGCGT
+      841 CCTCAGGTGT CTTTGAAGTT CGAACCTTGT ACTTAATACT GGGTCCGTTT TATGTGATGT
+      901 ACATATACAG TCTCTCATCT TGGTTAGGAA CTACTCTTTC AAGTAAAGAA TGCCTCGCGC
+      961 TGGTCAGAGC CGGAGCCAGA CCTGTAGGGC CGTAAGGCTG CCGGAAGTCG GCAAATCTCC
+     1021 CGAATCTCAA GCCTGGTAAT CTCGTTGCCT GCTGGACAAA TTCCGAGCTG GAGTCGGGAT
+     1081 CTCAGCCACT TCGAGAATTG ACGAAAATCT GATCACAAGT TATGCAGAGC TCTCCGAGCC
+     1141 CTGAACAGCT GATAATCAGG CAATATTACG TGGTAAATTA CGAATCAGAG GCGCAGCATA
+     1201 CTTCCATATT CGTCGCTTGT CAAGTCTGGC CTTTGGCTGG ATTGAGCGAA CTGAGCCACA
+     1261 GTAGCAGGCG GTGCAGGTGG GTGGCGCGGG GCATGTCACA GATATGTAAT GCACCCGGCA
+     1321 GCATCGCATC CGATCAACCT CAGGCTATCG CGTTGTGATC AGTGGAATAA TACTCTGTAA
+     1381 GACTTGCATA TGGCGTGAAA TATTGCCTCC CTCACTTGTG TAAGTGATGG AATCTTCTCT
+     1441 GAGATTACCA TATCCAGGAG GCAACTTGGC GATCTCGGGC TTGCAGTTGG TTGACGAGTT
+     1501 CGTCCGGCCC TCAGCCCTGC GAGTGAGGGG CGCAGTCAGC TCCACCAATC CACCGCCATC
+     1561 ATTGTAAAGA GAAAACGGCA GCCTAGGCAA GATTACGGAT CTACGCCCGC AGATTCAGGG
+     1621 CCGCTGAGTT GCCGCGCCTG TTTTATGACG GTATTCTGAT CTTGTATGGT CGGAATCCAG
+     1681 TCTCGGCGCT TGGTCAGTCC TTCTCCAGCG CTGGCGGGGT TGTTCACGAG TCGAGCTAAA
+     1741 CATCTTACCT TATAAAGGCC TGGGTCCCGC GGCTCAGAGC ATCTTTCTCT ACCCATCGAT
+     1801 CTCACTCTAC TTCATCTTAT CAACTACTCT TTCTCTGCAG ATTAAAGCTT TACATCACAT
+     1861 CTCACATTAC ACAATGTCTG GCCCCTACGA TCACAACCAG GGTTACTACA ACCCGAACCA
+     1921 GTATCAGCAG GGTTACTACC CTGAGCAGGG TCAGCAGTAC CAGGGCTATC AGCCGCAACA
+     1981 CAGCCAACAG TACGACCAGG GGTACCCTCA ACAGCACGGT CAGCCGTATG ATCAGGGCTA
+     2041 CCCCCAACAG CACCAACAGT ACGATAGCCA GCGTGGCACT TCCAACGACT ACTACGGCCA
+     2101 GCAGCCTCCT CAGCAAGGCT ACGATCAATA CGGCCAGCAC CAGCAGCAAC AGTATGTTTT
+     2161 ATTCTCGTCT TACGCAACGC AGCAGTAACT AACTGAATGG CAGGTATGGC CAGGAAGCTC
+     2221 CCGGCGGTGC TCAGGAAGGC GAACGTGGTC TTGGAGGAGC CGTTGCTGGT GGGTTAGCAG
+     2281 GGTGAGTTAC TGTCTATCTG CGCAACAAAC GAATTAACAA GGGCTAATCG ATTATTGTAC
+     2341 AACAGTGCTT TTGGAGGTCA CAAGGTCAAC CATGGAGTCC TCGGCGCGAT TGGTGGCGCG
+     2401 ATTGTCGGAA GTCTCGCACA GGATGCGCTA AAGAAGAAAG ACAAGCACAA GGATGAACCC
+     2461 TACTACGATC AGCACTCTCA GTACGGCGGT TCCCACCACT CTGGCCAATC TGGCCACTCT
+     2521 TCAAAGCTGG ACCAGCTCGG CAGCTTCTTC AAGAAATGAG CGATGAACAT TTGACACGGC
+     2581 CGCTTGACTT TCTTCTGTTA GTCCTATGAG GTTATGATTG TGGAATACCA TTACTCGCTT
+     2641 TTTTCTTTGT CTCTCTCGTC GTCTGAAGGG TTCTATCTGT CGCCTGGGCT GGTTAGAATG
+     2701 TTGGGACGGG GCACGGGTTT TTTTGTCTCT TGTACACGAT ACATTGTTAT GCATTTTTTT
+     2761 TATGATACCG ACGATTTTTC GATGCTGGAG AATGCTATTG TCTTAAACCC CATATCCCCG
+     2821 CAATCGACCA TTGTAAAAAA AGCAGAAGCT TCTTATTTAC ATCGAGCGAG TAGCGAGTAT
+     2881 CAGCTTCGTG ATCTCGTGCA CTGTAGAAAT CGAGGCTGAT CTTCTGATCA TAGTAGAAAT
+     2941 TTGAGATGAT CTTCTGATAA TCGATCGATC ACGAGCATGC CATGGGATCA ATGATCTGTT
+     3001 ATACACTCGG ATCACGGGAC TGATTATATG ATGGTTGATA GTCTATCATC AGACAAGCTA
+     3061 CTTAATTTTC TTTCCTTTTT TTTTTGTGTG TTGGCAAGCG TACCATATCC CATATTGCCT
+     3121 TCTTAAGCAT CCTAGCCAGT CTCATGCCCA ACTTCTACAA GCGGCCCAAT CATAATGAAC
+     3181 ACCTATTCCT TGGTCTGTTC GATACCGAGC TTAACAGTGC CATTTTCCAC AATACAGTGC
+     3241 GATCATGAAG ATGCCTGAGA TAAAATTGGG GCTACCAACT GATACTGATG TAGTTAAACG
+     3301 AGTCATGTAC CATACACTAA TTCAGTCCGA TGCAATAGGC AAATCATTCA GATATCAACA
+     3361 TATACTAGTG ATTTGACCAC AAGTACTTTT CAGACGTGCT GCAATGGTGG TATGCGTAAA
+     3421 TCGACCCTGA ATCCAGATGA AGGCTACTCA TGCAAACAGT GTCACATTTG CATTATCGAA
+     3481 AGGCCGATCC AGCGGTTCTA GGCGTAGATC AGAGTCAGAG TAAGGCTGAC ACGGCCCGCT
+     3541 ACCTAGTGTC CGATGTATCT GTTAGCTGTG TTAATGTCAA ACACACTAGT TGCAGCGGTG
+     3601 CATGGAGACA ATTGTTTCTA TTAACCTGTG TTTTGCTCTA GTGATGATGA AAGCAATCAG
+     3661 TACTCAGAGC ACGATGAACC TGCTCTTCGC TTGGCCGGTT GTTCGCCAGA ATGGAATGTG
+     3721 TCCGCTGAAA TTCCCCGTGG ACATATGGCC GTGGTAAGTT TTACGATGGT GATCGAGCAC
+     3781 ACTGCTGACG AATTGTCGTG GCAGTCGGAA CGACTGCAGC CGGGCACTAT GCGTTCAATC
+     3841 AGATGCGGTC CCTAGTTGTC AGTAGTACGG CAAGCCTAGA GACTTCTATC AACTGTCCAG
+     3901 TCGGGAAACC CTCACGGTGG AAACACGCAT GTTAGAGGCG CAAAGACTTG GTGTCAGTCG
+     3961 GCCGTCCATC CAACTTCTGG TGCGAGGGAC TTGCAGGCAT AGTCGGCAAC GAACACGCAC
+     4021 AGCTGAATAC GAGTAAACCT CAAGAAGAAA GCTACCCCAA ACAACGCGAC GGTTGGGAGA
+     4081 GTCTCTCGTA AATGCCCAGC GAAGCGCTGG GAGGAAAAGA AGAACCTCGC TCGTGGCCCC
+     4141 TTTTGATGCA ATGTGCCTCC GTCTCTGTGT TTCCAGTCTT CTCCTCAATT ACTCGGACGA
+     4201 TCTAGTCATT GATGGAGGAA ACGTTTCCAG TCGTGCAGTG ATAGAGGAAT TGCTTCAGAT
+     4261 CCATGGATTA CAGATCGTCA GACGACGACC TGCGTAAGAA AGGAGCGATT TGGTCAATTC
+     4321 TCCCATTCTA CCGTTCTACT ACCGAACTTT CCGACCTTTG CAGAGACGAC ACAGATTGCC
+     4381 TTTCTCAGGA TTCTGCAGTT GTCTCTCAAA TACATCGGCT TGAAGATTGG AGCACTGAAC
+     4441 CAAGGCCATA TCACATAAAC ATGGGCGTAC ACAACGGGAA AGGTTCCAAT TGACTTTCTA
+     4501 TATCAGGTCG GTTGCTTGTG TCCATAGGGC GAGACAGACT GCTTGCAGTA TTAAATAAGT
+     4561 AACCAAATTT TGGCGTAGGT TTCCACGTAT TACCCCGTCT TAGCCTGCTG GGAACTTGGG
+     4621 GTGTTGGATA AGTAGTTTGA ATAAGTAGCA GCAGAAAGCC ACTAAAGCGT GGGGGTCAAA
+     4681 GTAGAGTTCT AACGTACTCA ACGAGTGCCA ATTCAATCAG TGCAATCCAG TAACTATGCG
+     4741 ACTCAGGCTG ACTTAATACG TACCTGAGTT GCTGCCTGTC TTATGGTTAC GTGCGGAGTT
+     4801 GTCCGGGAGT GGTATTTTGA AGTAGATGGT AATAGGCCAG AACTGCTGCC TGAGGCATAA
+     4861 AAGTACCGTG CCAAGCCAGC ATCAAAAGTT CCGACGGAGA AAGAAACGAA CTCCTGCGAG
+     4921 AAAAGCCGTC GTCCTCATAC GCTCTTCAAC CATCCGCAAA GATGATTGTA AGGCAGCTCT
+     4981 ATGCGCGGCA GAGTATGTAC CCCTCTATTC CAATCGTTCA AAATATCTGA AGAATGCCAT
+     5041 GTTAAAATTC AATTGTCCAG GCCGCCAGCT CCTCGCTCTC AACCGCCAGG GCTACATCCC
+     5101 CAGAAGATTC TCGTCTACAG GAACAGAGAC ACCAACGCCG GTTGAGACAA TAGTCCACCG
+     5161 TTCTATCCCA GAGCCCGGCA CTCGGCAGAG CAGTGCTGCA TTGACAAACA ACCCTGCGGC
+     5221 CAAGGCACTC GCGCAGGAAG CTGAACAACG TATGTTGGAC CTCTGTCATT TCGCATCAAT
+     5281 AAGTCACTCA CCGATACCTG CCTAGGACAT AAATTCCAGC AACTCGGAAC GTCAGTTACG
+     5341 AATGTCTATA AACCAGAAAA CCTTATCCGC CACCCTCCCT TTCCCTCCGA CATCACCCTA
+     5401 GAACTCCTCC TCGCCAACCA AACCCACCTC GGCCACTCCA CCTCCCGCTG GAACCCTCAG
+     5461 AACTCGCGCT ACATCTTCGG TATTCGCGAG GGTATTCACA TCATCTCCCT CGATATCACA
+     5521 GCAGCCTACC TTCGCCGTGC CGCTAAGGTC GTCGAGGAAG TTGCCGCGCG TGGCGGTCTA
+     5581 ATCCTTTTCG CCGGCACACG ACCAGGCCAG AAGCGCATCG TCGTTCGTGC GGCAGAACTC
+     5641 TCGAAGGGTT ACCACATTTT CGAGCGCTGG ATTCCCGGAT CTCTCACAAA CGGCGAACAG
+     5701 ATCCTCGGTC ACTGCGAGAA GAAAGTTGTG AATGTGCTTG ATGAGGAGCT GCCGGATCTC
+     5761 AAGGAGTCAC TTGCTGACCA CGCCATTCTC AAACCGGACC TCGTCATTTG CCTCAACCCG
+     5821 CTGGAGAACG AGCCTTTGCT TCACGAGTGC GGGCTCAACA ATGTCCCTAC CATTGGAATA
+     5881 ATCGATACGG ATGCGGACCC CACGAGGGTG ACTTACCCAA TTCCCGCCAA TGATGACAGT
+     5941 CTGCGTTCCG TTGCTGTCAT CGCAGGTGTG CTGGGACGGG CTGGTCAGGC TGGTCAGAAG
+     6001 AGGAGGCTGG AGCAGGCTAA AAAGGATTTA GAGAGGAAAG CTCTGCACGG CGATGCAGGT
+     6061 GAGGTTGGAT CACCGCAATT CTAATCCTGG TGAAAGCTGG TTGTCTCTCA TCGTTTTTGT
+     6121 TTTGGGAATT GATATACGGC TTGTATGTAT AGATATTGTA TGGTCACTGT ATTAACAGAA
+     6181 TATATTCGGT AACTGCACTA CTCGTATTCT GGGATGTCAA ATCCGTTTTG TCTTGTCGTT
+     6241 CTATGTAGTA TTTGCAAACG AAGGAGGTAT AATGACAAGC AAGGCCATAG GATGAACTTT
+     6301 CCTTCAAAAC TTTTCCTCGT TGTTGAATAA GCCGTTGGGA TATCTAAACT GGAAAGAAAC
+     6361 CGTTCTATAT GCTGAGTGTA TCTAACCTAG AGCTCTCATG GTGAGTTCAA CACTATAGAA
+     6421 GTTAGCGCAA CCATAGTTGA CCGGTTTACG AGAGAAAACA TACACAGCGA ATGTTCCCGC
+     6481 AGAAACAGGC ATAGCCCTGA GTAGGGTCGG CCCAATG
+//

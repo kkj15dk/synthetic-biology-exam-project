@@ -1,0 +1,46 @@
+LOCUS       Aspergillus_costaricaen 1499 bp ds-DNA     linear       15-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:XM_025679726"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry:
+            XM_025679726 Description: Aspergillus costaricaensis CBS 115574
+            translation elongation factor (BO79DRAFT_174224), mRNA
+FEATURES             Location/Qualifiers
+     gene            1..1499
+                     /label="BO79DRAFT_174224 gene"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     source          1..1499
+                     /label="source"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     CDS             102..1484
+                     /label="BO79DRAFT_174224 CDS (translation elongation factor)"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+ORIGIN
+        1 cacctctacg cgttctggcc gtagtatctg agcaattttt tctacagacg ttttctatct
+       61 aattccaaaa aagaacttcg agttcattca caaccgtcat catgggtaag gaggacaaga
+      121 ctcacatcaa catcgtcgtt atcggccacg tcgattccgg caagtccacc accactggtc
+      181 acctgatcta caagtgcggt ggtatcgacc agcgtaccat cgagaagttc gagaaggaag
+      241 ccgccgagct cggtaagggt tccttcaagt acgcttgggt tcttgacaag ctcaagtccg
+      301 agcgtgagcg tggtatcacc atcgacattg ccctctggaa gttccagact ggcaagtatg
+      361 aggtcaccgt cattgacgcc cccggtcacc gtgacttcat caagaacatg atcactggta
+      421 cctcccaggc tgactgcgct atcctcatca ttgcctccgg tactggtgag ttcgaggctg
+      481 gtatctccaa ggatggccag actcgtgagc acgctctgct tgctttcacc ctcggtgtcc
+      541 gccagctcat cgttgccctc aacaagatgg acacctgcaa gtggtccgag gaccgttaca
+      601 acgaaatcgt caaggagacc tccaacttca tcaagaaggt cggatacaac cccaagggtg
+      661 ttcctttcgt ccccatctcc ggtttcaacg gtgacaacat gctcgagccc tcccccaact
+      721 gcccctggta caagggttgg gagaaggaga ccaaggccgg caaggtcact ggtaagaccc
+      781 tccttgaggc catcgacgcc atcgagcccc ccgtccgtcc ctccaacaag cccctccgtc
+      841 ttcccctcca ggatgtttac aagatctccg gtattggaac tgttcccgtc ggtcgtgtcg
+      901 agaccggtat cattgcccct ggtatggtcg tgaccttcgc tcccgccaac gtcaccactg
+      961 aagtcaagtc cgttgagatg caccaccagc agctcaagga gggtgtcccc ggtgacaacg
+     1021 ttggtttcaa cgtcaagaac gtttccgtca aggaggttcg ccgtggtaac gttgccggtg
+     1081 actccaagaa cgacccccct cttggctgtg agagcttcac cgcccaggtc atcgtcctca
+     1141 accaccccgg tcaggtcggc gctggttacg ctcccgtcct ggactgccac actgctcaca
+     1201 ttgcttgcaa gttcgctgag ctccttgaga agattgaccg ccgtaccgga aagtctgttg
+     1261 aatctgcccc caagttcatc aagtccggtg acgctgccat cgtcaagatg attccctcca
+     1321 agcccatgtg tgttgaggct ttcactgact acccccctct tggtcgtttc gccgtccgcg
+     1381 acatgagaca gacagttgcg gttggagtca tcaaggctgt tgagaagaag gagggtggtt
+     1441 ctggcaaggt caccaaggcc gcccagaagg ccggtaagaa ataagctggt gcagggtga
+//

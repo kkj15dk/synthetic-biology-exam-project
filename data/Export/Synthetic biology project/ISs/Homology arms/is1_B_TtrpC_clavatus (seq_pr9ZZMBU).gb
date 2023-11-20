@@ -1,0 +1,107 @@
+LOCUS       is1_B_TtrpC_clavatus    1598 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  .
+KEYWORDS    "creator:SnapGene License" "marker:AmpR"
+FEATURES             Location/Qualifiers
+     gene            1..151
+                     /label="ACLA_022380"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: ACLA_022380"
+     mRNA            1..151
+                     /label="ACLA_022380"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: ACLA_022380"
+     terminator      1..539
+                     /label="TtrpC_clavatus"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             2..151
+                     /label="CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 transl_table: 1 translation: DPTNVFDIVRKLGESGRKVVGIDVSSGVESDGSQDPAKIRAFVQAVKSI*"
+     misc_feature    540..1598
+                     /label="DW_homology_arm"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: DW_homology_arm note: /feature_type=Homology arm"
+     Protospacer     552..552
+                     /label="Protospacer"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /note="label: Protospacer"
+     primer_bind     complement(552..569)
+                     /label="PR_JB_0002 (mismatches: 14)"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: PR_JB_0002 (mismatches: 14) note: Primer:acgcgaUCgcaCgcattCTTACACAGACCAGCAATCATCAAAC note: Number of mismatches: 14 note: Number of other hits on chro1_anid_int1: 0 note: Primer binding region: complement(3740..3782)"
+     primer_bind     552..573
+                     /label="PR_JB_0003 (mismatches: 8)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: PR_JB_0003 (mismatches: 8) note: Primer: aTcGcgUGcaTtcGCGGTTGATTGAGTCGAGATAG note: Number of mismatches: 8 note: Number of other matches on chro1_anid_int1: 0 note: Primer binding region: 3752..3786"
+     PAM             553..555
+                     /label="PAM"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: PAM"
+     CDS             797..1306
+                     /label="jgi.p|Aspnid1|4695"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4695 note: /ID=CDS_4695 note: /Parent=mRNA_4695 note: /frame=[2698843..2699352: 0, 2699424..2700201: 0,2700254..2700438: 2, 2700491..2700925: 0] note: /source=prediction transl_table: 1 translation: MYSLRCAGKCPAQRRKSHGLGSVGQPSIPPSQRLSRPFFFSPSPFLPTRRFLSSPSDINWVLQSQSYLCVLSLLFTMSASSALRRLTHRSPRNLQSRIASLSRTSCSPSSTFNSYRASSSPALPRASRFSTMASLRSAAPIPASSQVDYDPEIKDMADYIHNYKIDSDLA,,FDTARLVLLDTLGCGLEALKFKECTKLLGPVVDGTVVPNGTRVPGTPYQLDPVNGAFNIGAMIRWLDYN"
+     gene            797..1584
+                     /label="gene"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: gene note: /ID=gene_4695 note: /Name=jgi.p|Aspnid1|4695 note: /portal_id=Aspnid1 note: /proteinId=4695 note: /score=0 note: /source=prediction note: /transcriptId=4875"
+     misc_feature    797..1584
+                     /label="AN6639"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: AN6639"
+     CDS             1307..1377
+                     /label="jgi.p|Aspnid1|4695"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4695 note: /ID=CDS_4695 note: /Parent=mRNA_4695 note: /frame=[2698843..2699352: 0, 2699424..2700201: 0,2700254..2700438: 2, 2700491..2700925: 0] note: /source=prediction transl_table: 1 translation: MYSLRCAGKCPAQRRKSHGLGSVGQPSIPPSQRLSRPFFFSPSPFLPTRRFLSSPSDINWVLQSQSYLCVLSLLFTMSASSALRRLTHRSPRNLQSRIASLSRTSCSPSSTFNSYRASSSPALPRASRFSTMASLRSAAPIPASSQVDYDPEIKDMADYIHNYKIDSDLA,,FDTARLVLLDTLGCGLEALKFKECTKLLGPVVDGTVVPNGTRVPGTPYQLDPVNGAFNIGAMIRWLDYN"
+     CDS             1378..1584
+                     /label="jgi.p|Aspnid1|4695"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4695 note: /ID=CDS_4695 note: /Parent=mRNA_4695 note: /frame=[2698843..2699352: 0, 2699424..2700201: 0,2700254..2700438: 2, 2700491..2700925: 0] note: /source=prediction transl_table: 1 translation: MYSLRCAGKCPAQRRKSHGLGSVGQPSIPPSQRLSRPFFFSPSPFLPTRRFLSSPSDINWVLQSQSYLCVLSLLFTMSASSALRRLTHRSPRNLQSRIASLSRTSCSPSSTFNSYRASSSPALPRASRFSTMASLRSAAPIPASSQVDYDPEIKDMADYIHNYKIDSDLA,,FDTARLVLLDTLGCGLEALKFKECTKLLGPVVDGTVVPNGTRVPGTPYQLDPVNGAFNIGAMIRWLDYN"
+     primer_bind     complement(1566..1584)
+                     /label="PR_JB_0004 (mismatches: 9)"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: PR_JB_0004 (mismatches: 9) note: Primer: ggtcttaauATTGTAATCGAGCCAGCGG note: Number of mismatches: 9 note: Number of other hits on chro1_anid_int1: 0 note: Primer binding region: complement(4779..4806)"
+ORIGIN
+        1 ggaccctacc aacgttttcg acatcgtccg gaagttgggt gagtctgggc gcaaggttgt
+       61 cggcatagat gtcagctctg gtgtggagtc tgatggctca caagatcctg ccaaaatccg
+      121 tgcttttgtg caagccgtga aatccatcta attgtgagga gaaggagttt tgttgactct
+      181 cagtcctcgg taaaaatctc tgtgacatat cttcgatgat gactttttat gactaggaat
+      241 ctgattttca agattccaat tcgcaccatc ttttttcggg tttcagtttc gggttacttt
+      301 cacctcattt acgtgttgtt gataaagcgc acggctcatc ttctatttag accattggag
+      361 actcatagca atcttaatca atgatcattt cccggtcacc ctactatcaa attttatggc
+      421 tctggggttt tctacctgct tatagataca actcctttct atggcgatga aacaccaaac
+      481 tctcgcaccc cttaacacca tcataagaac ctaacacccc aactgcgtgc cttaaaggcA
+      541 ggcttctatc tGCGGTTGAT TGAGTCGAGA TAGTCGAGAT GGCCGGGTCA TAGGAACGCT
+      601 GGAGTGGTAG ATGCGGGGTA CGGTGGGAAG CGCCATCTGG GGCACCCGTT GACCAGCTTG
+      661 GAAGGGCCGA AAAGCGCTAC AATCACTAAA GAGCACATTA AGGCGAGTCC GATTCAAAGG
+      721 ACGTAAAGCA GCTTGAGCAA GATGCCAAAT TCCGAGATCG GATGGTAAAA TCACCGAGTG
+      781 TAACCGGCGA GCAGCTATGT ACTCCTTACG GTGTGCGGGT AAATGCCCGG CCCAGAGGCG
+      841 TAAAAGCCAC GGCCTCGGCT CAGTCGGCCA ACCGTCAATC CCTCCCTCCC AGAGACTCAG
+      901 CCGACCCTTC TTCTTCTCTC CCTCTCCCTT CCTTCCGACC AGGCGATTTC TTTCTTCTCC
+      961 TTCTGACATC AATTGGGTAT TGCAATCTCA ATCCTATCTC TGTGTCCTTT CTCTTCTCTT
+     1021 CACTATGTCT GCCTCTTCAG CGCTGAGACG GCTGACCCAC AGGTCTCCCC GCAATCTCCA
+     1081 GTCCCGCATC GCTTCGCTCT CCCGCACCTC TTGTTCCCCT TCGTCGACGT TCAACTCCTA
+     1141 CAGAGCTTCT TCATCTCCTG CTTTACCTCG TGCTTCGAGA TTCTCAACAA TGGCTTCTCT
+     1201 ACGATCGGCG GCGCCAATTC CCGCGTCCTC CCAAGTGGAC TATGATCCTG AAATCAAGGA
+     1261 CATGGCCGAC TACATCCACA ACTACAAGAT CGACTCTGAT CTCGCGGTAT GAGCTCCAAT
+     1321 TGAGAACCCA ATTATGGATT GATGGGGTAA TACGCAATTG GTACTGATTA AATACAGTTC
+     1381 GACACCGCCC GCCTGGTTCT CCTTGATACT CTTGGATGTG GTCTGGAAGC TCTGAAGTTC
+     1441 AAGGAGTGCA CCAAGCTCCT TGGACCGGTT GTTGATGGCA CTGTCGTTCC TAACGGCACT
+     1501 CGCGTTCCTG GTACTCCCTA CCAGCTAGAC CCTGTAAATG GTGCCTTCAA CATCGGTGCA
+     1561 ATGATCCGCT GGCTCGATTA CAATATTAAG TCCTCAGC
+//

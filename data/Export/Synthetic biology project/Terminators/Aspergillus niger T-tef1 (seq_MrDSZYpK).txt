@@ -1,0 +1,2 @@
+Aspergillus niger T-tef1
+accession: OR540301.1

@@ -1,0 +1,135 @@
+LOCUS       NW_020290817-brunneovio 3310 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  Aspergillus brunneoviolaceus CBS 621.78 unplaced genomic scaffold
+            BO95scaffold_87, whole genome shotgun sequence.
+ACCESSION   NW_020290817 REGION: 99763..106546
+VERSION     NW_020290817.1  GI:1419095839
+SOURCE      Aspergillus brunneoviolaceus CBS 621.78
+  ORGANISM  Aspergillus brunneoviolaceus CBS 621.78 Eukaryota; Fungi; Dikarya;
+            Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiomycetidae;
+            Eurotiales; Aspergillaceae; Aspergillus.
+FEATURES             Location/Qualifiers
+     source          1..3310
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /organism="Aspergillus brunneoviolaceus CBS 621.78"
+                     /mol_type="genomic DNA"
+                     /strain="CBS 621.78"
+                     /culture_collection="CBS:621.78"
+                     /type_material="type material of Aspergillusbrunneoviolaceus"
+                     /db_xref="taxon:1450534"
+                     /chromosome="Unknown"
+     mRNA            1..86
+                     /label="BO95DRAFT_447363"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /product="anthranilate synthase multifunctional proteintrpC"
+                     /transcript_id="XM_025587602.1"
+                     /db_xref="GeneID:37089149"
+     gene            1..2610
+                     /label="BO95DRAFT_447363"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /db_xref="GeneID:37089149"
+     mRNA            187..2610
+                     /label="BO95DRAFT_447363"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /product="anthranilate synthase multifunctional proteintrpC"
+                     /transcript_id="XM_025587602.1"
+                     /db_xref="GeneID:37089149"
+     CDS             198..2507
+                     /label="BO95DRAFT_447363"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="N-anthranilate isomerase; anthranilate synthasemultifunctional protein trpC-aspergillus niger"
+                     /product="anthranilate synthase multifunctional proteintrpC"
+                     /protein_id="XP_025437509.1"
+                     /db_xref="GI:1419092250"
+                     /db_xref="GeneID:37089149"
+                     /db_xref="InterPro:IPR000991"
+                     /db_xref="InterPro:IPR001240"
+                     /db_xref="InterPro:IPR013798"
+                     /db_xref="JGIDB:Aspbru1_447363"
+                     /translation="MASSDLVDHSPHHPTQAAQLNSASNVILIDNYDSFTWNVYQYLVLEGATVNVYRNDQITIEELIAKNPTQLVISPGPGHPETDAGISIAAIKHFGGKIPIFGVCMGQQCMITCFGGKVDVTGEILHGKTSPLKHDGKGCYEGLPAKLDVTRYHSLAGTHSTVPDCLEVSSYVHLANDNANDKTIIMGVRHKQFAIEGVQFHPESILTENGRTMFRNFLKLTAGTWEGNGKHFNEHKTVVSSAPSAAAPKTDKKKSILDKIYDHRKAAVAVQKTIPSQRPTDLQAAYDLNLAPPQVSFPDRLRKSPYHLSLMAEIKRASPSKGMIAEHACAPAQARQYAKAGASVISVLTEPEWFKGSIDDLRAVRQSLEGFTNRPAILRKEFVFDEYQILEARLAGADTVLLIVKMLSTELLTKLYKYSRSLGMEPLVEVNNPEEMKIAVDLGAQVIGVNNRDLTSFEVDLGTTSRLMDQVPSSTIVCALSGISGPKDVEAYKKDGVKAILVGEALMRAADTSAFVAELLGGSDKSVEAKIQSSPLVKICGTRSEEAAKAAIEAGADLIGIIMVQGRKRLVPDDVALRISQVVKTTPKPASQSSQTPDAAAVDYFDHSASILRHPNRALLVGVFQNQPLEYILSQQQKLELDVVQLHGSEPLEWARSIPVPVIRKFGLDEPAIARRSYHTLPLLDSGAGGSGELLDQLRVERVLESDSGLRVILAGGLDPTNVVETIQRLGKSSAKVVGVDVSSGIESDGAQDLEKIRAFVKAVKNLHA*"
+     mRNA            3051..3310
+                     /label="BO95DRAFT_485810"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /product="BRCT domain protein"
+                     /transcript_id="XM_025590428.1"
+                     /db_xref="GeneID:37091975"
+     gene            3051..3310
+                     /label="BO95DRAFT_485810"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /db_xref="GeneID:37091975"
+     CDS             3173..3310
+                     /label="BO95DRAFT_485810"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /product="BRCT domain protein"
+                     /protein_id="XP_025437510.1"
+                     /db_xref="GI:1419092252"
+                     /db_xref="GeneID:37091975"
+                     /db_xref="InterPro:IPR001357"
+                     /db_xref="JGIDB:Aspbru1_485810"
+                     /translation="MGKTFHKIHASSAGKFPKDGDKIPQWIRANGGEYHSTITPQVTHLI"
+ORIGIN
+        1 aggggatgtg cgattgcttg cggttacaca acaactcact tcgttctctc gcaacactgc
+       61 tcggagggtt tcgtcaactc tgggaggtga gttggtccta gatctctctc tgttctttct
+      121 tcctctgtgt tgtcttcatt tgatctttcc attcattcta atctgtcttc cactctctca
+      181 atccagatat agcgaacatg gcgagctccg atctcgttga tcattccccc caccatccta
+      241 cccaggctgc ccaactcaac agcgcgtcga atgtcatcct tatcgacaac tatgactcct
+      301 tcacttggaa tgtctatcag tacctggttc tcgaaggtgc gactgtgaat gtctaccgta
+      361 acgatcaaat cactatcgag gaacttatcg ccaaaaaccc gacgcagctc gtgatcagcc
+      421 cgggtcctgg ccaccccgag accgatgccg gtataagtat cgctgcaatc aagcacttcg
+      481 gcggcaagat ccccattttc ggagtgtgca tgggccagca atgtatgatc acttgctttg
+      541 gaggaaaagt cgacgttacc ggcgagattt tgcatggcaa gacatcccct ctgaagcacg
+      601 atggcaaagg ctgctacgaa gggttgcctg ctaagctcga tgtcacccgg taccactctc
+      661 tggctggaac tcattcgact gttcctgact gcctggaggt ctcctcttac gtgcatctgg
+      721 ccaacgacaa tgccaacgac aagaccatta tcatgggcgt gcgacacaag caattcgcta
+      781 tcgagggtgt tcagttccac cctgaaagta ttcttacgga gaatggacga actatgttca
+      841 gaaatttcct gaagcttacg gcaggcacct gggaaggaaa tgggaagcac ttcaatgagc
+      901 acaagaccgt ggtttcctct gcgccttcgg ctgccgcccc gaagaccgat aagaagaagt
+      961 ctatccttga caagatctat gaccaccgca aagctgccgt ggctgtgcag aagactattc
+     1021 cttcgcagcg gccaaccgac ttgcaagctg cttacgacct caaccttgcc ccccctcagg
+     1081 tgtccttccc cgaccgcctt agaaaatccc cttatcatct gtccctcatg gcggagatta
+     1141 agcgggcttc tccttccaaa ggcatgattg ccgagcatgc atgtgcgcca gcccaggctc
+     1201 ggcaatacgc gaaggctgga gccagtgtca tttccgtcct taccgagcct gaatggttca
+     1261 agggcagcat tgatgacttg cgcgctgttc gtcaaagcct ggaaggcttc accaacaggc
+     1321 ctgctatcct tcgcaaagaa tttgtctttg acgaatacca gattttggaa gcgcgattgg
+     1381 ctggtgccga tacagttttg ctcattgtga agatgctcag taccgagctt cttacaaaac
+     1441 tgtacaaata ttcccgcagt ctcggaatgg aaccactagt tgaagtcaac aacccggagg
+     1501 agatgaagat tgcagtggat ttgggagcgc aggtcattgg tgtcaacaac cgtgacctga
+     1561 ctagctttga ggtcgatctc ggaaccacaa gccgactgat ggaccaagtt ccttccagca
+     1621 ccattgtctg cgcgctgagt ggcatttctg ggcctaaaga cgtggaagct tacaagaaag
+     1681 acggcgtcaa agcgatcctg gtcggtgagg ctttgatgcg agcggcggac acgtctgcat
+     1741 ttgttgcaga attgctcggt ggcagtgata agagcgttga ggctaagatc cagagctctc
+     1801 cacttgtgaa gatctgtggc acgcgatctg aggaagcggc aaaggccgcc atcgaggctg
+     1861 gcgctgatct aattggtatt attatggtac aaggaaggaa acgacttgtt ccggatgacg
+     1921 ttgcattgcg gatctcacag gttgtcaaga ccacacctaa gcccgccagc cagtccagcc
+     1981 aaacacctga cgcagcagct gtggactact ttgatcactc tgcttcgatt ttgcgtcatc
+     2041 ccaaccgggc tctgctcgtg ggtgtattcc aaaaccagcc attagagtac atcttgtctc
+     2101 agcaacagaa gctggaactt gatgtcgttc aattgcacgg ctctgagccg ctcgagtggg
+     2161 ctaggtcaat tcccgtccct gttattcgca aatttggtct cgacgagccc gcaattgccc
+     2221 ggagatctta ccacacgttg cccctactag actctggagc tggtggatct ggtgagctct
+     2281 tggatcaatt acgtgtcgag cgagttttgg agagcgacag cggtctacgt gtcattcttg
+     2341 ctggaggtct ggatcctaca aatgtcgttg agacgatcca aaggctcggc aagtccagcg
+     2401 ctaaggtggt gggcgtggac gtcagctctg gcatcgagtc cgacggcgca caggatctgg
+     2461 aaaagatccg cgcctttgtt aaggctgtca agaaccttca tgcatgatct ggtctggtca
+     2521 ctataatata tttatactat gagacaacca attggttcac atcaatatca ttcttacttc
+     2581 cgggtcattt caattcgtat actcttggca ataggacacc agcggtgttc tggttgtgat
+     2641 taaatatatt cacatagctg tcacctcata acaattgatt ctcaaattaa ctgttcacct
+     2701 tttgtcactg tctttccatt acatggaatg gaaaagggca acctttgact tgggttgaat
+     2761 atacgtgctt acccctactc tatatccatg ttaatgaatt atttatcttc ttcacatgca
+     2821 tacatcacca tcttgtgagg tttatctcaa tcttcgggtt ctgacaatat cctctcgggc
+     2881 cttggccaca tcgtaattgc ctgatggtcg aacttagggc caaccatacc cagatctcta
+     2941 ctcatatagt cttgatttat ctctacctcc cacttcaata tcctactcat tgatctcctg
+     3001 gttgatattt ctcctcttct ttctcctcat ttacatactc tcctctgctt tcaaatcacc
+     3061 agagagccaa tataacttca ctttgctatc tccttcatgt tcctgcctct gatgcactga
+     3121 accctcccat cctaactcct tccacccaca acacctcaaa cagcccgaaa tcatgggcaa
+     3181 gacattccac aagatccacg ccagctcagc gggcaaattt cccaaagacg gagacaaaat
+     3241 cccgcaatgg atccgcgcca acggaggcga ataccattcg actatcaccc cgcaagtgac
+     3301 tcatctcatc
+//

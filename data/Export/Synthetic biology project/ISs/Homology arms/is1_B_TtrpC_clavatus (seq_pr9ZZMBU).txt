@@ -1,0 +1,3 @@
+is1_B_TtrpC_clavatus
+creator: SnapGene License
+marker: AmpR

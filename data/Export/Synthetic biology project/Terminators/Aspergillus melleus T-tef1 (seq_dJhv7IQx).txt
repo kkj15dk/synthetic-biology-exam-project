@@ -1,0 +1,2 @@
+Aspergillus melleus T-tef1
+accession: XM_046082245

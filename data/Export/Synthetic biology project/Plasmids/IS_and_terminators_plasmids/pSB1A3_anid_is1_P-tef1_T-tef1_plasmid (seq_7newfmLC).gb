@@ -1,0 +1,279 @@
+LOCUS       pSB1A3_anid_is1_P-tef1_ 6071 bp ds-DNA     circular     20-NOV-2023
+DEFINITION  .
+KEYWORDS    "creator:SnapGene License" "marker:USER, USER, USER, AmpR"
+FEATURES             Location/Qualifiers
+     primer_bind     13..31
+                     /label="PR_JB_0001 (mismatches: 9)"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: PR_JB_0001 (mismatches: 9) note: Primer: gggtttaauCCCCCGTGTCAAACCTTCT note: Number of mismatches: 9 note: Number of other matches on chro1_anid_int1: 0 note: Primer binding region: 2789..2816"
+     CDS             13..293
+                     /label="jgi.p|Aspnid1|4694"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4694 note: /ID=CDS_4694 note: /Parent=mRNA_4694 note: /frame=[2696605..2697911: 0, 2697966..2698372: 1,2698437..2698570: 2] note: /source=prediction transl_table: 1 translation: PPCQTFSPAHTIPGPNDDANSAAIFSCWDLIRKAKPRVHTMEETSGLFDRHQQVFLRVICDFIETGYSVRWALLNCMWYGVPQSRKRLIIIASG,,PGESLPRLPRPTHGLPGSGLRDLTTISQAIRDIPTGSPDHDVVAARGRGVHNRRAPFDGNRQARTITCGGGDNYHPSGLRGFTLREFACLQTFPLGFRFLGGRTQVKRQIGNAVPPLLAKAVFKEIIRSLQDTDE,,PAGLQNAVQPWRPRRAIGSDNTLDNGKRLSLFSAKTDSSGRSSN*"
+     gene            13..952
+                     /label="gene"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: gene note: /ID=gene_4694 note: /Name=jgi.p|Aspnid1|4694 note: /portal_id=Aspnid1 note: /proteinId=4694 note: /score=0 note: /source=prediction note: /transcriptId=4874"
+     misc_feature    13..952
+                     /label="AN6638"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: AN6638"
+     misc_feature    complement(13..971)
+                     /label="Homology _arm"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: Homology _arm note: /feature_type=Homology arm"
+     CDS             294..347
+                     /label="jgi.p|Aspnid1|4694"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4694 note: /ID=CDS_4694 note: /Parent=mRNA_4694 note: /frame=[2696605..2697911: 0, 2697966..2698372: 1,2698437..2698570: 2] note: /source=prediction transl_table: 1 translation: PPCQTFSPAHTIPGPNDDANSAAIFSCWDLIRKAKPRVHTMEETSGLFDRHQQVFLRVICDFIETGYSVRWALLNCMWYGVPQSRKRLIIIASG,,PGESLPRLPRPTHGLPGSGLRDLTTISQAIRDIPTGSPDHDVVAARGRGVHNRRAPFDGNRQARTITCGGGDNYHPSGLRGFTLREFACLQTFPLGFRFLGGRTQVKRQIGNAVPPLLAKAVFKEIIRSLQDTDE,,PAGLQNAVQPWRPRRAIGSDNTLDNGKRLSLFSAKTDSSGRSSN*"
+     CDS             348..754
+                     /label="jgi.p|Aspnid1|4694"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4694 note: /ID=CDS_4694 note: /Parent=mRNA_4694 note: /frame=[2696605..2697911: 0, 2697966..2698372: 1,2698437..2698570: 2] note: /source=prediction transl_table: 1 translation: PPCQTFSPAHTIPGPNDDANSAAIFSCWDLIRKAKPRVHTMEETSGLFDRHQQVFLRVICDFIETGYSVRWALLNCMWYGVPQSRKRLIIIASG,,PGESLPRLPRPTHGLPGSGLRDLTTISQAIRDIPTGSPDHDVVAARGRGVHNRRAPFDGNRQARTITCGGGDNYHPSGLRGFTLREFACLQTFPLGFRFLGGRTQVKRQIGNAVPPLLAKAVFKEIIRSLQDTDE,,PAGLQNAVQPWRPRRAIGSDNTLDNGKRLSLFSAKTDSSGRSSN*"
+     CDS             755..818
+                     /label="jgi.p|Aspnid1|4694"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4694 note: /ID=CDS_4694 note: /Parent=mRNA_4694 note: /frame=[2696605..2697911: 0, 2697966..2698372: 1,2698437..2698570: 2] note: /source=prediction transl_table: 1 translation: PPCQTFSPAHTIPGPNDDANSAAIFSCWDLIRKAKPRVHTMEETSGLFDRHQQVFLRVICDFIETGYSVRWALLNCMWYGVPQSRKRLIIIASG,,PGESLPRLPRPTHGLPGSGLRDLTTISQAIRDIPTGSPDHDVVAARGRGVHNRRAPFDGNRQARTITCGGGDNYHPSGLRGFTLREFACLQTFPLGFRFLGGRTQVKRQIGNAVPPLLAKAVFKEIIRSLQDTDE,,PAGLQNAVQPWRPRRAIGSDNTLDNGKRLSLFSAKTDSSGRSSN*"
+     CDS             819..952
+                     /label="jgi.p|Aspnid1|4694"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4694 note: /ID=CDS_4694 note: /Parent=mRNA_4694 note: /frame=[2696605..2697911: 0, 2697966..2698372: 1,2698437..2698570: 2] note: /source=prediction transl_table: 1 translation: PPCQTFSPAHTIPGPNDDANSAAIFSCWDLIRKAKPRVHTMEETSGLFDRHQQVFLRVICDFIETGYSVRWALLNCMWYGVPQSRKRLIIIASG,,PGESLPRLPRPTHGLPGSGLRDLTTISQAIRDIPTGSPDHDVVAARGRGVHNRRAPFDGNRQARTITCGGGDNYHPSGLRGFTLREFACLQTFPLGFRFLGGRTQVKRQIGNAVPPLLAKAVFKEIIRSLQDTDE,,PAGLQNAVQPWRPRRAIGSDNTLDNGKRLSLFSAKTDSSGRSSN*"
+     primer_bind     complement(955..971)
+                     /label="PR_JB_0002 (mismatches: 14)"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: PR_JB_0002 (mismatches: 14) note: Primer:acgcgaUCgcaCgcattCTTACACAGACCAGCAATCATCAAAC note: Number of mismatches: 14 note: Number of other hits on chro1_anid_int1: 0 note: Primer binding region: complement(3740..3782)"
+     Protospacer     961..971
+                     /label="Protospacer"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /note="label: Protospacer"
+     misc_feature    963..971
+                     /label="USER"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     primer_bind     967..971
+                     /label="PR_JB_0003 (mismatches: 8)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: PR_JB_0003 (mismatches: 8) note: Primer: aTcGcgUGcaTtcGCGGTTGATTGAGTCGAGATAG note: Number of mismatches: 8 note: Number of other matches on chro1_anid_int1: 0 note: Primer binding region: 3752..3786"
+     gene            980..2458
+                     /label="P168DRAFT_268930 gene"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: P168DRAFT_268930 gene"
+     CDS             1078..2458
+                     /label="P168DRAFT_268930 CDS (translation elongation fa"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: P168DRAFT_268930 CDS (translation elongation factor)"
+     misc_feature    2452..2458
+                     /label="USER"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    2459..2906
+                     /label="T-tef1"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    2898..2906
+                     /label="USER"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    complement(2909..2910)
+                     /label="Homology _arm"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: Homology _arm note: /feature_type=Homology arm"
+     Protospacer     2909..2911
+                     /label="Protospacer"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /note="label: Protospacer"
+     primer_bind     complement(2909..2928)
+                     /label="PR_JB_0002 (mismatches: 14)"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: PR_JB_0002 (mismatches: 14) note: Primer:acgcgaUCgcaCgcattCTTACACAGACCAGCAATCATCAAAC note: Number of mismatches: 14 note: Number of other hits on chro1_anid_int1: 0 note: Primer binding region: complement(3740..3782)"
+     primer_bind     2909..2932
+                     /label="PR_JB_0003 (mismatches: 8)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: PR_JB_0003 (mismatches: 8) note: Primer: aTcGcgUGcaTtcGCGGTTGATTGAGTCGAGATAG note: Number of mismatches: 8 note: Number of other matches on chro1_anid_int1: 0 note: Primer binding region: 3752..3786"
+     misc_feature    2911..3943
+                     /label="DW_homology_arm"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: DW_homology_arm note: /feature_type=Homology arm"
+     PAM             2912..2914
+                     /label="PAM"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: PAM"
+     CDS             3156..3665
+                     /label="jgi.p|Aspnid1|4695"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4695 note: /ID=CDS_4695 note: /Parent=mRNA_4695 note: /frame=[2698843..2699352: 0, 2699424..2700201: 0,2700254..2700438: 2, 2700491..2700925: 0] note: /source=prediction transl_table: 1 translation: MYSLRCAGKCPAQRRKSHGLGSVGQPSIPPSQRLSRPFFFSPSPFLPTRRFLSSPSDINWVLQSQSYLCVLSLLFTMSASSALRRLTHRSPRNLQSRIASLSRTSCSPSSTFNSYRASSSPALPRASRFSTMASLRSAAPIPASSQVDYDPEIKDMADYIHNYKIDSDLA,,FDTARLVLLDTLGCGLEALKFKECTKLLGPVVDGTVVPNGTRVPGTPYQLDPVNGAFNIGAMIRWLDYN"
+     gene            3156..3943
+                     /label="gene"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: gene note: /ID=gene_4695 note: /Name=jgi.p|Aspnid1|4695 note: /portal_id=Aspnid1 note: /proteinId=4695 note: /score=0 note: /source=prediction note: /transcriptId=4875"
+     misc_feature    3156..3943
+                     /label="AN6639"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: AN6639"
+     CDS             3666..3736
+                     /label="jgi.p|Aspnid1|4695"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4695 note: /ID=CDS_4695 note: /Parent=mRNA_4695 note: /frame=[2698843..2699352: 0, 2699424..2700201: 0,2700254..2700438: 2, 2700491..2700925: 0] note: /source=prediction transl_table: 1 translation: MYSLRCAGKCPAQRRKSHGLGSVGQPSIPPSQRLSRPFFFSPSPFLPTRRFLSSPSDINWVLQSQSYLCVLSLLFTMSASSALRRLTHRSPRNLQSRIASLSRTSCSPSSTFNSYRASSSPALPRASRFSTMASLRSAAPIPASSQVDYDPEIKDMADYIHNYKIDSDLA,,FDTARLVLLDTLGCGLEALKFKECTKLLGPVVDGTVVPNGTRVPGTPYQLDPVNGAFNIGAMIRWLDYN"
+     CDS             3737..3943
+                     /label="jgi.p|Aspnid1|4695"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4695 note: /ID=CDS_4695 note: /Parent=mRNA_4695 note: /frame=[2698843..2699352: 0, 2699424..2700201: 0,2700254..2700438: 2, 2700491..2700925: 0] note: /source=prediction transl_table: 1 translation: MYSLRCAGKCPAQRRKSHGLGSVGQPSIPPSQRLSRPFFFSPSPFLPTRRFLSSPSDINWVLQSQSYLCVLSLLFTMSASSALRRLTHRSPRNLQSRIASLSRTSCSPSSTFNSYRASSSPALPRASRFSTMASLRSAAPIPASSQVDYDPEIKDMADYIHNYKIDSDLA,,FDTARLVLLDTLGCGLEALKFKECTKLLGPVVDGTVVPNGTRVPGTPYQLDPVNGAFNIGAMIRWLDYN"
+     primer_bind     complement(3925..3943)
+                     /label="PR_JB_0004 (mismatches: 9)"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: PR_JB_0004 (mismatches: 9) note: Primer: ggtcttaauATTGTAATCGAGCCAGCGG note: Number of mismatches: 9 note: Number of other hits on chro1_anid_int1: 0 note: Primer binding region: complement(4779..4806)"
+     terminator      3958..4015
+                     /label="his operon terminator"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="note: This putative transcriptin terminator from the E. coli his operon has a 2-bp deletion introduced during synthesis. Its efficiency has not been determined."
+     rep_origin      complement(4211..4798)
+                     /label="ori"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="direction: LEFT note: high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+     CDS             complement(4969..5829)
+                     /label="AmpR"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="codon_start: 1 note: β-lactamase transl_table: 1 translation: MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYIELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGASLIKHW*"
+     promoter        complement(5830..5934)
+                     /label="AmpR promoter"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="gene: bla"
+     terminator      complement(6024..6067)
+                     /label="bacterial terminator"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="note: putative bacterial transcription terminator"
+ORIGIN
+        1 TGAGGGTTTA ATCCCCCGTG TCAAACCTTC TCGCCTGCTC ACACAATCCC AGGGCCCAAT
+       61 GATGATGCCA ACTCAGCAGC TATATTCTCA TGCTGGGACC TCATTCGTAA AGCAAAACCG
+      121 AGAGTTCATA CCATGGAAGA AACGAGCGGT CTGTTCGATC GGCATCAACA AGTGTTCCTC
+      181 CGGGTTATCT GTGATTTCAT AGAGACAGGG TACTCCGTCC GATGGGCCCT TCTTAATTGT
+      241 ATGTGGTATG GGGTGCCACA GTCTCGAAAG AGATTGATTA TCATTGCGTC AGGGTATGCG
+      301 TGCTCAAGAT TCGATGCTGA CTCATGACTA ACATCGGTCC TTTTTAGGCC TGGGGAAAGC
+      361 CTCCCACGGC TGCCAAGGCC TACTCATGGC CTGCCAGGGT CCGGGCTGCG TGATCTTACA
+      421 ACAATCAGCC AGGCAATTCG CGATATCCCC ACTGGAAGTC CCGATCACGA CGTCGTTGCC
+      481 GCACGGGGTC GCGGAGTTCA TAATCGAAGA GCTCCATTCG ACGGAAACCG ACAAGCTCGC
+      541 ACAATAACAT GCGGCGGTGG GGACAATTAT CATCCCTCTG GATTGCGCGG TTTTACCCTC
+      601 AGGGAGTTTG CTTGTCTGCA AACCTTTCCT CTGGGCTTTC GGTTCCTGGG CGGTAGGACG
+      661 CAGGTAAAGA GGCAGATCGG CAATGCAGTG CCTCCCCTAC TGGCCAAAGC TGTCTTTAAG
+      721 GAAATCATCA GGTCGCTGCA AGACACCGAT GAGCGTGAAT TGCACGAAAA CCAATGATCG
+      781 CCATTAGGGT CCTGAGGAAC CACATGCTCT GGACCTAGCC GCGGGATTGC AGAACGCCGT
+      841 CCAACCGTGG AGACCTCGGC GAGCGATCGG AAGCGATAAC ACGCTGGACA ACGGGAAGAG
+      901 GCTCAGTCTG TTCTCAGCCA AGACAGATAG TAGTGGCAGA TCTTCCAATT GAACGTTTGA
+      961 TGATTGCTGG TCTGTGTAAc tttttgttca gcacctctac gcgttaagcc gtagtatctg
+     1021 agcattctcc gagaccttta tttcttttaa taaaagttca tcacatctac cttcacaatg
+     1081 ggtaaggacg acaagactca tcttaacatc gtcgttatcg gccacgtcga ttccggcaag
+     1141 tcgaccacca ctggtcactt gatctacaag tgtggtggta tcgaccagcg taccatcgag
+     1201 aagttcgaga aggaagccgc cgagcttggc aagggttcct tcaagtacgc ctgggtgctg
+     1261 gacaagctga agtccgagcg tgagcgtggt atcaccatcg atatcgccct ctggaagttc
+     1321 ggtaccgcca agtatgaggt caccgtcatc gatgcccccg gtcatcgtga cttcatcaag
+     1381 aacatgatca ctggtacctc ccaggccgat tgcgccattc tcatcattgg ctccggtact
+     1441 ggtgagttcg aggctggtat ctccaaggat ggccagaccc gtgagcacgc tctgcttgcc
+     1501 ttcaccctcg gtgtgaagca gctcatcgtt gccctcaaca agatggacac ctgcaagtgg
+     1561 tccgaggacc gttacaacga gatcgtcaag gagaccacca acttcatcaa gaaggtcggc
+     1621 tacaacccca aggccgtccc cttcgtcccc atctccggct tcaacggcga caacatgctc
+     1681 gagccctctc ccaactgccc ctggtacaag ggatgggaga aggagggcaa gtccggcaag
+     1741 gtcaccggta agaccctgct ggaggccatc gatgccatcg aggcccccgt ccgtcccgcc
+     1801 aacaagcccc tccgtctgcc cctgcaggat gtgtacaaga tctccggtat cggcacagtt
+     1861 cccgtcggcc gtgtcgagac tggtgtcatc agccccggta tggtcgttac cttcgccccc
+     1921 gccaacgtga ccactgaggt caagtccgtc gagatgcacc accagcagct caaggagggt
+     1981 ctccccggtg acaacgtcgg cttcaacgtc aagaacgtct ccgtcaagga ggtccgccgt
+     2041 ggcaacgtcg ccggtgactc caagaacgac ccccccagcg gctgtgacaa cttcaccgcc
+     2101 caggtcatcg tcctgaacca ccccggtcag gtcggcgccg gctacgcccc cgtgctggat
+     2161 tgccacactg cccacattgc ctgcaagttc gccgagctgc agcagaagat cgaccgccgt
+     2221 accggtaagg ccaccgagga gaaccccaag ttcatcaagt ccggtgatgc cgccatcgtc
+     2281 aagatgattc cctccaagcc catgtgtgtt gaggccttca cctcctaccc ccctctgggt
+     2341 cgtttcgccg tccgtgacat gcgccagacc gttgccgtcg gtgtcgtcaa ggctgtcgag
+     2401 aaggccaccg ccgcctccgg caaggtcacc aaggccgccc agaaggccgg cAagaaatAA
+     2461 cactggtacc tcccaggctg actgcgctat cctcatcatt gcctccggta ctggtgagtt
+     2521 cgaggctggt atctccaagg atggccagac tcgtgagcac gctctgcttg ctttcaccct
+     2581 cggtgtccgt cagctcattg ttgccctcaa caagatggac acctgcaagt ggtccgagga
+     2641 ccgttacaac gaaatcgtta aggagacctc caacttcatc aagaaggtcg gctacaaccc
+     2701 caagggtgtt cctttcgtcc ccatctccgg tttcaacggt gacaacatgc tcgagccctc
+     2761 ccccaactgc ccctggtaca agggttggga gaaggagacc aaggccggca aggtcaccgg
+     2821 taagaccctc ctcgaggcca tcgacgccat cgagcccccc gtccgtccct ccaacaagcc
+     2881 cctccgtctt cccctccAgg atgtctacaa GCGGTTGATT GAGTCGAGAT AGTCGAGATG
+     2941 GCCGGGTCAT AGGAACGCTG GAGTGGTAGA TGCGGGGTAC GGTGGGAAGC GCCATCTGGG
+     3001 GCACCCGTTG ACCAGCTTGG AAGGGCCGAA AAGCGCTACA ATCACTAAAG AGCACATTAA
+     3061 GGCGAGTCCG ATTCAAAGGA CGTAAAGCAG CTTGAGCAAG ATGCCAAATT CCGAGATCGG
+     3121 ATGGTAAAAT CACCGAGTGT AACCGGCGAG CAGCTATGTA CTCCTTACGG TGTGCGGGTA
+     3181 AATGCCCGGC CCAGAGGCGT AAAAGCCACG GCCTCGGCTC AGTCGGCCAA CCGTCAATCC
+     3241 CTCCCTCCCA GAGACTCAGC CGACCCTTCT TCTTCTCTCC CTCTCCCTTC CTTCCGACCA
+     3301 GGCGATTTCT TTCTTCTCCT TCTGACATCA ATTGGGTATT GCAATCTCAA TCCTATCTCT
+     3361 GTGTCCTTTC TCTTCTCTTC ACTATGTCTG CCTCTTCAGC GCTGAGACGG CTGACCCACA
+     3421 GGTCTCCCCG CAATCTCCAG TCCCGCATCG CTTCGCTCTC CCGCACCTCT TGTTCCCCTT
+     3481 CGTCGACGTT CAACTCCTAC AGAGCTTCTT CATCTCCTGC TTTACCTCGT GCTTCGAGAT
+     3541 TCTCAACAAT GGCTTCTCTA CGATCGGCGG CGCCAATTCC CGCGTCCTCC CAAGTGGACT
+     3601 ATGATCCTGA AATCAAGGAC ATGGCCGACT ACATCCACAA CTACAAGATC GACTCTGATC
+     3661 TCGCGGTATG AGCTCCAATT GAGAACCCAA TTATGGATTG ATGGGGTAAT ACGCAATTGG
+     3721 TACTGATTAA ATACAGTTCG ACACCGCCCG CCTGGTTCTC CTTGATACTC TTGGATGTGG
+     3781 TCTGGAAGCT CTGAAGTTCA AGGAGTGCAC CAAGCTCCTT GGACCGGTTG TTGATGGCAC
+     3841 TGTCGTTCCT AACGGCACTC GCGTTCCTGG TACTCCCTAC CAGCTAGACC CTGTAAATGG
+     3901 TGCCTTCAAC ATCGGTGCAA TGATCCGCTG GCTCGATTAC AATATTAAGT CCTCAGCtcc
+     3961 ggcaaaaaag ggcaaggtgt caccaccctg ccctttttct ttaaaaccga aaagattact
+     4021 tcgcgttatg caggcttcct cgctcactga ctcgctgcgc tcggtcgttc ggctgcggcg
+     4081 agcggtatca gctcactcaa aggcggtaat acggttatcc acagaatcag gggataacgc
+     4141 aggaaagaac atgtgagcaa aaggccagca aaaggccagg aaccgtaaaa aggccgcgtt
+     4201 gctggcgttt ttccacaggc tccgcccccc tgacgagcat cacaaaaatc gacgctcaag
+     4261 tcagaggtgg cgaaacccga caggactata aagataccag gcgtttcccc ctggaagctc
+     4321 cctcgtgcgc tctcctgttc cgaccctgcc gcttaccgga tacctgtccg cctttctccc
+     4381 ttcgggaagc gtggcgcttt ctcatagctc acgctgtagg tatctcagtt cggtgtaggt
+     4441 cgttcgctcc aagctgggct gtgtgcacga accccccgtt cagcccgacc gctgcgcctt
+     4501 atccggtaac tatcgtcttg agtccaaccc ggtaagacac gacttatcgc cactggcagc
+     4561 agccactggt aacaggatta gcagagcgag gtatgtaggc ggtgctacag agttcttgaa
+     4621 gtggtggcct aactacggct acactagaag aacagtattt ggtatctgcg ctctgctgaa
+     4681 gccagttacc ttcggaaaaa gagttggtag ctcttgatcc ggcaaacaaa ccaccgctgg
+     4741 tagcggtggt ttttttgttt gcaagcagca gattacgcgc agaaaaaaag gatctcaaga
+     4801 agatcctttg atcttttcta cggggtctga cgctcagtgg aacgaaaact cacgttaagg
+     4861 gattttggtc atgagattat caaaaaggat cttcacctag atccttttaa attaaaaatg
+     4921 aagttttaaa tcaatctaaa gtatatatga gtaaacttgg tctgacagtt accaatgctt
+     4981 aatcagtgag gcacctatct cagcgatctg tctatttcgt tcatccatag ttgcctgact
+     5041 ccccgtcgtg tagataacta cgatacggga gggcttacca tctggcccca gtgctgcaat
+     5101 gataccgcga gacccacgct caccggctcc agatttatca gcaataaacc agccagccgg
+     5161 aagggccgag cgcagaagtg gtcctgcaac tttatccgcc tccatccagt ctattaattg
+     5221 ttgccgggaa gctagagtaa gtagttcgcc agttaatagt ttgcgcaacg ttgttgccat
+     5281 tgctacaggc atcgtggtgt cacgctcgtc gtttggtatg gcttcattca gctccggttc
+     5341 ccaacgatca aggcgagtta catgatcccc catgttgtgc aaaaaagcgg ttagctcctt
+     5401 cggtcctccg atcgttgtca gaagtaagtt ggccgcagtg ttatcactca tggttatggc
+     5461 agcactgcat aattctctta ctgtcatgcc atccgtaaga tgcttttctg tgactggtga
+     5521 gtactcaacc aagtcattct gagaatagtg tatgcggcga ccgagttgct cttgcccggc
+     5581 gtcaatacgg gataataccg cgccacatag cagaacttta aaagtgctca tcattggaaa
+     5641 acgttcttcg gggcgaaaac tctcaaggat cttaccgctg ttgagatcca gttcgatata
+     5701 acccactcgt gcacccaact gatcttcagc atcttttact ttcaccagcg tttctgggtg
+     5761 agcaaaaaca ggaaggcaaa atgccgcaaa aaagggaata agggcgacac ggaaatgttg
+     5821 aatactcata ctcttccttt ttcaatatta ttgaagcatt tatcagggtt attgtctcat
+     5881 gagcggatac atatttgaat gtatttagaa aaataaacaa ataggggttc cgcgcacatt
+     5941 tccccgaaaa gtgccacctg acgtctaaga aaccattatt atcatgacat taacctataa
+     6001 aaataggcgt atcacgaggc agaatttcag ataaaaaaaa tccttagctt tcgctaagga
+     6061 tgatttctgG C
+//

@@ -1,0 +1,52 @@
+LOCUS       Aspergillus_vadensis_CB 1851 bp ds-DNA     linear       15-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:XM_025702074"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry:
+            XM_025702074 Description: Aspergillus vadensis CBS 113365
+            translation elongation factor (BO88DRAFT_232724), mRNA
+FEATURES             Location/Qualifiers
+     gene            1..1851
+                     /label="BO88DRAFT_232724 gene"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     source          1..1851
+                     /label="source"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     CDS             135..1517
+                     /label="BO88DRAFT_232724 CDS (translation elongation factor)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+ORIGIN
+        1 ttttcctttc cctttcctcc ctcgtccgct tcacacctct acgcgttctg gccgtagtat
+       61 ctgagcaatt ttttctacag actttttcta tctaattcca aaaaagaact tcgagttcat
+      121 tcacaaccgt catcatgggt aaggaggaca agactcacat caacatcgtc gttatcggcc
+      181 acgtcgattc cggcaagtcc accaccactg gtcacctgat ctacaagtgc ggtggtatcg
+      241 accagcgtac catcgagaag ttcgagaagg aagccgctga gctcggtaag ggttccttca
+      301 agtacgcttg ggttcttgac aagctcaagt ccgagcgtga gcgtggtatc accatcgaca
+      361 ttgccctctg gaagttccag accggcaagt atgaggtcac cgtcattgac gcccccggtc
+      421 accgtgactt catcaagaac atgatcactg gtacctccca ggctgactgc gctatcctca
+      481 tcattgcctc cggtactggt gagttcgagg ctggtatctc caaggatggc cagactcgtg
+      541 agcacgctct gcttgctttc accctcggtg tccgccagct catcgttgcc ctcaacaaga
+      601 tggacacctg caagtggtcc gaggaccgtt acaacgaaat cgttaaggag acctccaact
+      661 tcatcaagaa ggtcggatac aaccccaagg gtgttccttt cgtccccatc tccggtttca
+      721 acggtgacaa catgctcgag ccctccccca actgcccctg gtacaagggt tgggagaagg
+      781 agaccaaggc cggcaaggtc accggtaaga ccctccttga ggccatcgac gccattgagc
+      841 cccccgtccg tccctccaac aagcccctcc gtcttcccct ccaggatgtc tacaagatct
+      901 ccggtattgg aactgttccc gtcggtcgtg tcgagaccgg tatcattgcc cctggtatgg
+      961 tcgtgacctt cgctcccgcc aacgtcacca ctgaagtcaa gtccgttgag atgcaccacc
+     1021 agcagctcaa ggagggtgtc cccggtgaca acgttggttt caacgtcaag aacgtttccg
+     1081 tcaaggaggt tcgccgtggt aacgttgccg gtgactccaa gaacgacccc cctcttggct
+     1141 gtgagagctt caccgcccag gtcatcgtcc tcaaccaccc cggtcaggtc ggcgctggtt
+     1201 acgctcccgt cctggactgc cacactgctc acattgcttg caagttcgct gagctccttg
+     1261 agaagattga ccgccgtacc ggaaagtctg ttgaatctgc ccccaagttc atcaagtccg
+     1321 gtgacgctgc catcgtcaag atgattccct ccaagcccat gtgtgttgag gctttcactg
+     1381 actacccccc tcttggtcgt ttcgccgtcc gcgacatgag acagactgtt gcggtaggag
+     1441 tcatcaaggc tgttgagaag aaggagggtg gttctggcaa ggtcaccaag gccgcccaga
+     1501 aggccggtaa gaaataagct ggtgcagggt gaaaatggca tgatgaacct ttgatgatca
+     1561 aacaaaacaa tggaattacg gaattagact ttaagtttat gtagttgatc ctacaaaact
+     1621 tgaattacga ctcgtttcgt tcatttggct cgcatcgtag gcaatttgta gagttttccg
+     1681 ttttcggctt catgaagctg aagtagtaga tatttctata tcgagatctt agtaatctgt
+     1741 catcggtaga tgactaatca tacttcaacc aatcacagtg cttctgattc gacgtccccc
+     1801 gcagtgtaga acttcgacaa acaagccata ttaactctct tgatacatgt t
+//

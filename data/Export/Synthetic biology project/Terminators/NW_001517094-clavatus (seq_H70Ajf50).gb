@@ -1,0 +1,247 @@
+LOCUS       NW_001517094-clavatus   5966 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  Aspergillus clavatus NRRL 1 1099423829805 genomic scaffold, whole
+            genome shotgun sequence.
+ACCESSION   NW_001517094 REGION: 1269631..1275596
+VERSION     NW_001517094.1  GI:121703498
+SOURCE      Aspergillus clavatus NRRL 1
+  ORGANISM  Aspergillus clavatus NRRL 1 Eukaryota; Fungi; Dikarya; Ascomycota;
+            Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales;
+            Aspergillaceae; Aspergillus; Aspergillus subgen. Fumigati.
+COMMENT     Imported using the Genbank importer. File name:
+            NW_001517094.1[1269631..1275596]-clavatus.flat PROVISIONAL REFSEQ:
+            This record has not yet been subject to final NCBI review. The
+            reference sequence is identical to DS027059.
+            ##Genome-Annotation-Data-START## Annotation Provider :: INSDC
+            submitter Annotation Status   :: Full annotation Annotation
+            Pipeline :: Eukaryotic Annotation Propagation Pipeline
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..5966
+                     /label="source"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /organism="Aspergillus clavatus NRRL 1"
+                     /mol_type="genomic DNA"
+                     /strain="NRRL 1"
+                     /type_material="culture from type material of Aspergillusclavatus"
+                     /db_xref="taxon:344612"
+                     /chromosome="Unknown"
+     mRNA            complement(1..227)
+                     /label="ACLA_022370"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="transcript ACLA_022370A"
+                     /product="nucleoporin (Nup184), putative"
+                     /transcript_id="XM_001268948.1"
+                     /db_xref="GeneID:4701250"
+     CDS             complement(join(1..227,287..1223,1283..1350))
+                     /label="ACLA_022370"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="encoded by transcript ACLA_022370A;predicted by EVM2"
+                     /product="nucleoporin (Nup184), putative"
+                     /protein_id="XP_001268949.1"
+                     /db_xref="GI:121701369"
+                     /db_xref="GeneID:4701250"
+                     /translation="MAPVPEAYFPSLDKCFSGDVQLLSWRRAFIYTCAPDNNADDNGALYAFLSHPESTRLLSNCLSPFSSPSAKTKSDFDSKTAAIHSETTAQASYDLKEIKADALWLSQKAGIDEITALRITVLEWQDRPAARLLGRFTEEETTSLQSAAGVDNLRASLASPALIEALRQKTDNDSDFTSEENRRLRLGDLYLSERSHLLKTARKLLALSFHNNPQDAAAPPAQHVSDRIESLSKLGTTIFGEKLAGDQWRSFVQACIKAIQDRLAALEGDGGWLGVAESSEAVEILWRTALVEEVLHVIQMLFLQLQASVEIPTAELLLSWLRLMLDYSFLESVQVPCQDPLEVLLPLQAFVALTTLAFLRLPLAIPSIIDKSTPPTPSSKSPYFLSKDEIGQLNEIFVTAGLESKTANPA"
+     gene            complement(1..1350)
+                     /label="ACLA_022370"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /db_xref="GeneID:4701250"
+     mRNA            complement(287..1223)
+                     /label="ACLA_022370"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="transcript ACLA_022370A"
+                     /product="nucleoporin (Nup184), putative"
+                     /transcript_id="XM_001268948.1"
+                     /db_xref="GeneID:4701250"
+     mRNA            complement(1283..1350)
+                     /label="ACLA_022370"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="transcript ACLA_022370A"
+                     /product="nucleoporin (Nup184), putative"
+                     /transcript_id="XM_001268948.1"
+                     /db_xref="GeneID:4701250"
+     mRNA            1838..4132
+                     /label="ACLA_022380"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="transcript ACLA_022380A"
+                     /product="anthranilate synthase multifunctional proteinTrpC, putative"
+                     /transcript_id="XM_001268949.1"
+                     /db_xref="GeneID:4701519"
+     gene            1838..4132
+                     /label="ACLA_022380"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /db_xref="GeneID:4701519"
+     CDS             1838..4132
+                     /label="ACLA_022380"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="encoded by transcript ACLA_022380A;predicted by EVM2"
+                     /product="anthranilate synthase multifunctional proteinTrpC, putative"
+                     /protein_id="XP_001268950.1"
+                     /db_xref="GI:121701371"
+                     /db_xref="GeneID:4701519"
+                     /translation="MTGSDLVDHSPRHPTKAAQLASASNVILIDNYDSFTWNVYQYLVLEGATVTVFRNDQITLEELISKNPTQLVISPGPGHPETDAGISNAAIQHFGGKIPVFGVCMGQQCMITSFGGKVDVTGEILHGKTSVLKHDGRGVYEGLPSSLEVTRYHSLAGTHATVPDCLEVTSSVQLNDGSGKDIIMGVRHKQFAVEGVQFHPESILTEYGRTMFRNFLKLTAGTWEGNGKTPSAPAKVNGTSTGVDKKISILEKIYDHRRAAVAAQRLIPSQRFEDLQAAYNLSIAPPQISFPARLRQSPYPLSLMAEIKRASPSKGMIAETACAPAQARQYAKAGASVISVLTEPEWFKGSIDDLRAVRQSLEGLTHRPAVLRKEFIFDEYQILEARLAGADTVLLIVKMLSVELLIRLYKYSRSLGMEPLVEVNTPEEMKIAVDLGAEVIGVNNRDLTSFEVDLATTSRLMDQVPDSTIVCALSGISGPKDVEAYKKDGVKAILVGEALMRASDTSAFVAELLGGRTEGNSKTAQIPRLVKICGTRSEEGARAAVEAGADLVGVILVEGRKRCVSDQVALRIAQVVKSTQRPDSLPASASQETSSSTSSDFFDWSTKILRHPTRALLVGVFQNQPLAYVLEKQRILGLDVVQLHGEEPIEWANLIPVPVIRKFSLGEPGIARRAYHNLPLLDSGAGGSGELLDQSRVQKVLDSDAGLRVILAGGLDPTNVFDIVRKLGESGRKVVGIDVSSGVESDGSQDPAKIRAFVQAVKSI*"
+     mRNA            4598..4772
+                     /label="ACLA_022390"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="transcript ACLA_022390A"
+                     /product="BRCT domain protein"
+                     /transcript_id="XM_001268950.1"
+                     /db_xref="GeneID:4701648"
+     CDS             join(4598..4772,4838..5035,5106..5153,5216..5319,5363..5791)
+                     /label="ACLA_022390"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="encoded by transcript ACLA_022390A;predicted by EVM2"
+                     /product="BRCT domain protein"
+                     /protein_id="XP_001268951.1"
+                     /db_xref="GI:121701373"
+                     /db_xref="GeneID:4701648"
+                     /translation="MGKTLQKIHGCAAGKFGKDGDKIPQWIRANGGTFSKDVTDRVTHLVTTKEAFEKNVEQVQKAKCLGTVKVVTLAWLEDSLLSKSRKPKPEKPYLLETVSAKKEKKQRRAAKVQKREVDTKDKRTASKDPFANTSKPRSAASNYHVYVDEGTGVNFSTTINRQLHQKKSREKYQVKTAMSKHLCFHHKLSTPQVYESNKAPHKYATHCKYSRVGKSTNEFLAPLGSDLGSALAAFRSFLIEKTGKEWVQRFDGNPVPLKVDDDGKELPAHENWFQYEDGRSILSRFLGQGDTSTPVASSEVQQVECNSIASQPGHTRL*"
+     gene            4598..5791
+                     /label="ACLA_022390"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /db_xref="GeneID:4701648"
+     mRNA            4838..5035
+                     /label="ACLA_022390"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="transcript ACLA_022390A"
+                     /product="BRCT domain protein"
+                     /transcript_id="XM_001268950.1"
+                     /db_xref="GeneID:4701648"
+     mRNA            5106..5153
+                     /label="ACLA_022390"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="transcript ACLA_022390A"
+                     /product="BRCT domain protein"
+                     /transcript_id="XM_001268950.1"
+                     /db_xref="GeneID:4701648"
+     mRNA            5216..5319
+                     /label="ACLA_022390"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="transcript ACLA_022390A"
+                     /product="BRCT domain protein"
+                     /transcript_id="XM_001268950.1"
+                     /db_xref="GeneID:4701648"
+     mRNA            5363..5791
+                     /label="ACLA_022390"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="transcript ACLA_022390A"
+                     /product="BRCT domain protein"
+                     /transcript_id="XM_001268950.1"
+                     /db_xref="GeneID:4701648"
+ORIGIN
+        1 gatgcaggat tcgcagtttt tgattctaac ccagcagtca caaatatttc attcaattgg
+       61 ccgatttcat ccttagaaag gaaataaggc gacttggaag atggtgttgg gggcgtagac
+      121 ttatcgatta ttgaagggat agcgagaggt aacctcagga aggcaagcgt tgttaatgcg
+      181 acaaaagcct gcagcggaag cagcacttct aatggatcct ggcagggctg tgaagcggtc
+      241 agtcattgag agaacctgcg gacaaaaagg gccaaggcaa actcaccact tgaactgatt
+      301 cgagaaaact atagtcgagc atgagacgaa gccaggaaag tagaagctca gcagtaggaa
+      361 tctccacaga cgcctggagc tgaaggaaca gcatttgtat aacgtgcaaa acctcctcta
+      421 caagggcagt cctccacaaa atctccactg cctcgctgct ctcagcaacc cccaaccagc
+      481 ccccgtctcc ttccagtgca gcaagtcgat cctgaattgc cttgatacag gcctgcacaa
+      541 aagaacgcca ttgatcgcca gcaagcttct cgccgaagat agtcgtgcct agcttgctta
+      601 aggattcaat gcgatcgctg acgtgctgag cgggaggagc ggctgcatct tgaggattgt
+      661 tatggaaaga cagagcgagg agtttgcggg ctgtcttcaa caagtgactt ctctcagaga
+      721 gataaagatc acctagtctc agtcgcctgt tttcctcgga tgtgaaatcg gagtcattat
+      781 cagtcttctg tcgcagagcc tcgatcaaag caggcgatgc aagcgaggca cgcaaattgt
+      841 caactccggc agcgctctgt aagcttgttg tctcctcttc ggtaaatctg cctaatagtc
+      901 gcgcagccgg gcgatcctgc cattccaaga ctgtgattcg cagagcggtg atctcatcta
+      961 ttccagcttt ttgactcaac catagtgcgt cggctttgat ttctttcagg tcatatgaag
+     1021 cttgcgcagt cgtttctgaa tgtatcgcag cggttttgga gtcgaaatct gactttgttt
+     1081 tcgcggatgg ggaagaaaag ggacttaggc aattcgagag caagcgagtg ctttccgggt
+     1141 gggacagaaa cgcatatagc gcgccattgt cgtcagcgtt attatcgggg gcacaggtat
+     1201 agatgaaggc cctcctccaa gatctatcgg atactgtatt aatattgatt gcttcacagt
+     1261 tcacatgggt aaatgcgcat acagaagctg gacgtccccg gagaagcact tgtccaggga
+     1321 cgggaaatag gcttccggga cgggagccat tgggcgggac tattatatca ttatatggta
+     1381 tcagaaagat cctatgtgaa gccggttcct aaagggaacg agggttgcag agatttgtcg
+     1441 tctcgtgaag atcaaaagaa gcacaaagct tgagctcaag gcgggccgtc cagaatatta
+     1501 ttgaaggagc cttttggctg gaggtcaaca atgaatacct gtttaggcct agtgcgaggc
+     1561 ggtgaggcag agtttttgca ccgtttgcca aaaattctcg attaggaaag cgatccgcct
+     1621 gtcggaatcg gaggactttc tgtgagtcaa acaaaagacc caaatattgg actgttacac
+     1681 aagcagagtg cgcctttcgt agctcaactc aagctgaacc ctggcaggtg agtttctttc
+     1741 gatctgtcct ttcttccaac ctgttcagtt ctgacaattc ctctttcgcc tacatagtga
+     1801 agacgacctc gactcttttc tgctcaaaat cacagccatg acgggctccg atctcgtcga
+     1861 ccattctccc cgccatccca ccaaagccgc gcagttggcc agcgcctcga atgttattct
+     1921 catcgataac tacgactctt tcacctggaa tgtgtatcaa tatctcgtcc tagagggagc
+     1981 cactgttacg gtttttcgca atgaccaaat aactctggaa gaattgatct cgaagaatcc
+     2041 gactcagctg gtcattagcc ctgggcccgg tcatcccgag acggatgctg gaatcagcaa
+     2101 tgctgcgatc cagcatttcg gcggcaagat tcctgtgttc ggtgtatgca tggggcagca
+     2161 gtgcatgatt acatcctttg gtgggaaggt cgatgtcact ggtgaaatct tgcacggcaa
+     2221 gacatcagtt ctgaagcatg atggcagggg tgtctatgaa ggccttccct cctcgcttga
+     2281 ggtgacaaga tatcactcgc tggcaggaac ccatgcaact gttccagact gcctggaggt
+     2341 gacatcttct gtccagttga acgatggtag cggcaaagat atcatcatgg gtgtaaggca
+     2401 caaacagttt gcagtggaag gggtccagtt tcacccggag agcatcctca cagagtatgg
+     2461 tcgtaccatg ttcaggaact tcttgaagct tactgcggga acttgggaag gaaatggcaa
+     2521 aacaccctct gctccggcca aagtgaacgg cacctccacc ggagtcgata agaagatctc
+     2581 tattctagaa aagatctacg atcatcgcag agcagctgta gctgctcaac ggctgattcc
+     2641 atcgcaacgg tttgaagacc ttcaggctgc atacaacctc agcattgctc caccgcaaat
+     2701 atcgttccct gctcgtctca gacagtcacc ctatccgcta tcgttgatgg cagagatcaa
+     2761 acgtgcctct ccatccaagg gcatgattgc cgagacggct tgtgctcctg cccaagccag
+     2821 gcaatatgct aaggcaggag ctagcgttat ttctgtcctc accgagcctg aatggttcaa
+     2881 aggtagcatc gatgacctgc gagctgtccg ccaaagcctg gaagggttga ctcacaggcc
+     2941 tgctgttctc cggaaagagt tcatatttga cgaatatcaa atactggagg cccgtttggc
+     3001 tggtgcagat accgtactac tgatcgtgaa gatgcttagc gtcgagcttc tcattagact
+     3061 ctacaaatat tctcgtagtc ttgggatgga gcctcttgtt gaagtgaaca cccctgagga
+     3121 gatgaagatt gctgttgacc tgggtgctga ggtgattggt gtcaacaaca gggatctcac
+     3181 aagcttcgag gtcgatctcg ccaccaccag ccgattgatg gaccaggtgc ccgacagtac
+     3241 cattgtttgt gctctaagtg gtatttcagg gccaaaggat gtcgaagctt acaaaaagga
+     3301 tggcgtcaag gcaattcttg tcggggaggc actgatgcgg gcttcggata catctgcttt
+     3361 tgtcgccgaa ctccttggcg gaagaacaga aggcaattcc aaaacggcac aaatcccacg
+     3421 cttggtcaag atttgtggaa ctcgctccga ggagggagcg cgagcggcag tggaagctgg
+     3481 tgcagatttg gtcggcgtca tcctcgtcga aggtcgtaaa cgttgtgttt ctgaccaggt
+     3541 cgctctgcgc attgctcaag tagtgaagtc gacgcagcgt cctgacagcc tgcctgcctc
+     3601 tgcgtcacaa gaaacatcga gttctacttc ctccgacttc ttcgattggt ccaccaagat
+     3661 tctccgccat cccactcgag ccttgcttgt gggtgtgttc caaaatcaac cactagcata
+     3721 cgtactagaa aagcagcgaa ttctaggtct ggatgtcgta cagttgcacg gcgaagaacc
+     3781 cattgagtgg gccaatctca ttccagtgcc tgttattcgc aagttctctt tgggcgaacc
+     3841 tggtatcgcg cgcagagcgt atcacaacct tccgttactg gattctgggg caggtggctc
+     3901 tggtgaactt cttgatcaat cccgcgtgca gaaagttctt gacagcgatg ctggtttgcg
+     3961 agtcattctt gctggtggct tggaccctac caacgttttc gacatcgtcc ggaagttggg
+     4021 tgagtctggg cgcaaggttg tcggcataga tgtcagctct ggtgtggagt ctgatggctc
+     4081 acaagatcct gccaaaatcc gtgcttttgt gcaagccgtg aaatccatct aattgtgagg
+     4141 agaaggagtt ttgttgactc tcagtcctcg gtaaaaatct ctgtgacata tcttcgatga
+     4201 tgacttttta tgactaggaa tctgattttc aagattccaa ttcgcaccat cttttttcgg
+     4261 gtttcagttt cgggttactt tcacctcatt tacgtgttgt tgataaagcg cacggctcat
+     4321 cttctattta gaccattgga gactcatagc aatcttaatc aatgatcatt tcccggtcac
+     4381 cctactatca aattttatgg ctctggggtt ttctacctgc ttatagatac aactcctttc
+     4441 tatggcgatg aaacaccaaa ctctcgcacc ccttaacacc atcataagaa cctaacaccc
+     4501 caactgcgtg ccttaaaggc aggcttctat ctcgtttctt ttctctctcc tttctcctct
+     4561 ctctttctct acgctgttcc aaaagcgctc tcctgagatg gggaagactc tccaaaagat
+     4621 ccacggctgc gctgctggta agttcggcaa ggacggagac aagatcccac aatggatacg
+     4681 tgccaatgga gggaccttct cgaaagacgt tacagaccgg gtaacacact tggtcacaac
+     4741 gaaggaagcc tttgagaaga acgtggaaca aggtttggct tctcctgttc tctcccagaa
+     4801 tcgatcgtac aatctgctga cggaaacccc tgaacagtcc aaaaggccaa atgcttgggc
+     4861 accgtcaagg tagtgaccct tgcatggctt gaagactctc tgctgtcgaa gagccggaag
+     4921 ccgaagccgg agaagcccta tcttctggag actgtttcag ccaaaaaaga gaagaaacag
+     4981 aggcgagcgg ctaaagttca gaagagggag gtcgatacta aggataagcg aactggtatg
+     5041 tgctgctatg tctctgaggt ttctgttcaa acaatcgttt agaaaactga ctatcaatga
+     5101 atcagcgtcc aaggatccct tcgcgaacac ttcgaaacca aggagtgcag cctgtatgtt
+     5161 tgccttttag aggattgatg tggttatata gtctaacaag attgctgaat attagcaaac
+     5221 taccacgtct atgtggatga gggcaccggt gtgaatttca gtacaaccat taatcgccaa
+     5281 ttacatcaga agaagtccag agagaagtat caggtcaagg tcagtgactt tgacaatcat
+     5341 gtcaactgcc aaaatatctc agactgcaat gtcaaagcac ctctgcttcc accataaact
+     5401 gagcactcca caggtctacg aatcaaacaa ggctcctcac aaatacgcaa cgcattgcaa
+     5461 gtacagtcgt gttggcaaat ctacaaacga atttctggca cctctcggct ctgatctggg
+     5521 ctccgcactc gcagcattta gaagtttcct aatagagaaa accggcaaag aatgggtcca
+     5581 gagattcgat ggaaatccag tgccgttgaa ggtagatgat gacggaaaag agcttcctgc
+     5641 tcatgagaat tggtttcaat atgaagatgg cagaagtatc ctctccagat ttctcggtca
+     5701 aggcgatact agcactcctg tggcaagcag cgaagtgcag caggtggagt gtaactcgat
+     5761 tgcttctcaa ccggggcata ccagactctg aaaaaggggt gatgggaaag aaaattgcga
+     5821 tatatgaagg aagcgctaaa ttatggctgt ggtagtcgat ctttaaggga taccaccggt
+     5881 atttatcatg gctattgatt cagatgatgt cccggtatcc ggtatggttg ggacatgggt
+     5941 tctttgttgc aaacatagca tgatat
+//

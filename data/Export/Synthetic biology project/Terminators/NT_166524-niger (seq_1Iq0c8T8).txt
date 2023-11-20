@@ -1,0 +1,6 @@
+NT_166524-niger
+ACCESSION: NT_166524 REGION: 1432345..1438358
+DEFINITION: Aspergillus niger supercontig An08.
+ORGANISM: Aspergillus niger Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus; Aspergillus subgen. Circumdati.
+SOURCE: Aspergillus niger
+VERSION: NT_166524.1  GI:145241358

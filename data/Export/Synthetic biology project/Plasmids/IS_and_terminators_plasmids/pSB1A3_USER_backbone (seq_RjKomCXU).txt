@@ -1,0 +1,3 @@
+pSB1A3_USER_backbone
+creator: SnapGene License
+marker: AmpR

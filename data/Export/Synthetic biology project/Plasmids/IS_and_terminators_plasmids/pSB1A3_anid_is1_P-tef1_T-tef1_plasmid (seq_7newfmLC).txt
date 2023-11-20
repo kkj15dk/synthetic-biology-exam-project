@@ -1,0 +1,3 @@
+pSB1A3_anid_is1_P-tef1_T-tef1_plasmid
+creator: SnapGene License
+marker: USER, USER, USER, AmpR

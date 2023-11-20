@@ -1,0 +1,269 @@
+LOCUS       NC_066264-nidulans      5334 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  Aspergillus nidulans FGSC A4 chromosome VIII.
+ACCESSION   NC_066264 REGION: 2844936..2850269
+VERSION     NC_066264.1  GI:2302113413
+SOURCE      Aspergillus nidulans FGSC A4
+  ORGANISM  Aspergillus nidulans FGSC A4 Eukaryota; Fungi; Dikarya; Ascomycota;
+            Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales;
+            Aspergillaceae; Aspergillus; Aspergillus subgen. Nidulantes.
+COMMENT     Imported using the Genbank importer. File name:
+            NC_066264.1[2844936..2850269]-nidulans.flat PROVISIONAL REFSEQ:
+            This record has not yet been subject to final NCBI review. The
+            reference sequence is identical to BN001308. Aspergillus nidulans
+            FGSC A4 CADRE, updated by Eurofungbase with contributions from
+            CADRE (http://www.cadre-genomes.org.uk), AspGD
+            (http://www.aspergillusgenome.org) and Ensembl Genomes
+            (http://www.ensemblgenomes.org). ##Genome-Annotation-Data-START##
+            Annotation Provider :: INSDC submitter Annotation Status   :: Full
+            annotation Annotation Pipeline :: Eukaryotic Annotation Propagation
+            Pipeline ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..5334
+                     /label="source"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /organism="Aspergillus nidulans FGSC A4"
+                     /mol_type="genomic DNA"
+                     /strain="FGSC A4"
+                     /db_xref="taxon:227321"
+                     /chromosome="VIII"
+     mRNA            complement(1..35)
+                     /label="ANIA_10112"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="transcript_id=CADANIAT00002027"
+                     /old_locus_tag="AN10112.4"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_050613351.1"
+                     /db_xref="GeneID:74896211"
+     CDS             complement(join(1..35,86..184))
+                     /label="ANIA_10112"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="transcript_id=CADANIAT00002027"
+                     /old_locus_tag="AN10112.4"
+                     /product="hypothetical protein"
+                     /protein_id="XP_050469175.1"
+                     /db_xref="GI:2301329235"
+                     /db_xref="EnsemblGenomes-Gn:CADANIAG00002027"
+                     /db_xref="EnsemblGenomes-Tr:CADANIAT00002027"
+                     /db_xref="GeneID:74896211"
+                     /db_xref="GOA:C8VS05"
+                     /db_xref="InterPro:IPR018864"
+                     /db_xref="UniProtKB/TrEMBL:C8VS05"
+                     /translation="MLLQSSSEIPPADLLLSWLRLMVDNVFLESLQAPCDNPLELLLP"
+     gene            complement(1..184)
+                     /label="ANIA_10112"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /old_locus_tag="AN10112.4"
+                     /db_xref="GeneID:74896211"
+     misc_feature    1..1249
+                     /label="contig 1.10 1..175166(-1)"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     mRNA            complement(86..184)
+                     /label="ANIA_10112"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="transcript_id=CADANIAT00002027"
+                     /old_locus_tag="AN10112.4"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_050613351.1"
+                     /db_xref="GeneID:74896211"
+     gap             1250..1349
+                     /label="gap"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /estimated_length="unknown"
+     misc_feature    1350..5334
+                     /label="contig 1.9 2818..14258(-1)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     CDS             1644..3638
+                     /label="trpC CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="transcript_id=CADANIAT00002028"
+                     /locus_tag="ANIA_00648"
+                     /old_locus_tag="AN0648.4"
+                     /old_locus_tag="AN0648.2"
+                     /product="hypothetical protein"
+                     /protein_id="XP_050469176.1"
+                     /db_xref="GI:2301329238"
+                     /db_xref="EnsemblGenomes-Gn:CADANIAG00002028"
+                     /db_xref="EnsemblGenomes-Tr:CADANIAT00002028"
+                     /db_xref="GeneID:74896109"
+                     /db_xref="GOA:P06531"
+                     /db_xref="InterPro:IPR001240"
+                     /db_xref="InterPro:IPR001468"
+                     /db_xref="InterPro:IPR006221"
+                     /db_xref="InterPro:IPR011060"
+                     /db_xref="InterPro:IPR013785"
+                     /db_xref="InterPro:IPR013798"
+                     /db_xref="InterPro:IPR016302"
+                     /db_xref="InterPro:IPR017926"
+                     /db_xref="InterPro:IPR029062"
+                     /translation="MGQQCIIHSFGGKVDVTGEILHGKTSVLKHDGRGAYEGLPPSVIITRYHSLAGTHSTIPECLEVSSFAQLGEDADKTVIMGVRHKQFAVEGVQFHPESILTEHGQTMFRNFLKLTAGTWEGNGKDVAQGGNFTAAAPNPPKATKKVSILEKIYDHRRAAVAKQKTIPSQRPSDLQAAYELSVAPPQISFPDRLRQSAYPLSLMAEIKRASPSKGLIAEHACAPAQARQYAKAGASVISVLTEPEWFKGSIDDLRAVRASLEGLTNRPAILRKEFIFDEYQILEARLAGADTVLLIVKMLDTELLTRLYLYSQSLGMEPLVEVNTPDEMKIAVDLGAQVIGVNNRDLTSFEVDLGTTSRLMDQVPESTIVCALSGISGPKDVEAYKKDGVKAILVGEALMRAPDTAAFVAELLGGQSKKLPLQSRNSPLVKICGTRTEEGARAAIEAGADLIGIILVEGRKRTVPDDVALQISKVVKSTPRPTPYPTEVPQGDTDATSVDYFDHSATTLRHPTRALLVGVFLNQPLSYVLAQQQKLGLDVVQLHGSEPLEWSRLIPVPVIRKFGLDEFGIARRAYHTLPLLDSGAGGSGELLDQMRVKQILKSDDGLRVILAGGLDPLNVTEIIKQLDESGYKIVGVDVSSGVETNGVQDLDKIRSFVQAAKSAF*"
+     mRNA            1644..3694
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="transcript_id=CADANIAT00002028"
+                     /locus_tag="ANIA_00648"
+                     /old_locus_tag="AN0648.4"
+                     /old_locus_tag="AN0648.2"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_050613352.1"
+                     /db_xref="GeneID:74896109"
+     gene            1644..3694
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /locus_tag="ANIA_00648"
+                     /old_locus_tag="AN0648.4"
+                     /old_locus_tag="AN0648.2"
+                     /db_xref="GeneID:74896109"
+     gene            complement(4188..4622)
+                     /label="ANIA_00647"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /old_locus_tag="AN0647.4"
+                     /old_locus_tag="AN0647.2"
+                     /db_xref="GeneID:2876423"
+     mRNA            complement(4188..4622)
+                     /label="ANIA_00647"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+                     /note="transcript_id=CADANIAT00002029"
+                     /old_locus_tag="AN0647.4"
+                     /old_locus_tag="AN0647.2"
+                     /product="snoRNA-binding rRNA-processing protein IMP4"
+                     /transcript_id="XM_653159.2"
+                     /db_xref="GeneID:2876423"
+     CDS             complement(4188..4622)
+                     /label="ANIA_00647"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="transcript_id=CADANIAT00002029"
+                     /old_locus_tag="AN0647.4"
+                     /old_locus_tag="AN0647.2"
+                     /product="snoRNA-binding rRNA-processing protein IMP4"
+                     /protein_id="XP_658251.2"
+                     /db_xref="GI:2301329240"
+                     /db_xref="EnsemblGenomes-Gn:CADANIAG00002029"
+                     /db_xref="EnsemblGenomes-Tr:CADANIAT00002029"
+                     /db_xref="GeneID:2876423"
+                     /db_xref="GOA:C8VS07"
+                     /db_xref="InterPro:IPR004154"
+                     /db_xref="InterPro:IPR007109"
+                     /db_xref="UniProtKB/TrEMBL:C8VS07"
+                     /translation="MTISHLPHGPTASFSLHNVVLRADIPNAARGTVSESYPHLIFEGFKTKLGKRVVQILKHLFPPREAGKVGNRVVTFVNKEDSIEVRHHVFVKTGYKDAELAEVGPRMTMRLFEIRGGSLEKGSSGDVEWALTQYTRTSRKKDYL*"
+     mRNA            5305..5334
+                     /label="ANIA_00646"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="transcript_id=CADANIAT00002030"
+                     /old_locus_tag="AN0646.4"
+                     /old_locus_tag="AN0646.2"
+                     /product="hypothetical protein"
+                     /transcript_id="XM_653158.2"
+                     /db_xref="GeneID:2876420"
+     gene            5305..5334
+                     /label="ANIA_00646"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /old_locus_tag="AN0646.4"
+                     /old_locus_tag="AN0646.2"
+                     /db_xref="GeneID:2876420"
+ORIGIN
+        1 agcggtaaaa gaagttctag agggttatca cagggctgcc gagatttagt aagtctttga
+       61 agagatgaaa cctggggaaa catacagcct ggagggattc gaggaaaaca ttgtcaacca
+      121 ttagacggag ccaagacaga aggaggtctg cgggagggat ctccgatgaa gactggagca
+      181 gcataaacag actctggagt agatgcgaca cttcttccac aagcgtcgtt ctccacaagc
+      241 tctcaatatc ctcgctgctt tcagcgacgc ccagccaacc accctcgcca tcaagggccg
+      301 cgagacgttt ttctacgccg tcgatgcact ctcgagcgaa ttcatgccag ttgttcccag
+      361 tgatcttcgt ttcgaagatg gacactccca atttgtgcaa gttattcggc ctacctggct
+      421 gtggccgagg cgcgttatca tgaccgtcgc tgttcaaaga taaggcgaga agtttgcggg
+      481 ctgtcttgac gatatggctt cgttcagaca gatatagttc ccggagtcgc aggcgtctat
+      541 tcttctccga aacaaactcg gctgcactgt ttccatcacc gggtctggcg ttgaggatgt
+      601 cagcgaaact cggcccggca agtgacaccc gaaaagtatc gactccggct gcccgtttca
+      661 agctagtggc ttcctcatca gcgagtcggc caaggagacg tgaagcagga cgggtttgcc
+      721 attccaagac cgtgatccga agcgcgttga tttcatcaat cccagccttt tcgctcaacc
+      781 aaagagcatc ggctttgatt tccttcaggt catacgaggc ttgtgcaatg gtctccgcat
+      841 ggatcgctgc tgttctccta tcaaactcgg attttgtctt aggggatggc gtaggaaaga
+      901 cgctgccgcg gttcagaagc acctcgatgc tatcaggatg tgacaaaaac gactcgaaaa
+      961 cccgggattc atcggtgatg ctttcgggat cgcaagcgta aagaaagact ctcttccaag
+     1021 acctagaagt atagcaaaat cagcagcaga ccatcaatgt atagcgaatg cgcccataca
+     1081 aaagctgaac gtccccggag aagcacttgt ccagggacgg gaaataggct tccggaacgg
+     1141 gagccattgg cagcacagct atatcattct aagtaaacaa atgtaatgag caagcggacg
+     1201 gagtgctgaa acctccgtat gcctgaagcc gacgaaagcg cgttggattn nnnnnnnnnn
+     1261 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1321 nnnnnnnnnn nnnnnnnnnn nnnnnnnnng tcgaccactc cccgcaccat cccaccaagg
+     1381 cgccacgact tgagaccgct tccaatgtca ttctcattga caactacgac tctttcacct
+     1441 ggaatgtcta tcaatacttg gtcctagagg gagcaaccgt cactgtcatc cgcaacgatg
+     1501 agatctctct ggaggagctg attgcgaaaa agccgacgca gctggtggtt agtcctggcc
+     1561 ctggccaccc taagtctgac gcgggtatca gcaacgctgc tattcagtat tttgctggaa
+     1621 agatacctat ttttggagtg tgcatgggcc agcaatgcat catccactcg ttcggcggta
+     1681 aagtcgatgt taccggagag attctgcatg gtaagacgtc agtcctgaaa cacgacggaa
+     1741 gaggtgccta cgaaggtctt cccccttcgg ttatcattac cagatatcac tctctggcag
+     1801 gaacgcactc taccataccc gagtgcctgg aagtgagctc ttttgctcaa ttgggtgagg
+     1861 atgccgacaa gactgtcatt atgggcgtgc gacacaagca gtttgcggtg gaaggcgttc
+     1921 agtttcaccc tgagagtatt ctgacagaac atggtcaaac gatgtttaga aacttcctta
+     1981 agcttactgc cggcacctgg gaaggcaatg gaaaggatgt tgctcaggga ggcaatttca
+     2041 ccgccgccgc tcccaaccct ccgaaggcta ctaagaaggt gtcaatcttg gagaaaattt
+     2101 atgatcaccg gagagcggct gttgctaagc agaaaactat tccgtctcag cgcccatctg
+     2161 atcttcaggc tgcctatgaa ctcagcgttg ctccgcctca aatatcgttt cctgatcgcc
+     2221 ttagacaatc agcgtatcct ttgtctttaa tggccgaaat aaagcgcgcg tctccatcaa
+     2281 agggcctgat agcagagcat gcatgtgctc ctgcacaagc ccggcaatat gctaaggctg
+     2341 gtgccagtgt tatctccgtg cttactgagc ccgaatggtt caagggcagt atcgacgacc
+     2401 tacgtgcggt gcgtgcaagt ctagagggac tgactaacag acctgctatc ctgcgaaagg
+     2461 aattcatttt cgatgaatat cagattttgg aagctcgtct ggcgggcgca gataccgtcc
+     2521 tactaattgt gaaaatgctt gacactgagc ttctcacaag actttatctt tattcccaga
+     2581 gccttgggat ggaacccctt gttgaggtca atacaccgga tgagatgaag atcgcagtgg
+     2641 accttggcgc tcaagtgatt ggcgtcaaca acagagacct aacaagcttt gaagttgatc
+     2701 ttggcactac cagccggctc atggaccagg tacccgagag cactattgtt tgtgcactta
+     2761 gcggtatttc tggacccaag gatgtagaag cctacaagaa ggatggtgtg aaagctattc
+     2821 tcgtcggaga ggcccttatg cgtgcgccag acactgcagc attcgtcgct gagcttctgg
+     2881 gaggacaatc caagaagctt cctctgcagt cacgaaattc acctctggtc aagatctgtg
+     2941 gtacaaggac tgaagaaggg gcgcgcgcgg ctattgaagc aggcgcggat ttaattggca
+     3001 ttattctcgt cgaaggccga aagcgcactg ttcccgatga tgttgcgttg caaatctcga
+     3061 aagttgtaaa gtccaccccg aggcccactc cttatccaac tgaggtgcca caaggagata
+     3121 cggacgctac ctctgttgac tatttcgacc attccgccac gactttgcgg caccccactc
+     3181 gtgctttgtt ggtgggtgta ttcctcaatc agcccctatc gtatgtccta gcccagcagc
+     3241 aaaagctggg ccttgacgtg gttcaattgc acggttccga accgcttgaa tggtctaggt
+     3301 taataccggt tcccgttatc cgcaaatttg ggcttgatga gttcggcatc gcccgaaggg
+     3361 catatcacac gctgccgctg ctggattccg gagctggcgg ctctggagaa ctcttggatc
+     3421 agatgcgcgt taagcagatt ctaaagtctg atgacggatt gcgggtcatt ttagctggtg
+     3481 gcctggatcc acttaacgtt actgaaatca tcaaacagct tgacgaatct ggatataaga
+     3541 tcgttggtgt cgatgtcagc tccggagttg agacaaatgg tgttcaggat ctcgataaga
+     3601 tacgttcatt tgtccaagca gcaaagagtg ccttctagtg atttaatagc tccatgtcaa
+     3661 caagaataaa acgcgtttcg ggtttacctc ttccagatac agctcatctg caatgcatta
+     3721 atgcattgga cctcgcaacc ctagtacgcc cttcaggctc cggcgaagca gaagaatagc
+     3781 ttagcagagt ctattttcat tttcgggaga cgagatcaag cagatcaacg gtcgtcaaga
+     3841 gacctacgag actgaggaat ccgctcttgg ctccacgcga ctatatattt gtctctaatt
+     3901 gtactttgac atgctcctct tctttactct gatagcttga ctatgaaaat tccgtcacca
+     3961 gcccctgggt tcgcaaagat aattgcactg tttcttcctt gaactctcaa gcctacagga
+     4021 cacacattca tcgtaggtat aaacctcgaa aatcattcct actaagatgg gtatacaata
+     4081 gtaaccatgg ttgcctagtg aatgctccgt aacacccaat acgccggccg aaactttttt
+     4141 acaactctcc tatgagtcgt ttacccagaa tgcacaggta cacttgttta gaggtaatcc
+     4201 ttctttctag aagtcctcgt gtactgtgta agcgcccact ccacatctcc actcgagcct
+     4261 ttttcgagcg aacctcccct gatctcgaat aatctcatcg tcatgcgcgg tccaacttct
+     4321 gctagttcgg catccttata tcccgtctta acgaaaacgt ggtgacgaac ctcaatgcta
+     4381 tcctctttat ttacaaaggt gaccacgcgg tttccaactt ttccagcttc tcggggaggg
+     4441 aaaagatgct tcagaatttg aaccacgcgc ttgcccagtt ttgtcttgaa accctcaaag
+     4501 atcaagtgcg ggtagctctc tgacacagtc ccgcgggcag cgttgggaat atcggcacgt
+     4561 agaacaacat tatgcaggga gaagctggct gtcgggccat gaggaagatg tgagatcgtc
+     4621 atcgcagtag gggtaccacg gtgttcgtgc agaataacca tgtctgtgag gcttgcggag
+     4681 tttgcgctcg ccacgagatc agggagaact aggttgccac gattcaaacg aatggaagta
+     4741 ggtaggagca gacggatctc tttggcaaat gttcctagac gcaccgaagg agaccgggaa
+     4801 gtcgtaacga tcggccgagg atcgatgata ccggaggtga gagcatattc gtcgtccaag
+     4861 tcgagaagat ctgcgtcttt atccttcttg tctgctgtcg gcagtgattc gtcaaacttg
+     4921 aaatcctctc gaagttttcg atcattcgcg atagatggat cgagttgctt tccggttgct
+     4981 agcgactcct tcagctgcgc tcttttttcg gcaatggaag catcgcggag ttgcaaagct
+     5041 ctccggtaaa gataatctcg acgttcacga gcttgacgac gctgaaatgt tcaattaaag
+     5101 tcagcatttg gctccaagga ccacagaatc tttaagtata aacatacgag cattttgaca
+     5161 atgggcgcaa aagtagaaac aagtcaagtc tatcagaagc gggcaacttt ttttctgccg
+     5221 gctgcagttt aggtctggga cgccacccgc acttgtggga tttggtgggc gaactgcccg
+     5281 ataaagccgc aatcaacctc tcaactctag gcaagagagt gcactcactt atct
+//

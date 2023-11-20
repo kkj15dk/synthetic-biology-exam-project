@@ -1,0 +1,18 @@
+LOCUS       Aspergillus_sydowii_T-te 470 bp ds-DNA     linear       15-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:OK668370.1"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry: OK668370
+            Accession: OK668370.1 Description: Aspergillus sydowii isolate
+            MBC15-11F translation elongation factor 1-alpha (TEF1) gene,
+            partial cds
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cgtgacttca tcaagaacat gatcactggt acctcccagg ccgactgcgc tatcctcatc
+       61 atcgcttccg gtactggtga attcgaggct ggtatctcca aggatggcca gacccgtgag
+      121 cacgctctgc tctctttcac cctcggtgtc cgtcagctca tcgttgccct caacaagatg
+      181 gacactgctg gctgggctga ggctcgttac aacgaaattg tcaaggaaac ttccggtttc
+      241 atcaagaagg tcggctacaa ccccaaggcc gttcccttcg tccccatctc cggtttcaac
+      301 ggtgacaaca tgcttgagcc ctccaccaac tgcccctggt acaagggttg ggagaaggag
+      361 accaagtctg gcaaggtcac cggtaagacc atcctcgagg ccatcgacgc catcgagcct
+      421 cccgtccgtc cttccaacaa gcccctccgt cttcctctcc aggatgtcta
+//

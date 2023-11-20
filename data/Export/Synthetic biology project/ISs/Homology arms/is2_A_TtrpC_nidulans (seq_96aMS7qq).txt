@@ -1,0 +1,3 @@
+is2_A_TtrpC_nidulans
+creator: SnapGene License
+marker: AmpR

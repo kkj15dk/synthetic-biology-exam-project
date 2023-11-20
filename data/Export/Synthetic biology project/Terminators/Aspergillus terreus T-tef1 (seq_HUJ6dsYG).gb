@@ -1,0 +1,19 @@
+LOCUS       Aspergillus_terreus_T-te 558 bp ds-DNA     linear       15-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:MT047591"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry: MT047591
+            Description: Aspergillus terreus strain BCC51799 translation
+            elongation factor 1 (TEF1) gene, partial cds
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 gacacctgca agtggtctga ggaccgttac aacgaaatcg tgaaggagac ctccaacttc
+       61 atcaagaagg tcggctacaa ccccaaggcc gttcccttcg tccccatctc cggtttcaac
+      121 ggtgacaaca tgcttgagcc ttcccccaac tgcccctggt acaagggttg ggagaaggag
+      181 ggcaagtccg gcaaggtcac cggtaagact ctcctcgagg ccatcgatgc catcgagccc
+      241 cccgtccgtc ctgccaacaa gcccctccgt cttcccctcc aggatgtgta caagatctct
+      301 ggtatcggaa ctgtccccgt cggccgtgtc gagactggtg tcatcacccc cggcatggtt
+      361 gttaccttcg ctccttccaa cgtcaccact gaagtgaagt ccgttgagat gcaccaccag
+      421 cagctcaagg agggtctccc cggtgacaac gttggtttca acgtcaagaa cgtctccgtc
+      481 aaggaggtcc gtcgtggtaa cgtcgctggt gactccaaga acgacccccc tgctggcgct
+      541 gcctccttca ccgcccag
+//

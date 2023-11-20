@@ -1,0 +1,2 @@
+Aspergillus vadensis CBS 113365 P-tef1
+accession: XM_025702074

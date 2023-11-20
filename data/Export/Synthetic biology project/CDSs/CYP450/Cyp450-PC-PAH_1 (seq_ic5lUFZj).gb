@@ -1,0 +1,45 @@
+LOCUS       Cyp450-PC-PAH_1         1644 bp ds-DNA     linear       18-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:AY515588"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry: AY515588
+            Description: Phanerochaete chrysosporium PAH-inducible cytochrome
+            P450 monooxygenase PC-PAH 1 mRNA, complete cds
+FEATURES             Location/Qualifiers
+     source          1..1644
+                     /label="source"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     CDS             25..1644
+                     /label="CDS (PAH-inducible cytochrome P450 monooxygenase PC-PAH 1)"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+ORIGIN
+        1 accaacatgg ctctgccgct ttctatggct gcagctgctc tactcattat atgctggctc
+       61 gtagtcaact tacgtcgttt actgacgcat aatagtatca ggcatctgcg gggaccccca
+      121 agtgcatcca ctttattcgg taacgtcaca gacacgctct accaggcaag cgtgggagac
+      181 gtcgagttta gatggctgaa agagtacggc ggggcgtggc ggctgcgtgg tctccttgga
+      241 gcgaatatac ttgccctcgc cgatcctaag gccttgcagc atgtccttca gaaatccgga
+      301 tacaactacc cgaagactcg gcagctgagc gtcacgctct tcaacctcac tggacgcagc
+      361 atcctatggg cgccgactgg agagatacat gcgcggcaca ggaaggttat gaaccccgcc
+      421 ttctccgttc ctcagctccg atccttcatc ccgttgtttc gtcagagtgc gaagaagctc
+      481 actcagatat ggaaggacca ggttaatgct gggcacccag acggtgttac cctcccggtg
+      541 gaccgctggc tcgcacgagc gacgctggat ataattggcg aagccgcgtt cgactttgat
+      601 ttcggcgctc tggataacac ggagaacgaa gttagcaagg cataccacag gatgtttgcc
+      661 gactcacagc tgtatccgag cgtatggaac ctgctattcc aagcaacgtg gtcgttgctt
+      721 ccggagccgc ttctctacta catccgctac ctgccgactc gggagtacaa aacgtaccgc
+      781 tcaacgctga gcgtcatgga caaaatcgct gcgcagctca tcgaggaacg tactcgtgaa
+      841 ttcggagccg gcgatcccga caaatcgcgc aaggatgtca tgagcgtttt agttcgcgcg
+      901 aatatgtcgg agaacccgtc gacgcgcctc agcgacgagg aaatgcgctc gcagatgttc
+      961 gccatgaccc ttgctgggca cgagaccacc gcgaacacgg tcacctggat gctctgggag
+     1021 ctggccaagc accctgacat ccaggagcag ctgcgccagg agatcgcgga gaaacgcatg
+     1081 gaggtcaccg caaatggatc gtacgagttc gctctcgatg acctcgagtc gatgccgctg
+     1141 ttgcaggcag tgatcaagga aacgcttcgg taccacccca tctcgtcctt cctgtggcgt
+     1201 gtcgctgcca aggacgacgt gattccgctc gagaagccca tcgtaaccac caccggggag
+     1261 acgatcacgg aaatccccgt tgctgcaggc caggtcatca tgccttctct ttgctcgtat
+     1321 aacaggctcg cccacgtctg gggagaggac gctcatgact ggaatccgat gcgcttcctc
+     1381 cagggagaca ctgagaagca gaccaaggtc ggtatgttga gcaacctcat tactttctct
+     1441 gccggagtta ggagctgtat cggctggagg ttctctgtcc tcgagatgca agcgatcgtc
+     1501 gtagagctcg tcgagaactt caggttttcc cttccggaca acaagcccga gattattcgc
+     1561 gcgcctacga tgacgatggg accgatggtc aaggggaagc tgcacgaagg tttccagatg
+     1621 ccgctgcggg ttgttccagt gtga
+//

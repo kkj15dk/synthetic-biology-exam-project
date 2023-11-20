@@ -1,0 +1,6 @@
+NW_020290817-brunneoviolaceus [2089-5398]
+ACCESSION: NW_020290817 REGION: 99763..106546
+DEFINITION: Aspergillus brunneoviolaceus CBS 621.78 unplaced genomic scaffold BO95scaffold_87, whole genome shotgun sequence.
+ORGANISM: Aspergillus brunneoviolaceus CBS 621.78 Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+SOURCE: Aspergillus brunneoviolaceus CBS 621.78
+VERSION: NW_020290817.1  GI:1419095839

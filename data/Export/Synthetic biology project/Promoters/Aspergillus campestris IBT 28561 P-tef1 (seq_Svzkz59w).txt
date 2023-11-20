@@ -1,0 +1,2 @@
+Aspergillus campestris IBT 28561 P-tef1
+accession: XM_024835116

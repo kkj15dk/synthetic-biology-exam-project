@@ -1,0 +1,3 @@
+is1_A_TtrpC_brunneo
+creator: SnapGene License
+marker: AmpR

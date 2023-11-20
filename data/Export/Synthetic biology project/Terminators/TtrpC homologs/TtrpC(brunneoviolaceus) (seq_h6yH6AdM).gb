@@ -1,0 +1,31 @@
+LOCUS       TtrpC(brunneoviolaceus)  557 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     source          1..557
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     mRNA            1..260
+                     /label="BO95DRAFT_447363"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     gene            1..260
+                     /label="BO95DRAFT_447363"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     CDS             2..157
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="DPTNVVETIQRLGKSSAKVVGVDVSSGIESDGAQDLEKIRAFVKAVKNLHA*"
+ORIGIN
+        1 ggatcctaca aatgtcgttg agacgatcca aaggctcggc aagtccagcg ctaaggtggt
+       61 gggcgtggac gtcagctctg gcatcgagtc cgacggcgca caggatctgg aaaagatccg
+      121 cgcctttgtt aaggctgtca agaaccttca tgcatgatct ggtctggtca ctataatata
+      181 tttatactat gagacaacca attggttcac atcaatatca ttcttacttc cgggtcattt
+      241 caattcgtat actcttggca ataggacacc agcggtgttc tggttgtgat taaatatatt
+      301 cacatagctg tcacctcata acaattgatt ctcaaattaa ctgttcacct tttgtcactg
+      361 tctttccatt acatggaatg gaaaagggca acctttgact tgggttgaat atacgtgctt
+      421 acccctactc tatatccatg ttaatgaatt atttatcttc ttcacatgca tacatcacca
+      481 tcttgtgagg tttatctcaa tcttcgggtt ctgacaatat cctctcgggc cttggccaca
+      541 tcgtaattgc ctgatgg
+//

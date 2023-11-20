@@ -1,0 +1,78 @@
+LOCUS       is2_A_TtrpC_nidulans    1579 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  .
+KEYWORDS    "creator:SnapGene License" "marker:AmpR"
+FEATURES             Location/Qualifiers
+     misc_feature    1..1025
+                     /label="Homology arm UP_anid_is2"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: Homology arm UP_anid_is2 note: /feature_type=Homology arm"
+     CDS             complement(234..782)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004608 db_xref: EnsemblGenomes-Tr: CADANIAT00004608 db_xref: GOA: Q5B5V7 db_xref: InterPro: IPR000530 db_xref: InterPro: IPR004038 db_xref: InterPro: IPR029064 db_xref: UniProtKB/TrEMBL: Q5B5V7 label: ANIA_04073 note: transcript_id=CADANIAT00004608 old_locus_tag: AN4073.4 product: 40S ribosomal protein S12 (Broad) protein_id: CBF74761.1 transl_table: 1 translation: M,,SDGEETQSNPPVAAEEVEVPAESGAGGQMSVLDALKGVLRIALIHDGLARGLREAAKALDRRQAHMCVLNEGCEEEAYKKLVVALCSEHKIPLIKVPDGKMLGEWVGLCTYLEPPKNNYQRTLEELQKFTIGRMLTVIYLTGQLDREGNARKVVNCSCVVVKDWGEESQERSVLLNYFQTEQ*"
+     gene            complement(234..960)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: ANIA_04073 old_locus_tag: AN4073.4"
+     CDS             complement(783..883)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004608 db_xref: EnsemblGenomes-Tr: CADANIAT00004608 db_xref: GOA: Q5B5V7 db_xref: InterPro: IPR000530 db_xref: InterPro: IPR004038 db_xref: InterPro: IPR029064 db_xref: UniProtKB/TrEMBL: Q5B5V7 label: ANIA_04073 note: transcript_id=CADANIAT00004608 old_locus_tag: AN4073.4 product: 40S ribosomal protein S12 (Broad) protein_id: CBF74761.1 transl_table: 1 translation: M,,SDGEETQSNPPVAAEEVEVPAESGAGGQMSVLDALKGVLRIALIHDGLARGLREAAKALDRRQAHMCVLNEGCEEEAYKKLVVALCSEHKIPLIKVPDGKMLGEWVGLCTYLEPPKNNYQRTLEELQKFTIGRMLTVIYLTGQLDREGNARKVVNCSCVVVKDWGEESQERSVLLNYFQTEQ*"
+     CDS             complement(884..886)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004608 db_xref: EnsemblGenomes-Tr: CADANIAT00004608 db_xref: GOA: Q5B5V7 db_xref: InterPro: IPR000530 db_xref: InterPro: IPR004038 db_xref: InterPro: IPR029064 db_xref: UniProtKB/TrEMBL: Q5B5V7 label: ANIA_04073 note: transcript_id=CADANIAT00004608 old_locus_tag: AN4073.4 product: 40S ribosomal protein S12 (Broad) protein_id: CBF74761.1 transl_table: 1 translation: M,,SDGEETQSNPPVAAEEVEVPAESGAGGQMSVLDALKGVLRIALIHDGLARGLREAAKALDRRQAHMCVLNEGCEEEAYKKLVVALCSEHKIPLIKVPDGKMLGEWVGLCTYLEPPKNNYQRTLEELQKFTIGRMLTVIYLTGQLDREGNARKVVNCSCVVVKDWGEESQERSVLLNYFQTEQ*"
+     terminator      complement(1026..1579)
+                     /label="TtrpC nidulans"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="label: contig 1.9 2818..14258(-1)"
+     mRNA            complement(1370..1577)
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: trpC mRNA"
+     gene            complement(1370..1577)
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: trpC gene"
+     CDS             complement(1426..1577)
+                     /label="CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 transl_table: 1 translation: PLNVTEIIKQLDESGYKIVGVDVSSGVETNGVQDLDKIRSFVQAAKSAF*"
+ORIGIN
+        1 ATTACGTAGA GAGAGCACGG AACTTGTCAA TCCTTGTTCT TTATTTTTTC ATTTTCCGAC
+       61 ATCAATAAAT AGATAGATCT CAATCCCAAC AGTCAGGGTC TGTACCAAAG CACAAAGACA
+      121 GACGGGGCCT GTGAATATCC TCGCCAGCAG ACAGATAGTT AAATCCCTCC AGCGCATCCA
+      181 TATCACATCA CATCAATCTG AACCTTAAGC TGTTGTCGCG GGATAGAGAC AATTTACTGC
+      241 TCAGTCTGGA AGTAGTTGAG GAGAACAGAA CGCTCCTGGC TCTCCTCACC CCAGTCCTTA
+      301 ACAACAACGC AAGAGCAGTT GACAACCTTG CGCGCGTTAC CCTCACGGTC AAGCTGGCCT
+      361 GTTAAGTAAA TAACTGTTAG CATTCGTCCT ATAGTGAACT TCTGCAATTC CTCCAGGGTC
+      421 CTTTGGTAGT TGTTTTTTGG GGGTTCGAGG TACGTACAGA GGCCAACCCA CTCGCCGAGC
+      481 ATCTTTCCAT CGGGAACCTT GATGAGAGGG ATCTTGTGCT CAGAGCAGAG AGCGACAACG
+      541 AGCTTCTTGT AGGCCTCCTC CTCGCAGCCC TCGTTGAGAA CACACATGTG GGCCTGACGG
+      601 CGGTCGAGGG CCTTAGCGGC CTCGCGGAGA CCACGGGCAA GACCGTCGTG GATCAGGGCA
+      661 ATGCGAAGGA CACCCTTGAG AGCATCGAGG ACAGACATCT GACCGCCGGC GCCAGACTCG
+      721 GCAGGAACCT CGACCTCCTC AGCGGCGACG GGGGGGTTGG ATTGGGTCTC TTCTCCGTCC
+      781 GACTGAAAAG CGGGAGAAAA TGTTAGTTCG GCTTCTGCGT TCGTTTACTG CGCATAGCTG
+      841 CGTGTTGAGG ACAGTTTGAG GGCATTATAT GAGCTGTACG CACCATTTTG ATGATGTGTT
+      901 AGTACGATGT TTGAATGTCG GAATATCCTC GAAGAGTCGT GGTGTTATGG GGAAGGAATC
+      961 TGGAAATTGT GGGATGGTAA TGCGATTCTG CCTCGCCTAG ACCTATCCGT GTGCCCTACT
+     1021 TAGTCaccta cgatgaatgt gtgtcctgta ggcttgagag ttcaaggaag aaacagtgca
+     1081 attatctttg cgaacccagg ggctggtgac ggaattttca tagtcaagct atcagagtaa
+     1141 agaagaggag catgtcaaag tacaattaga gacaaatata tagtcgcgtg gagccaagag
+     1201 cggattcctc agtctcgtag gtctcttgac gaccgttgat ctgcttgatc tcgtctcccg
+     1261 aaaatgaaaa tagactctgc taagctattc ttctgcttcg ccggagcctg aagggcgtac
+     1321 tagggttgcg aggtccaatg cattaatgca ttgcagatga gctgtatctg gaagaggtaa
+     1381 acccgaaacg cgttttattc ttgttgacat ggagctatta aatcactaga aggcactctt
+     1441 tgctgcttgg acaaatgaac gtatcttatc gagatcctga acaccatttg tctcaactcc
+     1501 ggagctgaca tcgacaccaa cgatcttata tccagattcg tcaagctgtt tgatgatttc
+     1561 agtaacgttA agtggatCC
+//

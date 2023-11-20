@@ -1,0 +1,31 @@
+LOCUS       TtrpC(clavatus)          551 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     source          1..551
+                     /label="source"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     gene            1..151
+                     /label="ACLA_022380"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     mRNA            1..151
+                     /label="ACLA_022380"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     CDS             2..151
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="DPTNVFDIVRKLGESGRKVVGIDVSSGVESDGSQDPAKIRAFVQAVKSI*"
+ORIGIN
+        1 ggaccctacc aacgttttcg acatcgtccg gaagttgggt gagtctgggc gcaaggttgt
+       61 cggcatagat gtcagctctg gtgtggagtc tgatggctca caagatcctg ccaaaatccg
+      121 tgcttttgtg caagccgtga aatccatcta attgtgagga gaaggagttt tgttgactct
+      181 cagtcctcgg taaaaatctc tgtgacatat cttcgatgat gactttttat gactaggaat
+      241 ctgattttca agattccaat tcgcaccatc ttttttcggg tttcagtttc gggttacttt
+      301 cacctcattt acgtgttgtt gataaagcgc acggctcatc ttctatttag accattggag
+      361 actcatagca atcttaatca atgatcattt cccggtcacc ctactatcaa attttatggc
+      421 tctggggttt tctacctgct tatagataca actcctttct atggcgatga aacaccaaac
+      481 tctcgcaccc cttaacacca tcataagaac ctaacacccc aactgcgtgc cttaaaggca
+      541 ggcttctatc t
+//

@@ -1,0 +1,2 @@
+Aspergillus sydowii T-tef1
+accession: OK668370.1

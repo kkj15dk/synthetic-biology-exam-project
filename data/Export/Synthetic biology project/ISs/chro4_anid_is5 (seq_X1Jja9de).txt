@@ -1,0 +1,6 @@
+chro4_anid_is5
+ACCESSION: BN001304
+DEFINITION: TPA_asm: Aspergillus nidulans FGSC A4 chromosome IV.
+ORGANISM: Aspergillus nidulans FGSC A4 Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus; Aspergillus subgen. Nidulantes.
+SOURCE: Aspergillus nidulans FGSC A4 (unknown)
+VERSION: BN001304.1

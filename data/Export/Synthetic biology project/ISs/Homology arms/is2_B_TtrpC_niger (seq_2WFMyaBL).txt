@@ -1,0 +1,3 @@
+is2_B_TtrpC_niger
+creator: SnapGene License
+marker: AmpR

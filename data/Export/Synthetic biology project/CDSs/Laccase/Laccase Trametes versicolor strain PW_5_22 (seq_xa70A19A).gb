@@ -1,0 +1,44 @@
+LOCUS       Laccase_Trametes_versic 1563 bp ds-DNA     linear       18-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:MH496506.1"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry: MH496506
+            Accession: MH496506.1 Description: Trametes versicolor strain
+            PW_5_22 laccase mRNA, complete cds
+FEATURES             Location/Qualifiers
+     source          1..1563
+                     /label="source"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     CDS             1..1563
+                     /label="diphenol oxidase (laccase)"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+ORIGIN
+        1 atgtcgaggt ttcactctct tctcgctttc gtcgttgctt cccttgcggc tgtggcccac
+       61 gctggtatcg gtcctgtcgc cgacctcacc atcaccaacg cagcggtcag ccccgacggg
+      121 ttttctcgcc aggccgtcgt cgtgaacggt ggcacccctg gccctctcat caccggtaac
+      181 atgggggatc gcttccagct caatgtcatc gacaacctca cggaccacac gatgctgaag
+      241 agcaccagta ttcactggca cggtttcttc cagaagggca ccaactgggc cgacggtccc
+      301 gccttcatca accagtgccc gatctcatct ggccactcgt tcctgtatga cttccaggtt
+      361 cctgaccagg ctggcacctt ctggtaccac agtcacttgt ccacgcagta ctgtgatggt
+      421 ctgaggggtc cgttcgttgt ttacgacccg aatgacccgg ccgccgacct gtacgacgtc
+      481 gacaacgacg acacggtcat tacccttgcg gattggtacc acgtcgccgc gaagctgggc
+      541 cccgcattcc ctctcggcgc cgacgccact ctcatcaacg gtaagggacg ctcccccagc
+      601 acgaccaccg cggacctcac tgttatcagc gtcactccgg gtaaacgtta ccgtttccgc
+      661 ctggtgtccc tgtcgtgcga ccccaaccac accttcagca tcgatggcca caacatgacg
+      721 atcatcgaga ccgactcgat caacacggcg cccctcgtgg tcgactccat tcagatcttc
+      781 gctgcccagc gttactcctt cgtgctcgag gccaaccagg ccgtcgacaa ctactggatt
+      841 cgcgccaacc cgagcttcgg taacgtcggg ttcaccggcg gcatcaactc ggctatcctc
+      901 cgctatgatg gcgccgctgc catcgagccc accaccacgc agaccacttc gaccgagccg
+      961 ctcaacgagg tcaacctgca cccgctggtt gccaccgctg tccctggctc tcccgctgcg
+     1021 ggtggtgttg acctggccat caatatggcc ttcaacttca atggcaccaa cttcttcatc
+     1081 aacggcgcgt ctttcacgcc cccgaccgtg cctgtcctcc tccagatcat cagcggcgcg
+     1141 cagaacgcgc aggacctcct gccctccggc agcgtatact cgctcccctc gaccgccgac
+     1201 atcgagatct ccttccccgc caccgccgct gcccccggtg cgccccaccc cttccacttg
+     1261 cacgggcacg cgttcgcggt cgtccgcagc gccggcagca cggtctacaa ctacgacaac
+     1321 cccatcttcc gcgacgtcgt cagcacgggg acgcctgcgg ccggtgacaa cgtcaccatc
+     1381 cgcttccgca ccgacaaccc cggcccgtgg tttctccact gccacatcga cttccacctc
+     1441 gaggccggct tcgccgtcgt gtttgcggag gacatccccg atgtcgcatc ggcgaacccc
+     1501 gtcccccagg cgtggtccga cctctgcccg acctacgacg cgcgcgaccc gagcgaccag
+     1561 taa
+//

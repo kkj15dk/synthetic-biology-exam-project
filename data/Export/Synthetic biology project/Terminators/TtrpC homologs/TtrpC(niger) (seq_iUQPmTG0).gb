@@ -1,0 +1,31 @@
+LOCUS       TtrpC(niger)             551 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     source          complement(1..551)
+                     /label="source"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     gene            1..151
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     mRNA            1..151
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     CDS             2..151
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="DPTNVAGIVQKLGESGRKVVGVDVSSGVESDGAQDLGKIRAFVQAVRGL*"
+ORIGIN
+        1 agatcccacc aatgttgctg gcattgtcca gaagcttggc gaatccggtc gcaaggtcgt
+       61 tggcgtcgat gtcagttctg gcgtagagtc agacggtgct caggatcttg gcaaaattcg
+      121 cgcctttgtg caggccgtga ggggactcta gctttgaatg gtctttaaat ttaccaaaca
+      181 tgggatttaa gggcatcatt ggtcttttca cttgattttc tttgagttta attattttct
+      241 gcttcgttga tacctttcgg atctatcata gcaatgatgc ccaacaatga cacggccact
+      301 tcagatatca cactccgctt gccagcttac agtaacctca ctatttgttg acgagaaagt
+      361 caccctgagc tccgttcgta gtgtcattca accatctatc gaaacgtact atactactac
+      421 tcgtaatata tatcatattc tccccaaagc tttctactta ccatattagt cttctgcgct
+      481 cactctgaca tccctcaatt cactcaacac tgcacccttc atatagtcag ttgaaaaggc
+      541 ttaatctcag c
+//

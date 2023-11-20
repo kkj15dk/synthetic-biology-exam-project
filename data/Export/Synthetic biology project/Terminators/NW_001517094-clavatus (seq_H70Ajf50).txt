@@ -1,0 +1,6 @@
+NW_001517094-clavatus
+ACCESSION: NW_001517094 REGION: 1269631..1275596
+DEFINITION: Aspergillus clavatus NRRL 1 1099423829805 genomic scaffold, whole genome shotgun sequence.
+ORGANISM: Aspergillus clavatus NRRL 1 Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus; Aspergillus subgen. Fumigati.
+SOURCE: Aspergillus clavatus NRRL 1
+VERSION: NW_001517094.1  GI:121703498

@@ -1,0 +1,6 @@
+NC_066264-nidulans [1644-4394]
+ACCESSION: NC_066264 REGION: 2844936..2850269
+DEFINITION: Aspergillus nidulans FGSC A4 chromosome VIII.
+ORGANISM: Aspergillus nidulans FGSC A4 Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus; Aspergillus subgen. Nidulantes.
+SOURCE: Aspergillus nidulans FGSC A4
+VERSION: NC_066264.1  GI:2302113413

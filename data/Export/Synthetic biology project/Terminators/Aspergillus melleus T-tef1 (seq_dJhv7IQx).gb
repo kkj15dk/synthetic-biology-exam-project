@@ -1,0 +1,19 @@
+LOCUS       Aspergillus_melleus_T-te 567 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:XM_046082245"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry:
+            XM_046082245 Description: Aspergillus melleus translation
+            elongation factor EF-1 alpha (TEF1), mRNA
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cgtgagcgtg gtatcaccat tgacattgcc ctctggaagt tccagacctc caagtatgag
+       61 gtcactgtca ttgatgcccc cggtcaccgt gacttcatca agaacatgat cactggtacc
+      121 tcccaggccg attgcgctat cctcatcatt gcctccggta ctggtgagtt cgaggctggt
+      181 atctccaagg atggccagac ccgtgagcac gctctgcttg ctttcaccct cggtgtcaag
+      241 cagctcatcg ttgccctcaa caagatggac acctgcaagt gggctgagga ccgttacaac
+      301 gaaatcgtga aggagacctc caacttcatc aagaaggtcg gctacaaccc caaggccgtt
+      361 cccttcgtcc ccatctccgg tttcaacggt gacaacatgc ttgagccttc ccccaactgc
+      421 ccctggtaca agggttggga gaaggagggc aagtccggca aggtcaccgg taagaccctg
+      481 cttgaggcca tcgacgccat cgaggccccc gtccgtccct ccaacaagcc cctccgtctt
+      541 cccctccagg atgtctacaa gatctcc
+//

@@ -1,0 +1,2 @@
+Laccase Trametes versicolor strain PW_5_22
+accession: MH496506.1

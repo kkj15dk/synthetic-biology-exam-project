@@ -1,0 +1,46 @@
+LOCUS       Aspergillus_campestris_ 1481 bp ds-DNA     linear       15-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:XM_024835116"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry:
+            XM_024835116 Description: Aspergillus campestris IBT 28561
+            translation elongation factor (P168DRAFT_268930), partial mRNA
+FEATURES             Location/Qualifiers
+     source          1..1481
+                     /label="source"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     gene            1..1481
+                     /label="P168DRAFT_268930 gene"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     CDS             99..1481
+                     /label="P168DRAFT_268930 CDS (translation elongation factor)"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+ORIGIN
+        1 ctttttgttc agcacctcta cgcgttaagc cgtagtatct gagcattctc cgagaccttt
+       61 atttctttta ataaaagttc atcacatcta ccttcacaat gggtaaggac gacaagactc
+      121 atcttaacat cgtcgttatc ggccacgtcg attccggcaa gtcgaccacc actggtcact
+      181 tgatctacaa gtgtggtggt atcgaccagc gtaccatcga gaagttcgag aaggaagccg
+      241 ccgagcttgg caagggttcc ttcaagtacg cctgggtgct ggacaagctg aagtccgagc
+      301 gtgagcgtgg tatcaccatc gatatcgccc tctggaagtt cggtaccgcc aagtatgagg
+      361 tcaccgtcat cgatgccccc ggtcatcgtg acttcatcaa gaacatgatc actggtacct
+      421 cccaggccga ttgcgccatt ctcatcattg gctccggtac tggtgagttc gaggctggta
+      481 tctccaagga tggccagacc cgtgagcacg ctctgcttgc cttcaccctc ggtgtgaagc
+      541 agctcatcgt tgccctcaac aagatggaca cctgcaagtg gtccgaggac cgttacaacg
+      601 agatcgtcaa ggagaccacc aacttcatca agaaggtcgg ctacaacccc aaggccgtcc
+      661 ccttcgtccc catctccggc ttcaacggcg acaacatgct cgagccctct cccaactgcc
+      721 cctggtacaa gggatgggag aaggagggca agtccggcaa ggtcaccggt aagaccctgc
+      781 tggaggccat cgatgccatc gaggcccccg tccgtcccgc caacaagccc ctccgtctgc
+      841 ccctgcagga tgtgtacaag atctccggta tcggcacagt tcccgtcggc cgtgtcgaga
+      901 ctggtgtcat cagccccggt atggtcgtta ccttcgcccc cgccaacgtg accactgagg
+      961 tcaagtccgt cgagatgcac caccagcagc tcaaggaggg tctccccggt gacaacgtcg
+     1021 gcttcaacgt caagaacgtc tccgtcaagg aggtccgccg tggcaacgtc gccggtgact
+     1081 ccaagaacga cccccccagc ggctgtgaca acttcaccgc ccaggtcatc gtcctgaacc
+     1141 accccggtca ggtcggcgcc ggctacgccc ccgtgctgga ttgccacact gcccacattg
+     1201 cctgcaagtt cgccgagctg cagcagaaga tcgaccgccg taccggtaag gccaccgagg
+     1261 agaaccccaa gttcatcaag tccggtgatg ccgccatcgt caagatgatt ccctccaagc
+     1321 ccatgtgtgt tgaggccttc acctcctacc cccctctggg tcgtttcgcc gtccgtgaca
+     1381 tgcgccagac cgttgccgtc ggtgtcgtca aggctgtcga gaaggccacc gccgcctccg
+     1441 gcaaggtcac caaggccgcc cagaaggccg gcaagaaata a
+//

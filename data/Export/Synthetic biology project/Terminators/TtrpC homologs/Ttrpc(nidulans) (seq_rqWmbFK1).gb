@@ -1,0 +1,35 @@
+LOCUS       Ttrpc(nidulans)          554 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    1..554
+                     /label="contig 1.9 2818..14258(-1)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     source          1..554
+                     /label="source"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     mRNA            1..210
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     gene            1..210
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     CDS             2..154
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="DPLNVTEIIKQLDESGYKIVGVDVSSGVETNGVQDLDKIRSFVQAAKSAF*"
+ORIGIN
+        1 ggatccactt aacgttactg aaatcatcaa acagcttgac gaatctggat ataagatcgt
+       61 tggtgtcgat gtcagctccg gagttgagac aaatggtgtt caggatctcg ataagatacg
+      121 ttcatttgtc caagcagcaa agagtgcctt ctagtgattt aatagctcca tgtcaacaag
+      181 aataaaacgc gtttcgggtt tacctcttcc agatacagct catctgcaat gcattaatgc
+      241 attggacctc gcaaccctag tacgcccttc aggctccggc gaagcagaag aatagcttag
+      301 cagagtctat tttcattttc gggagacgag atcaagcaga tcaacggtcg tcaagagacc
+      361 tacgagactg aggaatccgc tcttggctcc acgcgactat atatttgtct ctaattgtac
+      421 tttgacatgc tcctcttctt tactctgata gcttgactat gaaaattccg tcaccagccc
+      481 ctgggttcgc aaagataatt gcactgtttc ttccttgaac tctcaagcct acaggacaca
+      541 cattcatcgt aggt
+//

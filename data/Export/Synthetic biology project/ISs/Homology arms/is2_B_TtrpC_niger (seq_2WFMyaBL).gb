@@ -1,0 +1,77 @@
+LOCUS       is2_B_TtrpC_niger       1605 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  .
+KEYWORDS    "creator:SnapGene License" "marker:AmpR"
+FEATURES             Location/Qualifiers
+     gene            1..151
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="label: trpC gene"
+     mRNA            1..151
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /note="label: trpC mRNA"
+     terminator      1..551
+                     /label="TtrpC_niger"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             2..151
+                     /label="CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 transl_table: 1 translation: DPTNVAGIVQKLGESGRKVVGVDVSSGVESDGAQDLGKIRAFVQAVRGL*"
+     misc_feature    552..1605
+                     /label="Homology arm DW_anid_is2"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: Homology arm DW_anid_is2 note: /feature_type=Homology arm"
+     gene            complement(656..1605)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: ANIA_04072 old_locus_tag: AN4072.4"
+     CDS             complement(656..874)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004609 db_xref: EnsemblGenomes-Tr: CADANIAT00004609 db_xref: GOA: C8V5G6 db_xref: InterPro: IPR002110 db_xref: InterPro: IPR020683 db_xref: UniProtKB/TrEMBL: C8V5G6 label: ANIA_04072 note: transcript_id=CADANIAT00004609 old_locus_tag: AN4072.4 product: histone deacetylase complex subunit (Hos4),putative (AFU_orthologue; AFUA_1G05490) protein_id: CBF74763.1 transl_table: 1 translation: SEKKMAKETEQERLAQEARAADAEKARAQEEEERAARAACIALEKEEENKRKEAEQRRIKQAEDEHQKRLEQERQRLAKIRREQEAHEQRRRDALPSRLCIAANLVGSNNPQSRSHTWLKKFMPVVTAETRQLDPSCSADVANERWVPNYLVAPLLATNDLQLSQYSSWEKRHVTPTQRMNLWRVTRRMLVQADDTEFLTASFGQIMQKDSETRSKYFDMDHVFWVK,,LSDFMDLVPHIPHLHGLDIQFLKMHIDREPSFNPASQPSLSNGHIDGPHEKPGPYEQTLTNGYAHRRPSTYV*"
+     CDS             complement(875..924)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004609 db_xref: EnsemblGenomes-Tr: CADANIAT00004609 db_xref: GOA: C8V5G6 db_xref: InterPro: IPR002110 db_xref: InterPro: IPR020683 db_xref: UniProtKB/TrEMBL: C8V5G6 label: ANIA_04072 note: transcript_id=CADANIAT00004609 old_locus_tag: AN4072.4 product: histone deacetylase complex subunit (Hos4),putative (AFU_orthologue; AFUA_1G05490) protein_id: CBF74763.1 transl_table: 1 translation: SEKKMAKETEQERLAQEARAADAEKARAQEEEERAARAACIALEKEEENKRKEAEQRRIKQAEDEHQKRLEQERQRLAKIRREQEAHEQRRRDALPSRLCIAANLVGSNNPQSRSHTWLKKFMPVVTAETRQLDPSCSADVANERWVPNYLVAPLLATNDLQLSQYSSWEKRHVTPTQRMNLWRVTRRMLVQADDTEFLTASFGQIMQKDSETRSKYFDMDHVFWVK,,LSDFMDLVPHIPHLHGLDIQFLKMHIDREPSFNPASQPSLSNGHIDGPHEKPGPYEQTLTNGYAHRRPSTYV*"
+     CDS             complement(925..1605)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004609 db_xref: EnsemblGenomes-Tr: CADANIAT00004609 db_xref: GOA: C8V5G6 db_xref: InterPro: IPR002110 db_xref: InterPro: IPR020683 db_xref: UniProtKB/TrEMBL: C8V5G6 label: ANIA_04072 note: transcript_id=CADANIAT00004609 old_locus_tag: AN4072.4 product: histone deacetylase complex subunit (Hos4),putative (AFU_orthologue; AFUA_1G05490) protein_id: CBF74763.1 transl_table: 1 translation: SEKKMAKETEQERLAQEARAADAEKARAQEEEERAARAACIALEKEEENKRKEAEQRRIKQAEDEHQKRLEQERQRLAKIRREQEAHEQRRRDALPSRLCIAANLVGSNNPQSRSHTWLKKFMPVVTAETRQLDPSCSADVANERWVPNYLVAPLLATNDLQLSQYSSWEKRHVTPTQRMNLWRVTRRMLVQADDTEFLTASFGQIMQKDSETRSKYFDMDHVFWVK,,LSDFMDLVPHIPHLHGLDIQFLKMHIDREPSFNPASQPSLSNGHIDGPHEKPGPYEQTLTNGYAHRRPSTYV*"
+ORIGIN
+        1 agatcccacc aatgttgctg gcattgtcca gaagcttggc gaatccggtc gcaaggtcgt
+       61 tggcgtcgat gtcagttctg gcgtagagtc agacggtgct caggatcttg gcaaaattcg
+      121 cgcctttgtg caggccgtga ggggactcta gctttgaatg gtctttaaat ttaccaaaca
+      181 tgggatttaa gggcatcatt ggtcttttca cttgattttc tttgagttta attattttct
+      241 gcttcgttga tacctttcgg atctatcata gcaatgatgc ccaacaatga cacggccact
+      301 tcagatatca cactccgctt gccagcttac agtaacctca ctatttgttg acgagaaagt
+      361 caccctgagc tccgttcgta gtgtcattca accatctatc gaaacgtact atactactac
+      421 tcgtaatata tatcatattc tccccaaagc tttctactta ccatattagt cttctgcgct
+      481 cactctgaca tccctcaatt cactcaacac tgcacccttc atatagtcag ttgaaaAggc
+      541 ttaatctcag cGCTTGTCTA TCCAACTACT CATCGTGTGT CGCGTCACAT AAGGTATCAT
+      601 AGTCATACAT GCAAGGAAAA TCGTCCACCT GTACAAGTGA TGCGGACTGA CAGAATCAGA
+      661 CATATGTACT TGGCCGCCTG TGCGCATAGC CATTGGTAAG TGTTTGTTCG TAAGGTCCAG
+      721 GTTTCTCATG CGGTCCATCA ATATGTCCAT TTGACAGGGA TGGTTGAGAG GCAGGATTGA
+      781 AACTCGGTTC TCGATCGATG TGCATCTTCA GAAACTGTAT GTCCAGCCCA TGGAGATGAG
+      841 GAATATGAGG GACGAGGTCC ATGAAATCGG AAAGCTGCGA AAATCAGTTA TCGAATGAAA
+      901 TACTACATTA ACATAAAAAC GTACCTTTAC CCAGAAGACA TGATCCATAT CAAAGTACTT
+      961 GCTCCGAGTT TCACTATCCT TCTGCATGAT CTGCCCAAAC GATGCTGTCA AGAACTCCGT
+     1021 ATCGTCCGCC TGCACGAGCA TTCGCCGTGT AACCCGCCAC AAATTCATCC TTTGCGTAGG
+     1081 TGTTACGTGG CGCTTCTCCC AACTGGAATA CTGGGACAAC TGGAGGTCGT TGGTAGCTAG
+     1141 CAGCGGAGCA ACGAGATAGT TTGGAACCCA TCGCTCATTT GCAACGTCTG CACTACAGCT
+     1201 AGGATCAAGC TGTCTGGTCT CCGCTGTAAC CACTGGCATG AATTTCTTCA ACCATGTGTG
+     1261 GCTGCGTGAT TGCGGGTTGT TGGATCCGAC AAGATTAGCT GCTATACAAA GGCGACTGGG
+     1321 AAGTGCATCT CGACGACGTT GCTCGTGCGC TTCCTGCTCC CTCCGAATTT TCGCAAGCCG
+     1381 CTGCCTTTCC TGTTCGAGGC GCTTCTGATG CTCGTCCTCT GCTTGCTTAA TTCGCCGCTG
+     1441 CTCAGCTTCT TTCCGCTTAT TTTCTTCCTC CTTTTCCAGC GCTATACAGG CCGCTCGGGC
+     1501 TGCTCGTTCC TCTTCTTCCT GCGCGCGAGC CTTTTCCGCG TCGGCAGCCC GGGCTTCTTG
+     1561 AGCTAGCCGC TCCTGCTCTG TTTCCTTGGC CATCTTTTTC TCAGA
+//

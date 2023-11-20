@@ -1,0 +1,264 @@
+LOCUS       NT_166524-niger         6014 bp ds-DNA     linear       20-NOV-2023
+DEFINITION  Aspergillus niger supercontig An08.
+ACCESSION   NT_166524 REGION: 1432345..1438358
+VERSION     NT_166524.1  GI:145241358
+SOURCE      Aspergillus niger
+  ORGANISM  Aspergillus niger Eukaryota; Fungi; Dikarya; Ascomycota;
+            Pezizomycotina; Eurotiomycetes; Eurotiomycetidae; Eurotiales;
+            Aspergillaceae; Aspergillus; Aspergillus subgen. Circumdati.
+COMMENT     Imported using the Genbank importer. File name:
+            NT_166524.1[1432345..1438358](-)-niger.flat PROVISIONAL REFSEQ:
+            This record has not yet been subject to final NCBI review. The
+            reference sequence is identical to AM270987.
+            ##Genome-Annotation-Data-START## Annotation Provider :: INSDC
+            submitter Annotation Status   :: Full annotation Annotation
+            Pipeline :: Eukaryotic Annotation Propagation Pipeline
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..6014
+                     /label="source"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /organism="Aspergillus niger"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:5061"
+                     /chromosome="VIII"
+                     /map="unlocalized"
+                     /clone="An08"
+     mRNA            complement(1..466)
+                     /label="An08g06070"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /product="uncharacterized protein"
+                     /transcript_id="XM_059749104.1"
+                     /db_xref="GeneID:4982923"
+     CDS             complement(join(1..466,575..657,742..807,925..1122,1229..1403))
+                     /label="An08g06070"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="Remark: all blastp matches are about 3 times longerthan the A. niger protein.;Title: weak similarity to NAD+ ADP-ribosyltransferase PPOL- Homo sapiens"
+                     /inference="profile:COGS:COG5190"
+                     /inference="profile:PFAM:PF00533"
+                     /inference="similar to AA sequence:UniProtKB:HSPPOL.1"
+                     /product="uncharacterized protein"
+                     /protein_id="XP_059604081.1"
+                     /db_xref="GI:2582622884"
+                     /db_xref="GeneID:4982923"
+                     /db_xref="GOA:A2QRH5"
+                     /db_xref="InterPro:IPR001357"
+                     /db_xref="InterPro:IPR008893"
+                     /db_xref="UniProtKB/TrEMBL:A2QRH5"
+                     /translation="MGKTFKKIYASSFGKFDGNSDKIPQWIRANGGQYSKDISKEITHLITTKEAFKDNVEAVRKAKQLRTIKIVSYDWLEDSLLSKNRRPKRETEYLLVDILKSENKKRGKERDKIRKKEKEKPRRKGNLKNQDPFGRKRKGVKAGTAVYQDARVTYNATLVRSMQGKNYKERYVVRVYESNKEPHVYATHLEYSRIGKQQSQLLTPLKADQDSAVKAFKKIFKDKTGKEWEERLNGVLPSGKRDADGKLLLPHENWFYYEDRAGMLSNFLRGVIDAPDGDGSMVVKQEHLDAPMQGIKHESPQDANDERPGSDESIIVYDLTGSDVEVLNC"
+     gene            complement(1..1403)
+                     /label="An08g06070"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /db_xref="GeneID:4982923"
+     mRNA            complement(575..657)
+                     /label="An08g06070"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /product="uncharacterized protein"
+                     /transcript_id="XM_059749104.1"
+                     /db_xref="GeneID:4982923"
+     mRNA            complement(742..807)
+                     /label="An08g06070"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /product="uncharacterized protein"
+                     /transcript_id="XM_059749104.1"
+                     /db_xref="GeneID:4982923"
+     mRNA            complement(925..1122)
+                     /label="An08g06070"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /product="uncharacterized protein"
+                     /transcript_id="XM_059749104.1"
+                     /db_xref="GeneID:4982923"
+     mRNA            complement(1229..1403)
+                     /label="An08g06070"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /product="uncharacterized protein"
+                     /transcript_id="XM_059749104.1"
+                     /db_xref="GeneID:4982923"
+     gene            complement(1853..4165)
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /locus_tag="An08g06080"
+                     /db_xref="GeneID:4982924"
+     mRNA            complement(1853..4165)
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /locus_tag="An08g06080"
+                     /product="anthranilate synthase multifunctional proteintrpC-Aspergillus niger"
+                     /transcript_id="XM_001392685.1"
+                     /db_xref="GeneID:4982924"
+     CDS             complement(1853..4165)
+                     /label="trpC CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="Catalytic activity: TrpC catalyzes the theglutamine amidotransferase reaction (GAT), theindole-3-glycerol phosphate synthase reaction (IGPS) andthe N-(5'-phosphoribosyl) anthranilate isomerase reaction(PRAI), respectively.;Gene-ID: trpC;Pathway: Trp C is involved in the tryptophanbiosynthesis.;cytoplasm;See PMID 2936650"
+                     /locus_tag="An08g06080"
+                     /EC_number="4.1.3.27"
+                     /EC_number="4.1.1.48"
+                     /EC_number="5.3.1.24"
+                     /inference="profile:COGS:COG0134"
+                     /inference="profile:PFAM:PF00117"
+                     /inference="profile:PFAM:PF00218"
+                     /inference="profile:PFAM:PF00697"
+                     /inference="similar to AA sequence:PIR:S00643"
+                     /product="anthranilate synthase multifunctional proteintrpC-Aspergillus niger"
+                     /protein_id="XP_001392722.1"
+                     /db_xref="GI:145240151"
+                     /db_xref="GeneID:4982924"
+                     /db_xref="GOA:A2QRH6"
+                     /db_xref="InterPro:IPR001240"
+                     /db_xref="InterPro:IPR001468"
+                     /db_xref="InterPro:IPR006221"
+                     /db_xref="InterPro:IPR011060"
+                     /db_xref="InterPro:IPR013785"
+                     /db_xref="InterPro:IPR013798"
+                     /db_xref="InterPro:IPR016302"
+                     /db_xref="InterPro:IPR017926"
+                     /db_xref="InterPro:IPR029062"
+                     /db_xref="UniProtKB/TrEMBL:A2QRH6"
+                     /translation="MADSGLVDHSPHHPTKAAQLNTASNVILIDNYDSFTWNVYQYLVLEGATVNVFRNDQITLEELIAKKPTQLVISPGPGHPETDAGISSAAIQYFSGKIPIFGVCMGQQCIITCFGGKVDVTGEILHGKTSALKHDGKGAYEGLPDSLAVTRYHSLAGTHATIPDCLEVSSSVQLTDDSNKDVIMGVRHKKLAVEGVQFHPESILTEYGRTMFRNFLKLTAGTWEGNGKHFDEQSNTTKATVSSNTAPKTDKKLSILERIYDHRRAAVAVQKTIPSQRPADLQAAYDLNLAPPQVPFPARLRQSPYPLSLMAEIKRASPSKGMIAENACAPAQARQYAKAGASVISVLTEPEWFKGSIDDLRAVRQSLEGLTNRPAILRKEFVFDEYQILEARLAGADTVLLIVKMLSVELLTRLYHYSRSLGMEPLVEVNTPEEMKIAVDLGAEVIGVNNRDLTSFEVDLGTTSRLMDQVPSSTIVCALSGISGPKDVEAYKKEGVKAILVGEALMRAADTAAFIAELLGGSSQNVSKESRSSPLVKICGTRSEEAARAAIEAGADLIGIIMVQGRTRCVPDDVALRISQVVKSIPKPAGQTPPTSRGTPAAASVEYFDHSARILRHPSRALLVGVFQNQPLDYILSQQQKLGLDVVQLHGSEPLEWAKLIPVPVIRKFGLDEPAIARRAYHSLPLLDSGVGGTGELLDQSRVQNVLDKDSGLRVILAGGLDPTNVAGIVQKLGESGRKVVGVDVSSGVESDGAQDLGKIRAFVQAVRGL*"
+     gene            4640..6014
+                     /label="An08g06090"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /db_xref="GeneID:4982925"
+     mRNA            4640..4707
+                     /label="An08g06090"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /product="uncharacterized protein"
+                     /transcript_id="XM_059749106.1"
+                     /db_xref="GeneID:4982925"
+     CDS             join(4640..4707,4772..6014)
+                     /label="An08g06090"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="Phenotype: Deltanup184 mutations confer sensitivityto growth in nutrient-rich medium (YES) that isaccompanied by nuclear poly(A)+ RNA accumulation.;Phenotype: nup184 of S. pombe is synthetically lethal withthe mRNA export defective rae1-167 mutation. Theconsequence of the synthetic lethality is a defect in mRNAexport.;Title: similarity to nucleoporin nup184p-Schizosaccharomyces pombe;nucleus;See PMID 10388805"
+                     /inference="similar to AA sequence:UniProtKB:SPAP27G11.10"
+                     /product="uncharacterized protein"
+                     /protein_id="XP_059604082.1"
+                     /db_xref="GI:2582622887"
+                     /db_xref="GeneID:4982925"
+                     /db_xref="GOA:A2QRH7"
+                     /db_xref="InterPro:IPR018864"
+                     /db_xref="UniProtKB/TrEMBL:A2QRH7"
+                     /translation="MAPVPEAYFPSLDKCFSGDVQLLSWKRAFLHTCKIDSNVEDVERLHAFLSHPDSVQVLSNCLNGFPSPSPKSKSDFESKTAAINVETNAQSSYDLKEIKADALWLSEKAGIDEISALRLTVLEWQTRPATRLLNRFADEETTSLQSAAGGDNLRVSLAGPALAEIFNQKAARDDEASDFYSETSRRLRLRSLYLSERSHVVKAACKLLALYLRENQDPSDRPSQQLSRLGDTIFKEKSKGEGWRTFIKGCIEAVRSRLSSLDGGGGWLGATESSQEVEELWATILIEEVVHITQMLFLQLQAATEIPSAELLLSWLRLMVDYSFLEPLRVVSTALSCSLRDLVADYKKPCQDPLELLVPLQGFVSLTTLAFLKLSLSVPSIISNSSRKGPSVETPYYLSKEEIGQINELFLSAGVESKIANPAAFSWGLIMHTMREL"
+     mRNA            4772..6014
+                     /label="An08g06090"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /product="uncharacterized protein"
+                     /transcript_id="XM_059749106.1"
+                     /db_xref="GeneID:4982925"
+ORIGIN
+        1 gacagttcag aacctctacg tccgaaccag tcaaatcgta tacgattatt gactcgtcgc
+       61 ttcctggcct ctcatcattc gcatcctgcg gtgactcgtg cttgatgcct tgcattggtg
+      121 catctagatg ctcttgcttg acaaccatcg agccatcgcc gtcgggtgca tctataactc
+      181 cccgaaggaa atttgacaac atcccagccc gatcctcgta gtaaaaccag ttctcgtgag
+      241 gaagcagtaa tttgccatca gcatccctct taccagaggg taaaacaccg ttcagtcgct
+      301 cttcccactc tttacctgtt ttgtccttga aaatcttctt gaaagccttc actgcggagt
+      361 cttgatctgc tttcagcggt gtcaggagtt gactctgctg cttgccaata cgactgtact
+      421 cgagatgtgt agcgtagaca tggggttctt tattagactc gtatacctac atacagctac
+      481 tcgatcagcc ttcttctcgt gatacatata ctccacctgc ctggagagac aaaacgagag
+      541 cgaattcaca gcattgcaaa gaagactaac tcaccctgac cacatatctc tccttgtagt
+      601 ttttgccctg catcgaccgg acaagcgtag cattgtacgt cactcttgcg tcttgatctg
+      661 tataaatgtg atatctcgct agatcgccag cctgaatcag ccttcgtaac acgcagaacg
+      721 agggaataga cgataacata cacaccgcag tgccggcctt tacgcccttt ctcttcctgc
+      781 caaaggggtc ctgattcttc agattaccta gttgcacatg tcagtcatta cggtgatata
+      841 tgtagtcaag tccgtccgaa ttcacttcct cggttggacc caactccaac gatcaccaac
+      901 tcgccccaag agaagcaaac gtaccttttc tcctaggctt ttctttctcc tttttcctta
+      961 tcttgtctct ctctttaccc ctcttcttat tctcactctt cagtatatcc acgagaaggt
+     1021 actccgtctc acgcttcggt ctccgattct tagataagag agagtcttcc agccagtcgt
+     1081 aagagacaat ttttatagtc cttagttgct tagctttgcg gactgttgtt cgatgtcttt
+     1141 gttagatatg tatgcatttc ttgtgtccaa aagattcagg ggtagttata tagcatgacg
+     1201 agagaaggtg gatccatgaa gtgcctacct gcttcaacat tatccttgaa ggcttccttg
+     1261 gtggtaatca gatgggtgat ctctttgcta atatccttgg aatattggcc tccgttggcc
+     1321 cgtatccatt ggggtatttt gtccgaatta ccgtcgaatt tgccaaatga gctggcatat
+     1381 atttttttga aggtcttgcc cattctatgg agattgggag aggtgaagat tccggtggaa
+     1441 gctgatgtaa cagctgagat taagcctttt caactgacta tatgaagggt gcagtgttga
+     1501 gtgaattgag ggatgtcaga gtgagcgcag aagactaata tggtaagtag aaagctttgg
+     1561 ggagaatatg atatatatta cgagtagtag tatagtacgt ttcgatagat ggttgaatga
+     1621 cactacgaac ggagctcagg gtgactttct cgtcaacaaa tagtgaggtt actgtaagct
+     1681 ggcaagcgga gtgtgatatc tgaagtggcc gtgtcattgt tgggcatcat tgctatgata
+     1741 gatccgaaag gtatcaacga agcagaaaat aattaaactc aaagaaaatc aagtgaaaag
+     1801 accaatgatg cccttaaatc ccatgtttgg taaatttaaa gaccattcaa agctagagtc
+     1861 ccctcacggc ctgcacaaag gcgcgaattt tgccaagatc ctgagcaccg tctgactcta
+     1921 cgccagaact gacatcgacg ccaacgacct tgcgaccgga ttcgccaagc ttctggacaa
+     1981 tgccagcaac attggtggga tctaagccac ctgccagaat aacgcgcaaa ccgctatcct
+     2041 tatcgaggac gttctgaacg cgggactggt ccagcaactc accagttccc ccaacgccag
+     2101 aatccagtaa tggtagggag tgataagccc tgcgggcgat cgcaggctcg tcaagcccaa
+     2161 acttgcggat gacaggcact gggatcaatt tggcccattc aagcggctca gatccgtgaa
+     2221 gttgcacgac atcgagtccc agcttttgtt gctggctcaa aatataatca aggggttggt
+     2281 tctggaagac gcccacgaga agcgcccggc taggatgacg taggattctg gctgagtggt
+     2341 caaaatactc aacagatgct gcagcgggag ttcctcgaga tgtgggagga gtttgaccag
+     2401 caggcttcgg gatggacttg accacttgag atatacggag ggccacgtca tcagggacgc
+     2461 atcgcgttcg tccctgaacc atgataattc caattaggtc tgctccagcc tcgatcgccg
+     2521 ctcgtgctgc ttcttcagaa cgagtgccgc agatctttac caacggcgaa ctccgggact
+     2581 ctttggaaac gttctgtgag ctgcctccaa gaagctcagc aatgaaagca gccgtgtctg
+     2641 ctgcccgcat aagggcttct cctactagga tagctttgac accctccttc ttgtaagctt
+     2701 ccacatcctt aggcccggag attccactga gggcacacac aatggtgctg ctgggcacct
+     2761 gatccatgag ccggctagta gtgccgagat caacctcgaa actagtgagg tctctgttgt
+     2821 tgacaccgat aacctcagct ccaagatcga ccgcaatctt catctcttcg ggtgtgttca
+     2881 cttcaaccaa aggctccatg ccaaggctac gggagtagtg atacaaccga gtgaggagtt
+     2941 caacactaag catcttcaca atgagcaaga ccgtgtcagc accggccaaa cgggcctcta
+     3001 ggatctgata ttcgtcgaaa acgaattcct tccgcagaat ggcgggcctg ttcgtcaagc
+     3061 cctccagact ttggcgaacg gcacgcaagt cgtcaatgct gcctttgaac cattcaggct
+     3121 ctgtgagcac agagatgaca ctggcaccgg ccttcgcgta ttgcctggcc tgagcgggcg
+     3181 cacacgcgtt ttcggctatc atacccttgg agggagaagc acgcttgatt tccgccataa
+     3241 gggacagtgg atagggcgat tgtctaagac gagccggaaa tgggacctgg ggaggggcca
+     3301 ggttaaggtc ataggcagcc tggaggtctg ctggccgctg ggagggaatg gtcttttgca
+     3361 cggcaacagc ggctctccga tggtcgtaaa tcctttcgag gatggacaac ttcttgtcag
+     3421 ttttcggggc agtgtttgag gaaacggtgg ccttggtcgt gttgctctgt tcatcaaaat
+     3481 gcttcccgtt tccttcccag gtacctgcag taagtttgag gaagttgcgg aacatggtac
+     3541 ggccgtactc agtgaggata ctctcggggt ggaactggac tccctccaca gccaatttct
+     3601 tgtgcctcac acccatgatg acatccttgt tgctatcgtc cgttaactgg acggaagagg
+     3661 acacctccag acagtcggga attgtcgcat gtgtaccagc tagcgagtgg taacgagtga
+     3721 cggcgagcga gtcaggtagt ccttcatagg cgcccttgcc gtcatgttta agcgcggacg
+     3781 tcttgccgtg aagaatttcg ccggtgacat caacctttcc accaaagcaa gtaataatac
+     3841 attgctggcc catgcacaca ccgaagatgg gaatcttgcc actgaagtat tggatggccg
+     3901 cactgctgat accagcgtca gtctcggggt gaccggggcc cggactgata accagctggg
+     3961 tgggtttttt ggcgatcagt tcctccaaag tgatctggtc attacgaaat acattgacag
+     4021 tagcaccctc aaggactaag tactggtaaa cgttccaggt aaacgagtcg tagttatcaa
+     4081 tcaagataac attcgatgcc gtgttcaact gggcggcctt ggtgggatgg tggggggaat
+     4141 gatcgacgag tccggagtcc gccatgacga gaatctgcgc aggacaggaa tttccaatta
+     4201 gatacgaatc gaagagcaat gcgataaggt gcgaggagcc agggcaatgc acatagaaac
+     4261 acactcacct ttttgaagtc gagctgtcaa ctgccggagt aaagtgagag cggagcaaac
+     4321 atcgacggtg gctgcggcct gactcagatc ctcggtggac cgagtcgcct tcccgatcgg
+     4381 ggttgaaaag caaacggcgc aaaatttcag ctcaccgcct gggactaaac ccagataggc
+     4441 agtcattgtt gacctccagc caaacccgct ccttggaata atattcttgg gttcccgcct
+     4501 ttgagcttgt gagctctctg cttaacactc ttgacttgtc tgcccttttg ctccgggtct
+     4561 ctgtcgcctt ggaccctcgc gagcagcaca tccatttcgc atcacatcga gcaactagaa
+     4621 tgatataatt gtctcgccaa tggctcccgt cccggaagcc tatttcccgt ccctggacaa
+     4681 gtgcttctcc ggggacgtcc agcttctgta tgggcttaca ttcgtctctt cccaattgac
+     4741 gagcagtcac tgatggttta tgcgatctta ggtcctggaa gagagccttc cttcacacat
+     4801 gcaaaatcga tagcaacgtc gaagatgtgg aaaggctcca tgcctttcta tcgcatcccg
+     4861 acagcgtcca agtcctctcg aattgcctca acggctttcc ttctccttcc cccaaatcga
+     4921 aatccgactt tgaatctaag acagccgcaa ttaatgtcga gacaaatgcg caatcttcgt
+     4981 atgatttgaa ggagatcaaa gcggatgctt tatggctgag cgagaaggcg ggtattgatg
+     5041 aaatcagcgc gctccgatta acagtattag aatggcaaac ccgaccagcc acgcgccttc
+     5101 tcaaccgatt cgccgatgag gaaacaacca gcttgcaaag cgcggcggga ggtgacaatc
+     5161 ttcgtgtctc tctcgcagga cctgccctgg ccgaaatttt caaccaaaaa gcagctcgtg
+     5221 atgacgaggc ttccgatttc tattctgaga ccagccgccg cctgcggctg cgcagcttat
+     5281 acctatcgga gagaagccat gtcgtcaaag cggcatgcaa gctgcttgcg ttgtatctta
+     5341 gagaaaacca ggatccttcg gaccgtccct ctcagcagct gtccagacta ggtgacacga
+     5401 tattcaaaga aaagtccaag ggtgaaggct ggcgcacgtt tatcaagggc tgcattgaag
+     5461 ctgtgcggag tcggctgtct tcgttagacg gtggtggtgg ctggctaggc gccaccgaga
+     5521 gtagccaaga agtggaagaa ttatgggcca caattcttat cgaagaggtg gtacatatta
+     5581 cacagatgtt gttcctgcaa cttcaagcgg ctacagaaat ccctagtgcg gagcttctgc
+     5641 tttcttggct tcgtttgatg gtcgactaca gttttctgga gccgctccga gtcgtgagta
+     5701 ctgccttatc atgttcactg cgtgatcttg ttgctgacta caagaagcct tgccaggatc
+     5761 ctctggagct gttggtgcca cttcaaggct ttgtctcttt aacaactcta gcttttctga
+     5821 agctgtcatt gtcggtccca tcaatcatca gcaattcttc acgcaaaggc ccgtcggtcg
+     5881 agacacctta ctacctctca aaggaagaga ttggccagat caacgagctt ttcttgtcgg
+     5941 ctggtgtaga atccaagatt gctaatccag ctgcattttc ctggggactg ataatgcata
+     6001 ctatgaggga gctt
+//

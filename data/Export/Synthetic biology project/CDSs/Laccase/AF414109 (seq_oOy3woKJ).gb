@@ -1,0 +1,52 @@
+LOCUS       AF414109                1563 bp ds-DNA     linear       18-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:AF414109"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry: AF414109
+            Description: Trametes versicolor laccase B precursor (lac1) mRNA,
+            complete cds
+FEATURES             Location/Qualifiers
+     CDS             1..1563
+                     /label="lac1 CDS (laccase B precursor)"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     source          1..1563
+                     /label="source"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     gene            1..1563
+                     /label="lac1 gene"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     sig_peptide     1..63
+                     /label="lac1 sig_peptide"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+ORIGIN
+        1 atgtcgaggt ttcactctct tttcgctttc gtcgttgctt cccttacggc tgtggcccac
+       61 gctggtatcg gtcccgtcgc cgacctaacc atcaccaacg cagcggtcag ccccgacggg
+      121 ttttctcgcc aggccgtcgt cgtgaacggc ggcacccctg gccctctcat cacgggtaac
+      181 atgggggatc gcttccagct caatgtcatc gacaacctta ccaaccacac gatgctgaag
+      241 agcacgagta ttcactggca cggtttcttc cagaagggca ccaactgggc cgacggtccc
+      301 gccttcatca accagtgccc gatctcatct ggtcactcgt tcctgtacga cttccaggtt
+      361 cctgaccagg ctggtacctt ctggtatcac agtcacttgt ctacgcagta ctgtgatggt
+      421 ttgaggggtc cgttcgttgt ttacgacccg aacgacccgg ccgccgacct gtacgacgtc
+      481 gacaacgacg acactgtcat tacccttgtg gattggtacc acgtcgccgc gaagctgggc
+      541 cccgcattcc ctctcggcgc cgacgccacc ctcatcaacg gtaagggacg ctcccccagc
+      601 acgaccaccg cggacctctc agttatcagt gtcaccccgg gtaaacgcta ccgtttccgc
+      661 ctggtgtccc tgtcgtgcga ccccaactac acgttcagca tcgatggtca caacatgacg
+      721 atcatcgaga ccgactcaat caacacggcg cccctcgtcg tcgactccat tcagattttc
+      781 gccgcccagc gttactcctt cgtgctcgag gccaaccagg ccgtcgacaa ctactggatt
+      841 cgcgccaacc caaacttcgg taacgtcggg tttaccggcg gcattaactc ggctatcctc
+      901 cgctacgatg gtgccgctgc cgtggagccc accaccacgc aaaccacctc gactgcgccg
+      961 ctcaacgagg tcaacctgca cccgctggtt gccaccgctg tgcctggctc gcccgtcgct
+     1021 ggtggtgtcg acctggccat caacatggcg ttcaacttca acggcaccaa cttcttcatc
+     1081 aacggcgcgt ctttcacgcc cccgaccgtg cctgtcctnc ttcagatcat cagcggcgcg
+     1141 cagaacgcgc aggacctcct gccctccggc agcgtctact cgcttccctc gaacgccgac
+     1201 atcgagatct ccttcccggc gaccgccgcc gcccccggtg cgccccaccc nttccacttg
+     1261 cacgggcacg cgttcgcggt cgtccgcagc gccggcagca cggtntacaa ctacgacaac
+     1321 cccatcttcc gcgacgtcgt cagcacgggg acgcctgcgg ccggtgacaa tgtcaccatc
+     1381 cgcttccgca ccgacaaccc cggcccgtgg ttcctccact gccacatcga cttccacctc
+     1441 gaggccggct tcgccgtcgt gttcgcggag gacatccccg acgtcgcgtc ggcgaacccc
+     1501 gtcccccagg cgtggtccga cctctgcccg acctacgacg cgcgcgaccc gagcgaccag
+     1561 taa
+//

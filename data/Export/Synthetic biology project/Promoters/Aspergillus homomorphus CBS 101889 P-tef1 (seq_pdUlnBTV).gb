@@ -1,0 +1,48 @@
+LOCUS       Aspergillus_homomorphus 1593 bp ds-DNA     linear       15-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:XM_025695596"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry:
+            XM_025695596 Description: Aspergillus homomorphus CBS 101889
+            translation elongation factor (BO97DRAFT_407229), mRNA
+FEATURES             Location/Qualifiers
+     gene            1..1593
+                     /label="BO97DRAFT_407229 gene"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     source          1..1593
+                     /label="source"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     CDS             82..1464
+                     /label="BO97DRAFT_407229 CDS (translation elongation factor)"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+ORIGIN
+        1 acctctacgc atttgtggcc gtagtatctg agcaattctc tagaaccttt ttacaaaagt
+       61 tcatatcaca acaccgtcac catgggtaag gacgagcgcg ctcacatcaa catcgtcgtt
+      121 atcggccacg tcgattccgg caagtccacc accaccggtc acttgatcta caagtgcggt
+      181 ggtatcgacc agcgtaccat cgagaagttc gagaaggaag ccgccgagct cggtaagggt
+      241 tccttcaagt acgcttgggt tcttgacaag ctcaagtccg agcgtgagcg tggtatcacc
+      301 atcgatatcg ctctctggaa gttccagact gccaagtatg aggttaccgt cattgatgcc
+      361 cccggtcacc gtgacttcat caagaacatg atcactggta cctcccaggc tgactgcgct
+      421 atcctcatca ttgcttccgg tactggtgaa ttcgaggctg gtatctccaa ggatggccag
+      481 acccgtgagc acgctctgct cgctttcacc ctcggtgtcc gtcagctcat tgttgccctc
+      541 aacaagatgg acacctgcaa gtggtccgag gaccgttaca acgaaatcgt taaggagacc
+      601 tccaacttca tcaagaaggt cggctacaac cccaaggccg ttcctttcgt ccccatctcc
+      661 ggtttcaacg gtgacaacat gctcgagcct tcccccaact gcccctggta caagggatgg
+      721 gagaaggagg gtaaggccgg caaggtcacc ggtaagactc tcctcgaggc cattgacgcc
+      781 atcgagaccc ccgtccgtcc cgccaacaag cccctccgtc ttcccctcca ggatgtctac
+      841 aagatctccg gtattggaac tgtgcccgtc ggtcgtgtcg agactggtgt tatcaccccc
+      901 ggtatggtcg tgactttcgc tcctgccaac gtcaccactg aagtcaagtc cgttgagatg
+      961 caccaccagc agctcaagga gggtctcccc ggtgacaacg tcggtttcaa cgtcaagaac
+     1021 gtctccgtca aggaggtccg ccgtggtaac gttgccggtg actccaagaa cgaccccccc
+     1081 atgggttgcg agagcttcac tgctcaggtc atcgtcctca accaccccgg tcaggtcggc
+     1141 gctggttacg ctcccgtcct cgactgccac accgcccaca ttgcttgcaa gttcgctgag
+     1201 ctccttgaga agattgaccg ccgtaccgga aagtctgttg agtcttctcc taagttcatc
+     1261 aagtctggtg atgctgccat cgtcaagatg atcccctcca agcccatgtg tgttgagtcc
+     1321 ttcactgagt accctcccct tggtcgcttc gccgtccgtg acatgagaca aactgtcgcc
+     1381 gtcggtgtca ttaaggccgt tgagaagaag gagggtggct ccggcaaggt caccaaggct
+     1441 gcccagaagg ccggtaagaa ataagctggt tctgaagggt ggtgatgatg ttgtgatgat
+     1501 gttttcatga ttacaaaata tggaattacg gaactagact tgggtttatg tagttgatcc
+     1561 tacaaaactt gaatcatgaa tcatttcgtt caa
+//
