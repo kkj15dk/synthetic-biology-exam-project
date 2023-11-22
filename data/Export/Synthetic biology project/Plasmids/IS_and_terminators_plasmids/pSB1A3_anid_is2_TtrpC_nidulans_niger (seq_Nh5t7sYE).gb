@@ -32,31 +32,31 @@ FEATURES             Location/Qualifiers
                      /ApEinfo_revcolor="#c6c9d1"
                      /ApEinfo_fwdcolor="#c6c9d1"
                      /note="label: contig 1.9 2818..14258(-1)"
-     gene            complement(1382..1589)
-                     /label="trpC gene"
-                     /ApEinfo_revcolor="#d59687"
-                     /ApEinfo_fwdcolor="#d59687"
-                     /note="label: trpC gene"
      mRNA            complement(1382..1589)
                      /label="trpC mRNA"
                      /ApEinfo_revcolor="#b1ff67"
                      /ApEinfo_fwdcolor="#b1ff67"
                      /note="label: trpC mRNA"
+     gene            complement(1382..1589)
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: trpC gene"
      CDS             complement(1438..1589)
                      /label="CDS"
                      /ApEinfo_revcolor="#84b0dc"
                      /ApEinfo_fwdcolor="#84b0dc"
                      /note="codon_start: 1 transl_table: 1 translation: PLNVTEIIKQLDESGYKIVGVDVSSGVETNGVQDLDKIRSFVQAAKSAF*"
-     gene            1592..1742
-                     /label="trpC gene"
-                     /ApEinfo_revcolor="#c7b0e3"
-                     /ApEinfo_fwdcolor="#c7b0e3"
-                     /note="label: trpC gene"
      mRNA            1592..1742
                      /label="trpC mRNA"
                      /ApEinfo_revcolor="#f58a5e"
                      /ApEinfo_fwdcolor="#f58a5e"
                      /note="label: trpC mRNA"
+     gene            1592..1742
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="label: trpC gene"
      terminator      1592..2142
                      /label="TtrpC_niger"
                      /ApEinfo_revcolor="#c6c9d1"

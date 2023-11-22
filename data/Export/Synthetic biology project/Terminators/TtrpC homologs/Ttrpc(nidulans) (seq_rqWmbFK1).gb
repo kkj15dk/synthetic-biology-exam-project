@@ -1,22 +1,22 @@
 LOCUS       Ttrpc(nidulans)          554 bp ds-DNA     linear       20-NOV-2023
 DEFINITION  .
 FEATURES             Location/Qualifiers
+     source          1..554
+                     /label="source"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
      misc_feature    1..554
                      /label="contig 1.9 2818..14258(-1)"
                      /ApEinfo_revcolor="#ffef86"
                      /ApEinfo_fwdcolor="#ffef86"
-     source          1..554
-                     /label="source"
+     gene            1..210
+                     /label="trpC gene"
                      /ApEinfo_revcolor="#d59687"
                      /ApEinfo_fwdcolor="#d59687"
      mRNA            1..210
                      /label="trpC mRNA"
                      /ApEinfo_revcolor="#b1ff67"
                      /ApEinfo_fwdcolor="#b1ff67"
-     gene            1..210
-                     /label="trpC gene"
-                     /ApEinfo_revcolor="#d59687"
-                     /ApEinfo_fwdcolor="#d59687"
      CDS             2..154
                      /ApEinfo_revcolor="#84b0dc"
                      /ApEinfo_fwdcolor="#84b0dc"

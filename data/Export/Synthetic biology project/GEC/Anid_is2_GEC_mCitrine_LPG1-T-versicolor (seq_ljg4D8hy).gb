@@ -1,0 +1,384 @@
+LOCUS       Anid_is2_GEC_mCitrine_L 6897 bp ds-DNA     linear       22-NOV-2023
+DEFINITION  .
+KEYWORDS    "creator:SnapGene License"
+FEATURES             Location/Qualifiers
+     misc_feature    1..1025
+                     /label="Homology arm UP_anid_is2"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: Homology arm UP_anid_is2 note: /feature_type=Homology arm"
+     CDS             complement(234..782)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004608 db_xref: EnsemblGenomes-Tr: CADANIAT00004608 db_xref: GOA: Q5B5V7 db_xref: InterPro: IPR000530 db_xref: InterPro: IPR004038 db_xref: InterPro: IPR029064 db_xref: UniProtKB/TrEMBL: Q5B5V7 label: ANIA_04073 note: transcript_id=CADANIAT00004608 old_locus_tag: AN4073.4 product: 40S ribosomal protein S12 (Broad) protein_id: CBF74761.1 transl_table: 1 translation: M,,SDGEETQSNPPVAAEEVEVPAESGAGGQMSVLDALKGVLRIALIHDGLARGLREAAKALDRRQAHMCVLNEGCEEEAYKKLVVALCSEHKIPLIKVPDGKMLGEWVGLCTYLEPPKNNYQRTLEELQKFTIGRMLTVIYLTGQLDREGNARKVVNCSCVVVKDWGEESQERSVLLNYFQTEQ*"
+     gene            complement(234..960)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: ANIA_04073 old_locus_tag: AN4073.4"
+     CDS             complement(783..883)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004608 db_xref: EnsemblGenomes-Tr: CADANIAT00004608 db_xref: GOA: Q5B5V7 db_xref: InterPro: IPR000530 db_xref: InterPro: IPR004038 db_xref: InterPro: IPR029064 db_xref: UniProtKB/TrEMBL: Q5B5V7 label: ANIA_04073 note: transcript_id=CADANIAT00004608 old_locus_tag: AN4073.4 product: 40S ribosomal protein S12 (Broad) protein_id: CBF74761.1 transl_table: 1 translation: M,,SDGEETQSNPPVAAEEVEVPAESGAGGQMSVLDALKGVLRIALIHDGLARGLREAAKALDRRQAHMCVLNEGCEEEAYKKLVVALCSEHKIPLIKVPDGKMLGEWVGLCTYLEPPKNNYQRTLEELQKFTIGRMLTVIYLTGQLDREGNARKVVNCSCVVVKDWGEESQERSVLLNYFQTEQ*"
+     CDS             complement(884..886)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004608 db_xref: EnsemblGenomes-Tr: CADANIAT00004608 db_xref: GOA: Q5B5V7 db_xref: InterPro: IPR000530 db_xref: InterPro: IPR004038 db_xref: InterPro: IPR029064 db_xref: UniProtKB/TrEMBL: Q5B5V7 label: ANIA_04073 note: transcript_id=CADANIAT00004608 old_locus_tag: AN4073.4 product: 40S ribosomal protein S12 (Broad) protein_id: CBF74761.1 transl_table: 1 translation: M,,SDGEETQSNPPVAAEEVEVPAESGAGGQMSVLDALKGVLRIALIHDGLARGLREAAKALDRRQAHMCVLNEGCEEEAYKKLVVALCSEHKIPLIKVPDGKMLGEWVGLCTYLEPPKNNYQRTLEELQKFTIGRMLTVIYLTGQLDREGNARKVVNCSCVVVKDWGEESQERSVLLNYFQTEQ*"
+     terminator      complement(1026..1579)
+                     /label="TtrpC nidulans"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="label: contig 1.9 2818..14258(-1)"
+     mRNA            complement(1370..1577)
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: trpC mRNA"
+     gene            complement(1370..1577)
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: trpC gene"
+     CDS             complement(1426..1577)
+                     /label="CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 transl_table: 1 translation: PLNVTEIIKQLDESGYKIVGVDVSSGVETNGVQDLDKIRSFVQAAKSAF*"
+     CDS             complement(1580..2293)
+                     /label="mCitrine"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="codon_start: 1 note: mammalian codon-optimized product: enhanced YFP with monomerizing A206K mutation (Zacharias et al., 2002) transl_table: 1 translation: M,V,SKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGLMCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK*"
+     CDS             complement(2294..2296)
+                     /label="mCitrine"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="codon_start: 1 note: mammalian codon-optimized product: enhanced YFP with monomerizing A206K mutation (Zacharias et al., 2002) transl_table: 1 translation: M,V,SKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGLMCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK*"
+     CDS             complement(2297..2299)
+                     /label="mCitrine"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="codon_start: 1 note: mammalian codon-optimized product: enhanced YFP with monomerizing A206K mutation (Zacharias et al., 2002) transl_table: 1 translation: M,V,SKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTFGYGLMCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSYQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK*"
+     promoter        2300..3152
+                     /label="h4g3 A. clavatus"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     regulatory      3514..3520
+                     /label="LPG1 regulatory"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 regulatory"
+     gene            3514..5073
+                     /label="LPG1 gene"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: LPG1 gene"
+     CDS             3587..3647
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mRNA            3587..3647
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     sig_peptide     3587..3647
+                     /label="LPG1 sig_peptide"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: LPG1 sig_peptide"
+     exon            3587..3647
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: LPG1 exon"
+     sig_peptide     3728..3744
+                     /label="LPG1 sig_peptide"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="label: LPG1 sig_peptide"
+     CDS             3728..3935
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mRNA            3728..3935
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     exon            3728..3935
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="label: LPG1 exon"
+     mat_peptide     3745..3935
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     CDS             3994..4128
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mRNA            3994..4128
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     exon            3994..4128
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 exon"
+     mat_peptide     3994..4128
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     mRNA            4182..4728
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             4182..4728
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mat_peptide     4182..4728
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     exon            4182..4728
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: LPG1 exon"
+     CDS             4794..4868
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mRNA            4794..4868
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     exon            4794..4868
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: LPG1 exon"
+     mat_peptide     4794..4868
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     mRNA            4925..4989
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             4925..4989
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mat_peptide     4925..4989
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     exon            4925..4989
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: LPG1 exon"
+     mat_peptide     5046..5070
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     mRNA            5046..5073
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             5046..5073
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     exon            5046..5073
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: LPG1 exon"
+     gene            5293..5443
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="label: trpC gene"
+     mRNA            5293..5443
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /note="label: trpC mRNA"
+     terminator      5293..5843
+                     /label="TtrpC_niger"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             5294..5443
+                     /label="CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 transl_table: 1 translation: DPTNVAGIVQKLGESGRKVVGVDVSSGVESDGAQDLGKIRAFVQAVRGL*"
+     misc_feature    5844..6897
+                     /label="Homology arm DW_anid_is2"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: Homology arm DW_anid_is2 note: /feature_type=Homology arm"
+     gene            complement(5948..6897)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: ANIA_04072 old_locus_tag: AN4072.4"
+     CDS             complement(5948..6166)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004609 db_xref: EnsemblGenomes-Tr: CADANIAT00004609 db_xref: GOA: C8V5G6 db_xref: InterPro: IPR002110 db_xref: InterPro: IPR020683 db_xref: UniProtKB/TrEMBL: C8V5G6 label: ANIA_04072 note: transcript_id=CADANIAT00004609 old_locus_tag: AN4072.4 product: histone deacetylase complex subunit (Hos4),putative (AFU_orthologue; AFUA_1G05490) protein_id: CBF74763.1 transl_table: 1 translation: SEKKMAKETEQERLAQEARAADAEKARAQEEEERAARAACIALEKEEENKRKEAEQRRIKQAEDEHQKRLEQERQRLAKIRREQEAHEQRRRDALPSRLCIAANLVGSNNPQSRSHTWLKKFMPVVTAETRQLDPSCSADVANERWVPNYLVAPLLATNDLQLSQYSSWEKRHVTPTQRMNLWRVTRRMLVQADDTEFLTASFGQIMQKDSETRSKYFDMDHVFWVK,,LSDFMDLVPHIPHLHGLDIQFLKMHIDREPSFNPASQPSLSNGHIDGPHEKPGPYEQTLTNGYAHRRPSTYV*"
+     CDS             complement(6167..6216)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004609 db_xref: EnsemblGenomes-Tr: CADANIAT00004609 db_xref: GOA: C8V5G6 db_xref: InterPro: IPR002110 db_xref: InterPro: IPR020683 db_xref: UniProtKB/TrEMBL: C8V5G6 label: ANIA_04072 note: transcript_id=CADANIAT00004609 old_locus_tag: AN4072.4 product: histone deacetylase complex subunit (Hos4),putative (AFU_orthologue; AFUA_1G05490) protein_id: CBF74763.1 transl_table: 1 translation: SEKKMAKETEQERLAQEARAADAEKARAQEEEERAARAACIALEKEEENKRKEAEQRRIKQAEDEHQKRLEQERQRLAKIRREQEAHEQRRRDALPSRLCIAANLVGSNNPQSRSHTWLKKFMPVVTAETRQLDPSCSADVANERWVPNYLVAPLLATNDLQLSQYSSWEKRHVTPTQRMNLWRVTRRMLVQADDTEFLTASFGQIMQKDSETRSKYFDMDHVFWVK,,LSDFMDLVPHIPHLHGLDIQFLKMHIDREPSFNPASQPSLSNGHIDGPHEKPGPYEQTLTNGYAHRRPSTYV*"
+     CDS             complement(6217..6897)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004609 db_xref: EnsemblGenomes-Tr: CADANIAT00004609 db_xref: GOA: C8V5G6 db_xref: InterPro: IPR002110 db_xref: InterPro: IPR020683 db_xref: UniProtKB/TrEMBL: C8V5G6 label: ANIA_04072 note: transcript_id=CADANIAT00004609 old_locus_tag: AN4072.4 product: histone deacetylase complex subunit (Hos4),putative (AFU_orthologue; AFUA_1G05490) protein_id: CBF74763.1 transl_table: 1 translation: SEKKMAKETEQERLAQEARAADAEKARAQEEEERAARAACIALEKEEENKRKEAEQRRIKQAEDEHQKRLEQERQRLAKIRREQEAHEQRRRDALPSRLCIAANLVGSNNPQSRSHTWLKKFMPVVTAETRQLDPSCSADVANERWVPNYLVAPLLATNDLQLSQYSSWEKRHVTPTQRMNLWRVTRRMLVQADDTEFLTASFGQIMQKDSETRSKYFDMDHVFWVK,,LSDFMDLVPHIPHLHGLDIQFLKMHIDREPSFNPASQPSLSNGHIDGPHEKPGPYEQTLTNGYAHRRPSTYV*"
+ORIGIN
+        1 ATTACGTAGA GAGAGCACGG AACTTGTCAA TCCTTGTTCT TTATTTTTTC ATTTTCCGAC
+       61 ATCAATAAAT AGATAGATCT CAATCCCAAC AGTCAGGGTC TGTACCAAAG CACAAAGACA
+      121 GACGGGGCCT GTGAATATCC TCGCCAGCAG ACAGATAGTT AAATCCCTCC AGCGCATCCA
+      181 TATCACATCA CATCAATCTG AACCTTAAGC TGTTGTCGCG GGATAGAGAC AATTTACTGC
+      241 TCAGTCTGGA AGTAGTTGAG GAGAACAGAA CGCTCCTGGC TCTCCTCACC CCAGTCCTTA
+      301 ACAACAACGC AAGAGCAGTT GACAACCTTG CGCGCGTTAC CCTCACGGTC AAGCTGGCCT
+      361 GTTAAGTAAA TAACTGTTAG CATTCGTCCT ATAGTGAACT TCTGCAATTC CTCCAGGGTC
+      421 CTTTGGTAGT TGTTTTTTGG GGGTTCGAGG TACGTACAGA GGCCAACCCA CTCGCCGAGC
+      481 ATCTTTCCAT CGGGAACCTT GATGAGAGGG ATCTTGTGCT CAGAGCAGAG AGCGACAACG
+      541 AGCTTCTTGT AGGCCTCCTC CTCGCAGCCC TCGTTGAGAA CACACATGTG GGCCTGACGG
+      601 CGGTCGAGGG CCTTAGCGGC CTCGCGGAGA CCACGGGCAA GACCGTCGTG GATCAGGGCA
+      661 ATGCGAAGGA CACCCTTGAG AGCATCGAGG ACAGACATCT GACCGCCGGC GCCAGACTCG
+      721 GCAGGAACCT CGACCTCCTC AGCGGCGACG GGGGGGTTGG ATTGGGTCTC TTCTCCGTCC
+      781 GACTGAAAAG CGGGAGAAAA TGTTAGTTCG GCTTCTGCGT TCGTTTACTG CGCATAGCTG
+      841 CGTGTTGAGG ACAGTTTGAG GGCATTATAT GAGCTGTACG CACCATTTTG ATGATGTGTT
+      901 AGTACGATGT TTGAATGTCG GAATATCCTC GAAGAGTCGT GGTGTTATGG GGAAGGAATC
+      961 TGGAAATTGT GGGATGGTAA TGCGATTCTG CCTCGCCTAG ACCTATCCGT GTGCCCTACT
+     1021 TAGTCaccta cgatgaatgt gtgtcctgta ggcttgagag ttcaaggaag aaacagtgca
+     1081 attatctttg cgaacccagg ggctggtgac ggaattttca tagtcaagct atcagagtaa
+     1141 agaagaggag catgtcaaag tacaattaga gacaaatata tagtcgcgtg gagccaagag
+     1201 cggattcctc agtctcgtag gtctcttgac gaccgttgat ctgcttgatc tcgtctcccg
+     1261 aaaatgaaaa tagactctgc taagctattc ttctgcttcg ccggagcctg aagggcgtac
+     1321 tagggttgcg aggtccaatg cattaatgca ttgcagatga gctgtatctg gaagaggtaa
+     1381 acccgaaacg cgttttattc ttgttgacat ggagctatta aatcactaga aggcactctt
+     1441 tgctgcttgg acaaatgaac gtatcttatc gagatcctga acaccatttg tctcaactcc
+     1501 ggagctgaca tcgacaccaa cgatcttatA TCCAGATTCG TCAAGCTGTT TGATGATTTC
+     1561 AGTAACGTTA AGTGGATCCT TACTTGTACA GCTCGTCCAT GCCgagagtg atcccggcgg
+     1621 cggtcacgaa ctccagcagg accatgtgat cgcgcttctc gttggggtct ttgctcagct
+     1681 tggactggta gctcaggtag tggttgtcgg gcagcagcac ggggccgtcg ccgatggggg
+     1741 tgttctgctg gtagtggtcg gcgagctgca cgctgccgtc ctcgatgttg tggcggatct
+     1801 tgaagttcac cttgatgccg ttcttctgct tgtcggccat gatatagacg ttgtggctgt
+     1861 tgtagttgta ctccagcttg tgccccagga tgttgccgtc ctccttgaag tcgatgccct
+     1921 tcagctcgat gcggttcacc agggtgtcgc cctcgaactt cacctcggcg cgggtcttgt
+     1981 agttgccgtc gtccttgaag aagatggtgc gctcctggac gtagccttcg ggcatggcgg
+     2041 acttgaagaa gtcgtgctgc ttcatgtggt cggggtagcg ggcgaagcac atcaggccgt
+     2101 agccgaaggt ggtcacgagg gtgggccagg gcacgggcag cttgccggtg gtgcagatga
+     2161 acttcagggt cagcttgccg taggtggcat cgccctcgcc ctcgccggac acgctgaact
+     2221 tgtggccgtt tacgtcgccg tccagctcga ccaggatggg caccaccccg gtgaacagct
+     2281 cCTCGCCCTT GCTCACCATT TTGATAGATG TGAATTAAAA AAGGTTTGCG TGTGTGGAAT
+     2341 TAAGATTGAT AGATGCGGAG CTGTCGATAT ACGACTTTGA AGTGGATGAT AAGCTGGGAT
+     2401 AGATGGATGA AGGAAGAGAG TGACGAAGAG TTTGGGACGG GAGATATTTG TATAGCGAAA
+     2461 GGGAGAGCGC GGGGAGAGTG CTGGAATCAC ACGCTAAGGC AGGGAACGAC CAATCAGAAT
+     2521 GAAGGATCCG ACCGGCGGGT TTGATCTCTC GGCAACGTGA CCGAAGAGAC AGTGATTCCG
+     2581 CTGGAATGGG CCTGATCTAC ACGGAATGCC GTCCAGCCAC TTTGATTAGG ATGGAAAGAT
+     2641 AATCAGAAGC ATTCTTGATC ATTACTAGAG TTATTCTAGA TAATCGAAAT ACCCAACATT
+     2701 CCACACATGT GGTTGGGATC AGGATGTTCT GGGGTGGCAT TCTATAGCCG TGATCCTGCA
+     2761 CTCCTATTGG CTGATGCAGA AGCTGTCTCG CTTAGGTACT AGCGTCCCGA GCAAGGGCCG
+     2821 CTCGCCCGCA GGCCTTTGAT TTTGCGTAGG CTAACGTTGC TGCCAGAACT GCGGCCCCGA
+     2881 AATCACGGCT TATGGTGTGC TGCTTTCCAA ACGTTTTTTC TGATCAAAAG TAACCGCGCT
+     2941 AAGACCACCC AAATTTGCTG GCAACCCAAC ACCACCTCTC AGATCACCAC CCACCCCTCG
+     3001 CTTACTACAA ATACCTTCCC CCCACCCGCT TTCTTCATCC TTCTTCCATC TACTCATCTC
+     3061 ATCGACCACC CAACTCGACC ATCCACTTTT CATCAATACC ATCACATTTT CATCAATTAA
+     3121 ACAACTAAAT CCATCAAACC TAATCATCAA AAgcctgctg acccccaatg actcgataat
+     3181 ttcacagcgt cggcgaccgc ggcgggctca ggggcacacg cgcgcgatca aacatccgac
+     3241 caagaggctc cgaggcgtcg cacaggacgc ggggattggt tgcacgcgcg atgcagcgcg
+     3301 agacaccgac gctatggacg cgttgaacta ccacaggact gtggtggcgg aacatacatt
+     3361 gacgagaata gcgaaatgta tgcgctgcca ttggccttga caaggctact ggctccgcac
+     3421 cgtctggtct tggcggccct ggtgcggcgg aagcaccatt gatcacactg tgtatgtttc
+     3481 acgtccaact ttttctctgc ctcagctgac atgtataaaa gcagggcgac attggcgaca
+     3541 ttcttcagag cactcaagcc tcagtcctcc tcagtcccag ttcgacatgg ctttcaagtc
+     3601 tcttctttct tttgtctcgg tcattggagc gctccagggc gcgaacggtg cgtaggaggt
+     3661 ggcgggtatt cgccgagtcc cgacagagca tctttgtgca gcatactgac ccacatttat
+     3721 cttttagccg cgttgacccg ccgcgtcgct tgccccgacg gcgtgaacac cgctaccaac
+     3781 gcggcgtgct gccaactctt cgctgtccgc gaggacctcc agcagaacct gttccacggc
+     3841 ggtctctgca cggctgaggc gcacgagtct ctccgtctga ccttccacga cgccatcgcc
+     3901 atctcccccg ctctcgaggc ccagggcatc ttcgggtacg ctgaatagat ttctgccctt
+     3961 agctgaatgt attaaccggg atatgctgtt cagtggtggt ggtgccgacg gctccatcgc
+     4021 gatcttcccc gagatcgaga caaacttcca ccccaacatt ggtctcgacg aaatcatcga
+     4081 gctccagaag ccgttcatcg cccgtcacaa catctccgtt gctgacttgt gagtacctga
+     4141 agcgaagcaa taatcgacct tgtactgata cgtcggtgca gcattcaatt cgctggtgcc
+     4201 atcggtgcct cgaactgcgc gggtgctccc cagctcgctg ccttcgtcgg ccgcaaggac
+     4261 gccacccagc ccgcccccga cggcctcgtc cccgagccgt tccacacgcc cgaccagatc
+     4321 ttcgaccgtc tcgcggacgc gtctcagggc gagttcgacc ccatcctgac ggtctggctc
+     4381 ctgaccgcgc acaccgttgc tgccgccaac gacgtcgacc ccaccaagtc cggcctgccg
+     4441 ttcgactcca cccccgagct ctgggacacg cagttcttcc tcgagaccca gctccgcggc
+     4501 acgagcttcc ccggctccgg cggcaaccag ggcgaggtcg agtctcccct tgcgggcgag
+     4561 atgcgtctcc agtccgacca caccatcgct cgcgactccc gcacggcatg cgagtggcag
+     4621 tcgttcgtcg acaaccagcc gaaggctcag cagatgttcc agttcgtgtt ccacgacctt
+     4681 tccatcttcg gccaggacat caacacgctc gtcgactgca ctgaagtcgt acgtcgcacc
+     4741 attcttccgc attcgtgccc ccctgtaaca gccactaact gccacatgta taggtcccca
+     4801 tcccggctga ccctcagggc cacacgcact tccccgctgg cctgagcaac gccgacatcg
+     4861 agcaggctgt aagcacaatc tagtccctcg ccgactatac tccactgacc catttgctct
+     4921 atagtgtgcc gagaccccct tcccgacctt ccccaccgac cccggaccca agaccgccgt
+     4981 cgcccccgtg taagttcccc aaccgatatt gcttgtgtac gtgaccttac gagccgttcc
+     5041 aacagcccca agccccctgc cgcccggaag taagggtatt tagggcctag catcaaagac
+     5101 ccggttatgg tcgtgcgagg ccgtgcctcg tagttggcct tatatgcctt tcaaagttcg
+     5161 gcatcgtatc acttgtatct gtgctttcgg tctccccttt ctcgcggggt tgttgtaaca
+     5221 acagcggttg tatcagtggc ttaaagttga aatatactcg ttctagacac atctttgcca
+     5281 gcgattgagt acAGATCCCA CCAATGTTGC TGGCATTGTC CAGAAGCTTG GCGAATCCGG
+     5341 TCgcaaggtc gttggcgtcg atgtcagttc tggcgtagag tcagacggtg ctcaggatct
+     5401 tggcaaaatt cgcgcctttg tgcaggccgt gaggggactc tagctttgaa tggtctttaa
+     5461 atttaccaaa catgggattt aagggcatca ttggtctttt cacttgattt tctttgagtt
+     5521 taattatttt ctgcttcgtt gatacctttc ggatctatca tagcaatgat gcccaacaat
+     5581 gacacggcca cttcagatat cacactccgc ttgccagctt acagtaacct cactatttgt
+     5641 tgacgagaaa gtcaccctga gctccgttcg tagtgtcatt caaccatcta tcgaaacgta
+     5701 ctatactact actcgtaata tatatcatat tctccccaaa gctttctact taccatatta
+     5761 gtcttctgcg ctcactctga catccctcaa ttcactcaac actgcaccct tcatatagtc
+     5821 agttgaaaAg gcttaatctc agcGCTTGTC TATCCAACTA CTCATCGTGT GTCGCGTCAC
+     5881 ATAAGGTATC ATAGTCATAC ATGCAAGGAA AATCGTCCAC CTGTACAAGT GATGCGGACT
+     5941 GACAGAATCA GACATATGTA CTTGGCCGCC TGTGCGCATA GCCATTGGTA AGTGTTTGTT
+     6001 CGTAAGGTCC AGGTTTCTCA TGCGGTCCAT CAATATGTCC ATTTGACAGG GATGGTTGAG
+     6061 AGGCAGGATT GAAACTCGGT TCTCGATCGA TGTGCATCTT CAGAAACTGT ATGTCCAGCC
+     6121 CATGGAGATG AGGAATATGA GGGACGAGGT CCATGAAATC GGAAAGCTGC GAAAATCAGT
+     6181 TATCGAATGA AATACTACAT TAACATAAAA ACGTACCTTT ACCCAGAAGA CATGATCCAT
+     6241 ATCAAAGTAC TTGCTCCGAG TTTCACTATC CTTCTGCATG ATCTGCCCAA ACGATGCTGT
+     6301 CAAGAACTCC GTATCGTCCG CCTGCACGAG CATTCGCCGT GTAACCCGCC ACAAATTCAT
+     6361 CCTTTGCGTA GGTGTTACGT GGCGCTTCTC CCAACTGGAA TACTGGGACA ACTGGAGGTC
+     6421 GTTGGTAGCT AGCAGCGGAG CAACGAGATA GTTTGGAACC CATCGCTCAT TTGCAACGTC
+     6481 TGCACTACAG CTAGGATCAA GCTGTCTGGT CTCCGCTGTA ACCACTGGCA TGAATTTCTT
+     6541 CAACCATGTG TGGCTGCGTG ATTGCGGGTT GTTGGATCCG ACAAGATTAG CTGCTATACA
+     6601 AAGGCGACTG GGAAGTGCAT CTCGACGACG TTGCTCGTGC GCTTCCTGCT CCCTCCGAAT
+     6661 TTTCGCAAGC CGCTGCCTTT CCTGTTCGAG GCGCTTCTGA TGCTCGTCCT CTGCTTGCTT
+     6721 AATTCGCCGC TGCTCAGCTT CTTTCCGCTT ATTTTCTTCC TCCTTTTCCA GCGCTATACA
+     6781 GGCCGCTCGG GCTGCTCGTT CCTCTTCTTC CTGCGCGCGA GCCTTTTCCG CGTCGGCAGC
+     6841 CCGGGCTTCT TGAGCTAGCC GCTCCTGCTC TGTTTCCTTG GCCATCTTTT TCTCAGA
+//

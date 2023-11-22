@@ -9,14 +9,14 @@ FEATURES             Location/Qualifiers
                      /label="lac1 CDS (laccase B precursor)"
                      /ApEinfo_revcolor="#c7b0e3"
                      /ApEinfo_fwdcolor="#c7b0e3"
-     source          1..1563
-                     /label="source"
-                     /ApEinfo_revcolor="#d59687"
-                     /ApEinfo_fwdcolor="#d59687"
      gene            1..1563
                      /label="lac1 gene"
                      /ApEinfo_revcolor="#b4abac"
                      /ApEinfo_fwdcolor="#b4abac"
+     source          1..1563
+                     /label="source"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
      sig_peptide     1..63
                      /label="lac1 sig_peptide"
                      /ApEinfo_revcolor="#84b0dc"

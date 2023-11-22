@@ -12,6 +12,10 @@ COMMENT     Imported using the Genbank importer. File name: chro1_anid_int1.gbk
             (http://www.aspergillusgenome.org) and Ensembl Genomes
             (http://www.ensemblgenomes.org).
 FEATURES             Location/Qualifiers
+     misc_feature    1..6517
+                     /label="contig 1.69 1..80995(-1)"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
      source          1..6517
                      /label="chr II"
                      /ApEinfo_revcolor="#ffef86"
@@ -21,10 +25,6 @@ FEATURES             Location/Qualifiers
                      /strain="FGSC A4"
                      /db_xref="taxon:227321"
                      /chromosome="II"
-     misc_feature    1..6517
-                     /label="contig 1.69 1..80995(-1)"
-                     /ApEinfo_revcolor="#c6c9d1"
-                     /ApEinfo_fwdcolor="#c6c9d1"
      mRNA            1..46
                      /label="ANIA_04253"
                      /ApEinfo_revcolor="#faac61"

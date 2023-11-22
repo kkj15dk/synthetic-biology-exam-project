@@ -5,14 +5,14 @@ FEATURES             Location/Qualifiers
                      /label="source"
                      /ApEinfo_revcolor="#9eafd2"
                      /ApEinfo_fwdcolor="#9eafd2"
-     gene            1..151
-                     /label="trpC gene"
-                     /ApEinfo_revcolor="#c7b0e3"
-                     /ApEinfo_fwdcolor="#c7b0e3"
      mRNA            1..151
                      /label="trpC mRNA"
                      /ApEinfo_revcolor="#f58a5e"
                      /ApEinfo_fwdcolor="#f58a5e"
+     gene            1..151
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
      CDS             2..151
                      /ApEinfo_revcolor="#84b0dc"
                      /ApEinfo_fwdcolor="#84b0dc"

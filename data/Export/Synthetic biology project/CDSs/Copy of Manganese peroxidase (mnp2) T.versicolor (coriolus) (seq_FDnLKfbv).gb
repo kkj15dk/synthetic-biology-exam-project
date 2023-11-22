@@ -1,0 +1,170 @@
+LOCUS       Copy_of_Manganese_perox 2235 bp ds-DNA     linear       22-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:Z54279"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry: Z54279
+            Description: T.versicolor (coriolus) PRL 572 PGVII gene
+FEATURES             Location/Qualifiers
+     source          1..2235
+                     /label="source"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     sig_peptide     402..462
+                     /label="PGVII sig_peptide"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     gene            402..462
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     CDS             402..462
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     exon            402..462
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     intron          463..526
+                     /label="intron"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     sig_peptide     527..543
+                     /label="PGVII sig_peptide"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     gene            527..866
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     exon            527..866
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     CDS             527..866
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     mat_peptide     544..866
+                     /label="PGVII mat_peptide (ligninolytic peroxidase)"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     intron          867..918
+                     /label="intron"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     mat_peptide     919..1119
+                     /label="PGVII mat_peptide (ligninolytic peroxidase)"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     gene            919..1119
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     exon            919..1119
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     CDS             919..1119
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     intron          1120..1177
+                     /label="intron"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     exon            1178..1419
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     gene            1178..1419
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     CDS             1178..1419
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     mat_peptide     1178..1419
+                     /label="PGVII mat_peptide (ligninolytic peroxidase)"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     intron          1420..1504
+                     /label="intron"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     gene            1505..1742
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     mat_peptide     1505..1742
+                     /label="PGVII mat_peptide (ligninolytic peroxidase)"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     exon            1505..1742
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     CDS             1505..1742
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     intron          1743..1801
+                     /label="intron"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     mat_peptide     1802..1811
+                     /label="PGVII mat_peptide (ligninolytic peroxidase)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     gene            1802..1814
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     exon            1802..1814
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     CDS             1802..1814
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+ORIGIN
+        1 gtacagtcga gctagcgctc ttcccatggg ttacagaacg ccgaattcaa ttaccacgca
+       61 ctcgcccccg gtaccggtat tgctgaggaa cccgctgtgt cgtttaccct ggtcgcaccc
+      121 agccattagc tgcgcaagtc catgaacatc tctcaccgac ggcgcggaac gctatcatat
+      181 cggccaggaa ctcattgaga ggcgatattc gtgtcatgcg attggctgtg cgagaatgta
+      241 cgcaagtgtg cctgttcttg catgcgcagg agagttgcgc cgacatggtt gcctcaggct
+      301 cgccggaagg cgagggtcga ggggtataaa tgcgaccgca aaaccgcagg gggtcctcag
+      361 gccatcgagc tctcttcctc catccctcaa aacctcagga aatggcgttc aagctcctgg
+      421 cttccttcgt ctctcttctc gcggcccttc aagtcgcgaa cggtatgtca ccctcaatgg
+      481 agcccgttca caacggccac tgatttcgag tggtttgtcc cgccaggtgc cgcgaccaag
+      541 aaggtgacgt gcgcctctgg ccaggtcacc tcgaacgcgg catgctgtgc cctcttcccc
+      601 gtgatcgacg acatccaggc gaacatgttc gacggcggcg agtgcaacga ggacgtgcac
+      661 gagtcccttc gcctcacctt ccacgacgcc atcggcatct ctcgcaaggc caacaaggcg
+      721 ggcgtgttcg gcggtggagg cgcggacggc tcgattgcca tcttcgcgga cattgagacc
+      781 aacttccacg cgaacaacgg tgtcgacgag attatcgaca cgcaggcgcc gatcatcgct
+      841 cgccacaacc tcaccaccgc cgacttgtat gtcctcccag gcatctcgat gtgacatatg
+      901 gttgacctcg gagtgcagca ttcagttcgc tggcgcgatc ggcgtgagca actgccctgg
+      961 tgcaccccgc ctggacgtct tcctcggccg caaggacgcg acccagcccg ctcccgacct
+     1021 gacggtgccc gagccgttcg acgacgtcac caagatcctc gcgcgcttcg acgacgccgg
+     1081 caagttcagc tccgacgagg ttgtcgccct gctcgtctcg tatgtctcct gcgctcgctc
+     1141 tcgcggtaga ccaacgctga catagaacac cttgcaggca cacgatcgct gctgccgacc
+     1201 acgtcgaccc gaccatccct ggcacgcctt tcgactcaac ccccgagctg ttcgacacgc
+     1261 agttcttcat cgagacccag ctccaaggca cgctcttccc cgggaacggc agcaaccagg
+     1321 gcgaggtgat gtccccgctc cgcggcgaga tccgtctcca gtccgacttc ttgctcgcgc
+     1381 gcgactcacg caccgcctgc gagtggcagt ccttcgtcag tacgtacaac atttcttctc
+     1441 actaccttcc tagcccgccc ctgcacctta tcccagtgct gacctgctcc gcgcgcgccc
+     1501 gcagacaacc agtacaagct ccagtccgcg tttaaggccg cgttcaggaa gatgaccatc
+     1561 ctcggaagca aggagcacaa cctcatcgac tgctcggacg tcgtcccgac cccgcccgcc
+     1621 cccgcgagca aagcgcacct tccggcaggc ctcactcgcc aggacgtcca gcaggcgtgc
+     1681 aacaagaagg cgttccccac cctccccacc gaccccggac cggtcacctc cgtcgcccct
+     1741 gtgtaagtgc ccctgctttt cgcacggcac acatatactg acatgtcgac ttgtcttgca
+     1801 gtcccccttc ttaagcttga ggtgggagtt cgccgcatag cggtcatgta ttattttatc
+     1861 gaatttcttc gcggaggtgg agtagttttt agactgtcgt ttttgagcgt tgacgtcgcc
+     1921 ttgtatcgtg ttgtctgaaa tgggatgtta ttgtgtatgc attattgaca actggccgca
+     1981 caggcgatgc atgagactcc ttcatggcga ttatcctgtc taagtctgcg cctctcgcac
+     2041 tcgtctacac gtagtacagc gcatctatgt gcatcatctt actaacaata cttaaccaac
+     2101 acaggacagc tccttcagcc ccgcaaaaaa tgcaacgaca cacgcatccg caaactccgc
+     2161 gtccagactc tccttccccc acgtcagcga gatccccagc ccgcccgcag gntcccggtg
+     2221 acgttgatct tgagc
+//

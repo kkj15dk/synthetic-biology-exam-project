@@ -32,16 +32,16 @@ FEATURES             Location/Qualifiers
                      /ApEinfo_revcolor="#c6c9d1"
                      /ApEinfo_fwdcolor="#c6c9d1"
                      /note="label: contig 1.9 2818..14258(-1)"
-     mRNA            complement(1370..1577)
-                     /label="trpC mRNA"
-                     /ApEinfo_revcolor="#b1ff67"
-                     /ApEinfo_fwdcolor="#b1ff67"
-                     /note="label: trpC mRNA"
      gene            complement(1370..1577)
                      /label="trpC gene"
                      /ApEinfo_revcolor="#d59687"
                      /ApEinfo_fwdcolor="#d59687"
                      /note="label: trpC gene"
+     mRNA            complement(1370..1577)
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: trpC mRNA"
      CDS             complement(1426..1577)
                      /label="CDS"
                      /ApEinfo_revcolor="#84b0dc"

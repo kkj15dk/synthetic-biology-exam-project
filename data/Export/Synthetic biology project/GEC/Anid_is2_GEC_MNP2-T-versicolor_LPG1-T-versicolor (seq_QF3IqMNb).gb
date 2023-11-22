@@ -1,0 +1,545 @@
+LOCUS       Anid_is2_GEC_MNP2-T-ver 8412 bp ds-DNA     linear       22-NOV-2023
+DEFINITION  .
+KEYWORDS    "creator:SnapGene License"
+FEATURES             Location/Qualifiers
+     misc_feature    1..1025
+                     /label="Homology arm UP_anid_is2"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: Homology arm UP_anid_is2 note: /feature_type=Homology arm"
+     CDS             complement(234..782)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004608 db_xref: EnsemblGenomes-Tr: CADANIAT00004608 db_xref: GOA: Q5B5V7 db_xref: InterPro: IPR000530 db_xref: InterPro: IPR004038 db_xref: InterPro: IPR029064 db_xref: UniProtKB/TrEMBL: Q5B5V7 label: ANIA_04073 note: transcript_id=CADANIAT00004608 old_locus_tag: AN4073.4 product: 40S ribosomal protein S12 (Broad) protein_id: CBF74761.1 transl_table: 1 translation: M,,SDGEETQSNPPVAAEEVEVPAESGAGGQMSVLDALKGVLRIALIHDGLARGLREAAKALDRRQAHMCVLNEGCEEEAYKKLVVALCSEHKIPLIKVPDGKMLGEWVGLCTYLEPPKNNYQRTLEELQKFTIGRMLTVIYLTGQLDREGNARKVVNCSCVVVKDWGEESQERSVLLNYFQTEQ*"
+     gene            complement(234..960)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: ANIA_04073 old_locus_tag: AN4073.4"
+     CDS             complement(783..883)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004608 db_xref: EnsemblGenomes-Tr: CADANIAT00004608 db_xref: GOA: Q5B5V7 db_xref: InterPro: IPR000530 db_xref: InterPro: IPR004038 db_xref: InterPro: IPR029064 db_xref: UniProtKB/TrEMBL: Q5B5V7 label: ANIA_04073 note: transcript_id=CADANIAT00004608 old_locus_tag: AN4073.4 product: 40S ribosomal protein S12 (Broad) protein_id: CBF74761.1 transl_table: 1 translation: M,,SDGEETQSNPPVAAEEVEVPAESGAGGQMSVLDALKGVLRIALIHDGLARGLREAAKALDRRQAHMCVLNEGCEEEAYKKLVVALCSEHKIPLIKVPDGKMLGEWVGLCTYLEPPKNNYQRTLEELQKFTIGRMLTVIYLTGQLDREGNARKVVNCSCVVVKDWGEESQERSVLLNYFQTEQ*"
+     CDS             complement(884..886)
+                     /label="ANIA_04073"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004608 db_xref: EnsemblGenomes-Tr: CADANIAT00004608 db_xref: GOA: Q5B5V7 db_xref: InterPro: IPR000530 db_xref: InterPro: IPR004038 db_xref: InterPro: IPR029064 db_xref: UniProtKB/TrEMBL: Q5B5V7 label: ANIA_04073 note: transcript_id=CADANIAT00004608 old_locus_tag: AN4073.4 product: 40S ribosomal protein S12 (Broad) protein_id: CBF74761.1 transl_table: 1 translation: M,,SDGEETQSNPPVAAEEVEVPAESGAGGQMSVLDALKGVLRIALIHDGLARGLREAAKALDRRQAHMCVLNEGCEEEAYKKLVVALCSEHKIPLIKVPDGKMLGEWVGLCTYLEPPKNNYQRTLEELQKFTIGRMLTVIYLTGQLDREGNARKVVNCSCVVVKDWGEESQERSVLLNYFQTEQ*"
+     terminator      complement(1026..1579)
+                     /label="TtrpC nidulans"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="label: contig 1.9 2818..14258(-1)"
+     gene            complement(1370..1577)
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: trpC gene"
+     mRNA            complement(1370..1577)
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: trpC mRNA"
+     CDS             complement(1426..1577)
+                     /label="CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 transl_table: 1 translation: PLNVTEIIKQLDESGYKIVGVDVSSGVETNGVQDLDKIRSFVQAAKSAF*"
+     exon            2001..2013
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: PGVII exon"
+     CDS             complement(2001..2013)
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: PGVII CDS (ligninolytic pre-peroxidase)"
+     gene            complement(2001..2013)
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="label: PGVII gene"
+     mat_peptide     2004..2013
+                     /label="PGVII mat_peptide (ligninolytic peroxidase)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: PGVII mat_peptide (ligninolytic peroxidase)"
+     intron          2014..2072
+                     /label="intron"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: intron"
+     mat_peptide     2073..2310
+                     /label="PGVII mat_peptide (ligninolytic peroxidase)"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="label: PGVII mat_peptide (ligninolytic peroxidase)"
+     exon            2073..2310
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+                     /note="label: PGVII exon"
+     CDS             complement(2073..2310)
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="label: PGVII CDS (ligninolytic pre-peroxidase)"
+     gene            complement(2073..2310)
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: PGVII gene"
+     intron          2311..2395
+                     /label="intron"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: intron"
+     mat_peptide     2396..2637
+                     /label="PGVII mat_peptide (ligninolytic peroxidase)"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+                     /note="label: PGVII mat_peptide (ligninolytic peroxidase)"
+     exon            2396..2637
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: PGVII exon"
+     CDS             complement(2396..2637)
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="label: PGVII CDS (ligninolytic pre-peroxidase)"
+     gene            complement(2396..2637)
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: PGVII gene"
+     intron          2638..2695
+                     /label="intron"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /note="label: intron"
+     exon            2696..2896
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: PGVII exon"
+     mat_peptide     2696..2896
+                     /label="PGVII mat_peptide (ligninolytic peroxidase)"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: PGVII mat_peptide (ligninolytic peroxidase)"
+     CDS             complement(2696..2896)
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: PGVII CDS (ligninolytic pre-peroxidase)"
+     gene            complement(2696..2896)
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: PGVII gene"
+     intron          2897..2948
+                     /label="intron"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="label: intron"
+     mat_peptide     2949..3271
+                     /label="PGVII mat_peptide (ligninolytic peroxidase)"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: PGVII mat_peptide (ligninolytic peroxidase)"
+     exon            2949..3288
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: PGVII exon"
+     CDS             complement(2949..3288)
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: PGVII CDS (ligninolytic pre-peroxidase)"
+     gene            complement(2949..3288)
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: PGVII gene"
+     sig_peptide     3272..3288
+                     /label="PGVII sig_peptide"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+                     /note="label: PGVII sig_peptide"
+     intron          3289..3352
+                     /label="intron"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+                     /note="label: intron"
+     sig_peptide     3353..3413
+                     /label="PGVII sig_peptide"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: PGVII sig_peptide"
+     exon            3353..3413
+                     /label="PGVII exon"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: PGVII exon"
+     CDS             complement(3353..3413)
+                     /label="PGVII CDS (ligninolytic pre-peroxidase)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: PGVII CDS (ligninolytic pre-peroxidase)"
+     gene            complement(3353..3413)
+                     /label="PGVII gene"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: PGVII gene"
+     promoter        3815..4667
+                     /label="h4g3 A. clavatus"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     regulatory      5029..5035
+                     /label="LPG1 regulatory"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 regulatory"
+     gene            5029..6588
+                     /label="LPG1 gene"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: LPG1 gene"
+     mRNA            5102..5162
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             5102..5162
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     sig_peptide     5102..5162
+                     /label="LPG1 sig_peptide"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: LPG1 sig_peptide"
+     exon            5102..5162
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: LPG1 exon"
+     sig_peptide     5243..5259
+                     /label="LPG1 sig_peptide"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="label: LPG1 sig_peptide"
+     CDS             5243..5450
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mRNA            5243..5450
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     exon            5243..5450
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="label: LPG1 exon"
+     mat_peptide     5260..5450
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     CDS             5509..5643
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mRNA            5509..5643
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     exon            5509..5643
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 exon"
+     mat_peptide     5509..5643
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     mRNA            5697..6243
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             5697..6243
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mat_peptide     5697..6243
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     exon            5697..6243
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: LPG1 exon"
+     mRNA            6309..6383
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             6309..6383
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     exon            6309..6383
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: LPG1 exon"
+     mat_peptide     6309..6383
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     mRNA            6440..6504
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             6440..6504
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mat_peptide     6440..6504
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     exon            6440..6504
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: LPG1 exon"
+     mat_peptide     6561..6585
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     mRNA            6561..6588
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             6561..6588
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     exon            6561..6588
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: LPG1 exon"
+     gene            6808..6958
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="label: trpC gene"
+     mRNA            6808..6958
+                     /label="trpC mRNA"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /note="label: trpC mRNA"
+     terminator      6808..7358
+                     /label="TtrpC_niger"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             6809..6958
+                     /label="CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 transl_table: 1 translation: DPTNVAGIVQKLGESGRKVVGVDVSSGVESDGAQDLGKIRAFVQAVRGL*"
+     misc_feature    7359..8412
+                     /label="Homology arm DW_anid_is2"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: Homology arm DW_anid_is2 note: /feature_type=Homology arm"
+     gene            complement(7463..8412)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: ANIA_04072 old_locus_tag: AN4072.4"
+     CDS             complement(7463..7681)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004609 db_xref: EnsemblGenomes-Tr: CADANIAT00004609 db_xref: GOA: C8V5G6 db_xref: InterPro: IPR002110 db_xref: InterPro: IPR020683 db_xref: UniProtKB/TrEMBL: C8V5G6 label: ANIA_04072 note: transcript_id=CADANIAT00004609 old_locus_tag: AN4072.4 product: histone deacetylase complex subunit (Hos4),putative (AFU_orthologue; AFUA_1G05490) protein_id: CBF74763.1 transl_table: 1 translation: SEKKMAKETEQERLAQEARAADAEKARAQEEEERAARAACIALEKEEENKRKEAEQRRIKQAEDEHQKRLEQERQRLAKIRREQEAHEQRRRDALPSRLCIAANLVGSNNPQSRSHTWLKKFMPVVTAETRQLDPSCSADVANERWVPNYLVAPLLATNDLQLSQYSSWEKRHVTPTQRMNLWRVTRRMLVQADDTEFLTASFGQIMQKDSETRSKYFDMDHVFWVK,,LSDFMDLVPHIPHLHGLDIQFLKMHIDREPSFNPASQPSLSNGHIDGPHEKPGPYEQTLTNGYAHRRPSTYV*"
+     CDS             complement(7682..7731)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004609 db_xref: EnsemblGenomes-Tr: CADANIAT00004609 db_xref: GOA: C8V5G6 db_xref: InterPro: IPR002110 db_xref: InterPro: IPR020683 db_xref: UniProtKB/TrEMBL: C8V5G6 label: ANIA_04072 note: transcript_id=CADANIAT00004609 old_locus_tag: AN4072.4 product: histone deacetylase complex subunit (Hos4),putative (AFU_orthologue; AFUA_1G05490) protein_id: CBF74763.1 transl_table: 1 translation: SEKKMAKETEQERLAQEARAADAEKARAQEEEERAARAACIALEKEEENKRKEAEQRRIKQAEDEHQKRLEQERQRLAKIRREQEAHEQRRRDALPSRLCIAANLVGSNNPQSRSHTWLKKFMPVVTAETRQLDPSCSADVANERWVPNYLVAPLLATNDLQLSQYSSWEKRHVTPTQRMNLWRVTRRMLVQADDTEFLTASFGQIMQKDSETRSKYFDMDHVFWVK,,LSDFMDLVPHIPHLHGLDIQFLKMHIDREPSFNPASQPSLSNGHIDGPHEKPGPYEQTLTNGYAHRRPSTYV*"
+     CDS             complement(7732..8412)
+                     /label="ANIA_04072"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 db_xref: EnsemblGenomes-Gn: CADANIAG00004609 db_xref: EnsemblGenomes-Tr: CADANIAT00004609 db_xref: GOA: C8V5G6 db_xref: InterPro: IPR002110 db_xref: InterPro: IPR020683 db_xref: UniProtKB/TrEMBL: C8V5G6 label: ANIA_04072 note: transcript_id=CADANIAT00004609 old_locus_tag: AN4072.4 product: histone deacetylase complex subunit (Hos4),putative (AFU_orthologue; AFUA_1G05490) protein_id: CBF74763.1 transl_table: 1 translation: SEKKMAKETEQERLAQEARAADAEKARAQEEEERAARAACIALEKEEENKRKEAEQRRIKQAEDEHQKRLEQERQRLAKIRREQEAHEQRRRDALPSRLCIAANLVGSNNPQSRSHTWLKKFMPVVTAETRQLDPSCSADVANERWVPNYLVAPLLATNDLQLSQYSSWEKRHVTPTQRMNLWRVTRRMLVQADDTEFLTASFGQIMQKDSETRSKYFDMDHVFWVK,,LSDFMDLVPHIPHLHGLDIQFLKMHIDREPSFNPASQPSLSNGHIDGPHEKPGPYEQTLTNGYAHRRPSTYV*"
+ORIGIN
+        1 ATTACGTAGA GAGAGCACGG AACTTGTCAA TCCTTGTTCT TTATTTTTTC ATTTTCCGAC
+       61 ATCAATAAAT AGATAGATCT CAATCCCAAC AGTCAGGGTC TGTACCAAAG CACAAAGACA
+      121 GACGGGGCCT GTGAATATCC TCGCCAGCAG ACAGATAGTT AAATCCCTCC AGCGCATCCA
+      181 TATCACATCA CATCAATCTG AACCTTAAGC TGTTGTCGCG GGATAGAGAC AATTTACTGC
+      241 TCAGTCTGGA AGTAGTTGAG GAGAACAGAA CGCTCCTGGC TCTCCTCACC CCAGTCCTTA
+      301 ACAACAACGC AAGAGCAGTT GACAACCTTG CGCGCGTTAC CCTCACGGTC AAGCTGGCCT
+      361 GTTAAGTAAA TAACTGTTAG CATTCGTCCT ATAGTGAACT TCTGCAATTC CTCCAGGGTC
+      421 CTTTGGTAGT TGTTTTTTGG GGGTTCGAGG TACGTACAGA GGCCAACCCA CTCGCCGAGC
+      481 ATCTTTCCAT CGGGAACCTT GATGAGAGGG ATCTTGTGCT CAGAGCAGAG AGCGACAACG
+      541 AGCTTCTTGT AGGCCTCCTC CTCGCAGCCC TCGTTGAGAA CACACATGTG GGCCTGACGG
+      601 CGGTCGAGGG CCTTAGCGGC CTCGCGGAGA CCACGGGCAA GACCGTCGTG GATCAGGGCA
+      661 ATGCGAAGGA CACCCTTGAG AGCATCGAGG ACAGACATCT GACCGCCGGC GCCAGACTCG
+      721 GCAGGAACCT CGACCTCCTC AGCGGCGACG GGGGGGTTGG ATTGGGTCTC TTCTCCGTCC
+      781 GACTGAAAAG CGGGAGAAAA TGTTAGTTCG GCTTCTGCGT TCGTTTACTG CGCATAGCTG
+      841 CGTGTTGAGG ACAGTTTGAG GGCATTATAT GAGCTGTACG CACCATTTTG ATGATGTGTT
+      901 AGTACGATGT TTGAATGTCG GAATATCCTC GAAGAGTCGT GGTGTTATGG GGAAGGAATC
+      961 TGGAAATTGT GGGATGGTAA TGCGATTCTG CCTCGCCTAG ACCTATCCGT GTGCCCTACT
+     1021 TAGTCaccta cgatgaatgt gtgtcctgta ggcttgagag ttcaaggaag aaacagtgca
+     1081 attatctttg cgaacccagg ggctggtgac ggaattttca tagtcaagct atcagagtaa
+     1141 agaagaggag catgtcaaag tacaattaga gacaaatata tagtcgcgtg gagccaagag
+     1201 cggattcctc agtctcgtag gtctcttgac gaccgttgat ctgcttgatc tcgtctcccg
+     1261 aaaatgaaaa tagactctgc taagctattc ttctgcttcg ccggagcctg aagggcgtac
+     1321 tagggttgcg aggtccaatg cattaatgca ttgcagatga gctgtatctg gaagaggtaa
+     1381 acccgaaacg cgttttattc ttgttgacat ggagctatta aatcactaga aggcactctt
+     1441 tgctgcttgg acaaatgaac gtatcttatc gagatcctga acaccatttg tctcaactcc
+     1501 ggagctgaca tcgacaccaa cgatcttatA TCCAGATTCG TCAAGCTGTT TGATGATTTC
+     1561 AGTAACGTTA AGTGGATCCg ctcaagatca acgtcaccgg gancctgcgg gcgggctggg
+     1621 gatctcgctg acgtggggga aggagagtct ggacgcggag tttgcggatg cgtgtgtcgt
+     1681 tgcatttttt gcggggctga aggagctgtc ctgtgttggt taagtattgt tagtaagatg
+     1741 atgcacatag atgcgctgta ctacgtgtag acgagtgcga gaggcgcaga cttagacagg
+     1801 ataatcgcca tgaaggagtc tcatgcatcg cctgtgcggc cagttgtcaa taatgcatac
+     1861 acaataacat cccatttcag acaacacgat acaaggcgac gtcaacgctc aaaaacgaca
+     1921 gtctaaaaac tactccacct ccgcgaagaa attcgataaa ataatacatg accgctatgc
+     1981 ggcgaactcc cacctcaagc ttaagaaggg ggactgcaag acaagtcgac atgtcagtat
+     2041 atgtgtgccg tgcgaaaagc aggggcactt acacaggggc gacggaggtg accggtccgg
+     2101 ggtcggtggg gagggtgggg aacgccttct tgttgcacgc ctgctggacg tcctggcgag
+     2161 tgaggcctgc cggaaggtgc gctttgctcg cgggggcggg cggggtcggg acgacgtccg
+     2221 agcagtcgat gaggttgtgc tccttgcttc cgaggatggt catcttcctg aacgcggcct
+     2281 taaacgcgga ctggagcttg tactggttgt ctgcgggcgc gcgcggagca ggtcagcact
+     2341 gggataaggt gcaggggcgg gctaggaagg tagtgagaag aaatgttgta cgtactgacg
+     2401 aaggactgcc actcgcaggc ggtgcgtgag tcgcgcgcga gcaagaagtc ggactggaga
+     2461 cggatctcgc cgcggagcgg ggacatcacc tcgccctggt tgctgccgtt cccggggaag
+     2521 agcgtgcctt ggagctgggt ctcgatgaag aactgcgtgt cgaacagctc gggggttgag
+     2581 tcgaaaggcg tgccagggat ggtcgggtcg acgtggtcgg cagcagcgat cgtgtgcctg
+     2641 caaggtgttc tatgtcagcg ttggtctacc gcgagagcga gcgcaggaga catacgagac
+     2701 gagcagggcg acaacctcgt cggagctgaa cttgccggcg tcgtcgaagc gcgcgaggat
+     2761 cttggtgacg tcgtcgaacg gctcgggcac cgtcaggtcg ggagcgggct gggtcgcgtc
+     2821 cttgcggccg aggaagacgt ccaggcgggg tgcaccaggg cagttgctca cgccgatcgc
+     2881 gccagcgaac tgaatgctgc actccgaggt caaccatatg tcacatcgag atgcctggga
+     2941 ggacatacaa gtcggcggtg gtgaggttgt ggcgagcgat gatcggcgcc tgcgtgtcga
+     3001 taatctcgtc gacaccgttg ttcgcgtgga agttggtctc aatgtccgcg aagatggcaa
+     3061 tcgagccgtc cgcgcctcca ccgccgaaca cgcccgcctt gttggccttg cgagagatgc
+     3121 cgatggcgtc gtggaaggtg aggcgaaggg actcgtgcac gtcctcgttg cactcgccgc
+     3181 cgtcgaacat gttcgcctgg atgtcgtcga tcacggggaa gagggcacag catgccgcgt
+     3241 tcgaggtgac ctggccagag gcgcacgtca ccttcttggt cgcggcacct ggcgggacaa
+     3301 accactcgaa atcagtggcc gttgtgaacg ggctccattg agggtgacat accgttcgcg
+     3361 acttgaaggg ccgcgagaag agagacgaag gaagccagga gcttgaacgc catttcctga
+     3421 ggttttgagg gatggaggaa gagagctcga tggcctgagg accccctgcg gttttgcggt
+     3481 cgcatttata cccctcgacc ctcgccttcc ggcgagcctg aggcaaccat gtcggcgcaa
+     3541 ctctcctgcg catgcaagaa caggcacact tgcgtacatt ctcgcacagc caatcgcatg
+     3601 acacgaatat cgcctctcaa tgagttcctg gccgatatga tagcgttccg cgccgtcggt
+     3661 gagagatgtt catggacttg cgcagctaat ggctgggtgc gaccagggta aacgacacag
+     3721 cgggttcctc agcaataccg gtaccggggg cgagtgcgtg gtaattgaat tcggcgttct
+     3781 gtaacccatg ggaagagcgc tagctcgact gtacTTTGAT AGATGTGAAT TAAAAAAGGT
+     3841 TTGCGTGTGT GGAATTAAGA TTGATAGATG CGGAGCTGTC GATATACGAC TTTGAAGTGG
+     3901 ATGATAAGCT GGGATAGATG GATGAAGGAA GAGAGTGACG AAGAGTTTGG GACGGGAGAT
+     3961 ATTTGTATAG CGAAAGGGAG AGCGCGGGGA GAGTGCTGGA ATCACACGCT AAGGCAGGGA
+     4021 ACGACCAATC AGAATGAAGG ATCCGACCGG CGGGTTTGAT CTCTCGGCAA CGTGACCGAA
+     4081 GAGACAGTGA TTCCGCTGGA ATGGGCCTGA TCTACACGGA ATGCCGTCCA GCCACTTTGA
+     4141 TTAGGATGGA AAGATAATCA GAAGCATTCT TGATCATTAC TAGAGTTATT CTAGATAATC
+     4201 GAAATACCCA ACATTCCACA CATGTGGTTG GGATCAGGAT GTTCTGGGGT GGCATTCTAT
+     4261 AGCCGTGATC CTGCACTCCT ATTGGCTGAT GCAGAAGCTG TCTCGCTTAG GTACTAGCGT
+     4321 CCCGAGCAAG GGCCGCTCGC CCGCAGGCCT TTGATTTTGC GTAGGCTAAC GTTGCTGCCA
+     4381 GAACTGCGGC CCCGAAATCA CGGCTTATGG TGTGCTGCTT TCCAAACGTT TTTTCTGATC
+     4441 AAAAGTAACC GCGCTAAGAC CACCCAAATT TGCTGGCAAC CCAACACCAC CTCTCAGATC
+     4501 ACCACCCACC CCTCGCTTAC TACAAATACC TTCCCCCCAC CCGCTTTCTT CATCCTTCTT
+     4561 CCATCTACTC ATCTCATCGA CCACCCAACT CGACCATCCA CTTTTCATCA ATACCATCAC
+     4621 ATTTTCATCA ATTAAACAAC TAAATCCATC AAACCTAATC ATCAAAAgcc tgctgacccc
+     4681 caatgactcg ataatttcac agcgtcggcg accgcggcgg gctcaggggc acacgcgcgc
+     4741 gatcaaacat ccgaccaaga ggctccgagg cgtcgcacag gacgcgggga ttggttgcac
+     4801 gcgcgatgca gcgcgagaca ccgacgctat ggacgcgttg aactaccaca ggactgtggt
+     4861 ggcggaacat acattgacga gaatagcgaa atgtatgcgc tgccattggc cttgacaagg
+     4921 ctactggctc cgcaccgtct ggtcttggcg gccctggtgc ggcggaagca ccattgatca
+     4981 cactgtgtat gtttcacgtc caactttttc tctgcctcag ctgacatgta taaaagcagg
+     5041 gcgacattgg cgacattctt cagagcactc aagcctcagt cctcctcagt cccagttcga
+     5101 catggctttc aagtctcttc tttcttttgt ctcggtcatt ggagcgctcc agggcgcgaa
+     5161 cggtgcgtag gaggtggcgg gtattcgccg agtcccgaca gagcatcttt gtgcagcata
+     5221 ctgacccaca tttatctttt agccgcgttg acccgccgcg tcgcttgccc cgacggcgtg
+     5281 aacaccgcta ccaacgcggc gtgctgccaa ctcttcgctg tccgcgagga cctccagcag
+     5341 aacctgttcc acggcggtct ctgcacggct gaggcgcacg agtctctccg tctgaccttc
+     5401 cacgacgcca tcgccatctc ccccgctctc gaggcccagg gcatcttcgg gtacgctgaa
+     5461 tagatttctg cccttagctg aatgtattaa ccgggatatg ctgttcagtg gtggtggtgc
+     5521 cgacggctcc atcgcgatct tccccgagat cgagacaaac ttccacccca acattggtct
+     5581 cgacgaaatc atcgagctcc agaagccgtt catcgcccgt cacaacatct ccgttgctga
+     5641 cttgtgagta cctgaagcga agcaataatc gaccttgtac tgatacgtcg gtgcagcatt
+     5701 caattcgctg gtgccatcgg tgcctcgaac tgcgcgggtg ctccccagct cgctgccttc
+     5761 gtcggccgca aggacgccac ccagcccgcc cccgacggcc tcgtccccga gccgttccac
+     5821 acgcccgacc agatcttcga ccgtctcgcg gacgcgtctc agggcgagtt cgaccccatc
+     5881 ctgacggtct ggctcctgac cgcgcacacc gttgctgccg ccaacgacgt cgaccccacc
+     5941 aagtccggcc tgccgttcga ctccaccccc gagctctggg acacgcagtt cttcctcgag
+     6001 acccagctcc gcggcacgag cttccccggc tccggcggca accagggcga ggtcgagtct
+     6061 ccccttgcgg gcgagatgcg tctccagtcc gaccacacca tcgctcgcga ctcccgcacg
+     6121 gcatgcgagt ggcagtcgtt cgtcgacaac cagccgaagg ctcagcagat gttccagttc
+     6181 gtgttccacg acctttccat cttcggccag gacatcaaca cgctcgtcga ctgcactgaa
+     6241 gtcgtacgtc gcaccattct tccgcattcg tgcccccctg taacagccac taactgccac
+     6301 atgtataggt ccccatcccg gctgaccctc agggccacac gcacttcccc gctggcctga
+     6361 gcaacgccga catcgagcag gctgtaagca caatctagtc cctcgccgac tatactccac
+     6421 tgacccattt gctctatagt gtgccgagac ccccttcccg accttcccca ccgaccccgg
+     6481 acccaagacc gccgtcgccc ccgtgtaagt tccccaaccg atattgcttg tgtacgtgac
+     6541 cttacgagcc gttccaacag ccccaagccc cctgccgccc ggaagtaagg gtatttaggg
+     6601 cctagcatca aagacccggt tatggtcgtg cgaggccgtg cctcgtagtt ggccttatat
+     6661 gcctttcaaa gttcggcatc gtatcacttg tatctgtgct ttcggtctcc cctttctcgc
+     6721 ggggttgttg taacaacagc ggttgtatca gtggcttaaa gttgaaatat actcgttcta
+     6781 gacacatctt tgccagcgat tgagtacAGA TCCCACCAAT GTTGCTGGCA TTGTCCAGAA
+     6841 GCTTGGCGAA TCCGGTCgca aggtcgttgg cgtcgatgtc agttctggcg tagagtcaga
+     6901 cggtgctcag gatcttggca aaattcgcgc ctttgtgcag gccgtgaggg gactctagct
+     6961 ttgaatggtc tttaaattta ccaaacatgg gatttaaggg catcattggt cttttcactt
+     7021 gattttcttt gagtttaatt attttctgct tcgttgatac ctttcggatc tatcatagca
+     7081 atgatgccca acaatgacac ggccacttca gatatcacac tccgcttgcc agcttacagt
+     7141 aacctcacta tttgttgacg agaaagtcac cctgagctcc gttcgtagtg tcattcaacc
+     7201 atctatcgaa acgtactata ctactactcg taatatatat catattctcc ccaaagcttt
+     7261 ctacttacca tattagtctt ctgcgctcac tctgacatcc ctcaattcac tcaacactgc
+     7321 acccttcata tagtcagttg aaaAggctta atctcagcGC TTGTCTATCC AACTACTCAT
+     7381 CGTGTGTCGC GTCACATAAG GTATCATAGT CATACATGCA AGGAAAATCG TCCACCTGTA
+     7441 CAAGTGATGC GGACTGACAG AATCAGACAT ATGTACTTGG CCGCCTGTGC GCATAGCCAT
+     7501 TGGTAAGTGT TTGTTCGTAA GGTCCAGGTT TCTCATGCGG TCCATCAATA TGTCCATTTG
+     7561 ACAGGGATGG TTGAGAGGCA GGATTGAAAC TCGGTTCTCG ATCGATGTGC ATCTTCAGAA
+     7621 ACTGTATGTC CAGCCCATGG AGATGAGGAA TATGAGGGAC GAGGTCCATG AAATCGGAAA
+     7681 GCTGCGAAAA TCAGTTATCG AATGAAATAC TACATTAACA TAAAAACGTA CCTTTACCCA
+     7741 GAAGACATGA TCCATATCAA AGTACTTGCT CCGAGTTTCA CTATCCTTCT GCATGATCTG
+     7801 CCCAAACGAT GCTGTCAAGA ACTCCGTATC GTCCGCCTGC ACGAGCATTC GCCGTGTAAC
+     7861 CCGCCACAAA TTCATCCTTT GCGTAGGTGT TACGTGGCGC TTCTCCCAAC TGGAATACTG
+     7921 GGACAACTGG AGGTCGTTGG TAGCTAGCAG CGGAGCAACG AGATAGTTTG GAACCCATCG
+     7981 CTCATTTGCA ACGTCTGCAC TACAGCTAGG ATCAAGCTGT CTGGTCTCCG CTGTAACCAC
+     8041 TGGCATGAAT TTCTTCAACC ATGTGTGGCT GCGTGATTGC GGGTTGTTGG ATCCGACAAG
+     8101 ATTAGCTGCT ATACAAAGGC GACTGGGAAG TGCATCTCGA CGACGTTGCT CGTGCGCTTC
+     8161 CTGCTCCCTC CGAATTTTCG CAAGCCGCTG CCTTTCCTGT TCGAGGCGCT TCTGATGCTC
+     8221 GTCCTCTGCT TGCTTAATTC GCCGCTGCTC AGCTTCTTTC CGCTTATTTT CTTCCTCCTT
+     8281 TTCCAGCGCT ATACAGGCCG CTCGGGCTGC TCGTTCCTCT TCTTCCTGCG CGCGAGCCTT
+     8341 TTCCGCGTCG GCAGCCCGGG CTTCTTGAGC TAGCCGCTCC TGCTCTGTTT CCTTGGCCAT
+     8401 CTTTTTCTCA GA
+//

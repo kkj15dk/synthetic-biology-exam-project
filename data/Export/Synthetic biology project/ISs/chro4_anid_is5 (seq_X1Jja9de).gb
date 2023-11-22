@@ -12,6 +12,10 @@ COMMENT     Imported using the Genbank importer. File name: chro1_anid_int1.gbk
             (http://www.aspergillusgenome.org) and Ensembl Genomes
             (http://www.ensemblgenomes.org).
 FEATURES             Location/Qualifiers
+     misc_feature    1..14807
+                     /label="contig 1.129 1..627835(1)"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
      source          1..14807
                      /label="chr IV"
                      /ApEinfo_revcolor="#c7b0e3"
@@ -21,10 +25,6 @@ FEATURES             Location/Qualifiers
                      /strain="FGSC A4"
                      /db_xref="taxon:227321"
                      /chromosome="IV"
-     misc_feature    1..14807
-                     /label="contig 1.129 1..627835(1)"
-                     /ApEinfo_revcolor="#75c6a9"
-                     /ApEinfo_fwdcolor="#75c6a9"
      mRNA            complement(1..85)
                      /label="ANIA_07552"
                      /ApEinfo_revcolor="#9eafd2"
@@ -177,16 +177,16 @@ FEATURES             Location/Qualifiers
                      /ApEinfo_fwdcolor="#b4abac"
                      /note="transcript_id=CADANIAT00000660"
                      /old_locus_tag="AN7554.4"
+     gene            14705..14807
+                     /label="ANIA_07555"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /old_locus_tag="AN7555.4"
      mRNA            14705..14807
                      /label="ANIA_07555"
                      /ApEinfo_revcolor="#b7e6d7"
                      /ApEinfo_fwdcolor="#b7e6d7"
                      /note="transcript_id=CADANIAT00000661"
-                     /old_locus_tag="AN7555.4"
-     gene            14705..14807
-                     /label="ANIA_07555"
-                     /ApEinfo_revcolor="#f58a5e"
-                     /ApEinfo_fwdcolor="#f58a5e"
                      /old_locus_tag="AN7555.4"
      CDS             14705..14807
                      /label="ANIA_07555"

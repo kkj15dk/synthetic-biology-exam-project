@@ -81,15 +81,15 @@ FEATURES             Location/Qualifiers
                      /ApEinfo_revcolor="#84b0dc"
                      /ApEinfo_fwdcolor="#84b0dc"
                      /note="codon_start: 1 transl_table: 1 translation: NVVETIQRLGKSSAKVVGVDVSSGIESDGAQDLEKIRAFVKAVKNLHA*"
-     mRNA            1537..1687
-                     /label="ACLA_022380"
-                     /ApEinfo_revcolor="#85dae9"
-                     /ApEinfo_fwdcolor="#85dae9"
-                     /note="label: ACLA_022380"
      gene            1537..1687
                      /label="ACLA_022380"
                      /ApEinfo_revcolor="#d59687"
                      /ApEinfo_fwdcolor="#d59687"
+                     /note="label: ACLA_022380"
+     mRNA            1537..1687
+                     /label="ACLA_022380"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
                      /note="label: ACLA_022380"
      terminator      1537..2075
                      /label="TtrpC_clavatus"

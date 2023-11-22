@@ -5,14 +5,14 @@ COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry:
             XM_025695596 Description: Aspergillus homomorphus CBS 101889
             translation elongation factor (BO97DRAFT_407229), mRNA
 FEATURES             Location/Qualifiers
-     gene            1..1593
-                     /label="BO97DRAFT_407229 gene"
-                     /ApEinfo_revcolor="#84b0dc"
-                     /ApEinfo_fwdcolor="#84b0dc"
      source          1..1593
                      /label="source"
                      /ApEinfo_revcolor="#c7b0e3"
                      /ApEinfo_fwdcolor="#c7b0e3"
+     gene            1..1593
+                     /label="BO97DRAFT_407229 gene"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
      CDS             82..1464
                      /label="BO97DRAFT_407229 CDS (translation elongation factor)"
                      /ApEinfo_revcolor="#c6c9d1"

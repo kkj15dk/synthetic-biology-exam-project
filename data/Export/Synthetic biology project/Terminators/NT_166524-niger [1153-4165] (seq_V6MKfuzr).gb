@@ -17,12 +17,6 @@ FEATURES             Location/Qualifiers
                      /chromosome="VIII"
                      /map="unlocalized"
                      /clone="An08"
-     gene            1..2313
-                     /label="trpC gene"
-                     /ApEinfo_revcolor="#c7b0e3"
-                     /ApEinfo_fwdcolor="#c7b0e3"
-                     /locus_tag="An08g06080"
-                     /db_xref="GeneID:4982924"
      mRNA            1..2313
                      /label="trpC mRNA"
                      /ApEinfo_revcolor="#f58a5e"
@@ -30,6 +24,12 @@ FEATURES             Location/Qualifiers
                      /locus_tag="An08g06080"
                      /product="anthranilate synthase multifunctional proteintrpC-Aspergillus niger"
                      /transcript_id="XM_001392685.1"
+                     /db_xref="GeneID:4982924"
+     gene            1..2313
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /locus_tag="An08g06080"
                      /db_xref="GeneID:4982924"
      CDS             1..2313
                      /label="trpC CDS"

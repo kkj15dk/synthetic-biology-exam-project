@@ -105,6 +105,14 @@ FEATURES             Location/Qualifiers
                      /db_xref="InterPro:IPR017926"
                      /db_xref="InterPro:IPR029062"
                      /translation="MGQQCIIHSFGGKVDVTGEILHGKTSVLKHDGRGAYEGLPPSVIITRYHSLAGTHSTIPECLEVSSFAQLGEDADKTVIMGVRHKQFAVEGVQFHPESILTEHGQTMFRNFLKLTAGTWEGNGKDVAQGGNFTAAAPNPPKATKKVSILEKIYDHRRAAVAKQKTIPSQRPSDLQAAYELSVAPPQISFPDRLRQSAYPLSLMAEIKRASPSKGLIAEHACAPAQARQYAKAGASVISVLTEPEWFKGSIDDLRAVRASLEGLTNRPAILRKEFIFDEYQILEARLAGADTVLLIVKMLDTELLTRLYLYSQSLGMEPLVEVNTPDEMKIAVDLGAQVIGVNNRDLTSFEVDLGTTSRLMDQVPESTIVCALSGISGPKDVEAYKKDGVKAILVGEALMRAPDTAAFVAELLGGQSKKLPLQSRNSPLVKICGTRTEEGARAAIEAGADLIGIILVEGRKRTVPDDVALQISKVVKSTPRPTPYPTEVPQGDTDATSVDYFDHSATTLRHPTRALLVGVFLNQPLSYVLAQQQKLGLDVVQLHGSEPLEWSRLIPVPVIRKFGLDEFGIARRAYHTLPLLDSGAGGSGELLDQMRVKQILKSDDGLRVILAGGLDPLNVTEIIKQLDESGYKIVGVDVSSGVETNGVQDLDKIRSFVQAAKSAF*"
+     gene            1644..3694
+                     /label="trpC gene"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /locus_tag="ANIA_00648"
+                     /old_locus_tag="AN0648.4"
+                     /old_locus_tag="AN0648.2"
+                     /db_xref="GeneID:74896109"
      mRNA            1644..3694
                      /label="trpC mRNA"
                      /ApEinfo_revcolor="#b1ff67"
@@ -115,14 +123,6 @@ FEATURES             Location/Qualifiers
                      /old_locus_tag="AN0648.2"
                      /product="hypothetical protein"
                      /transcript_id="XM_050613352.1"
-                     /db_xref="GeneID:74896109"
-     gene            1644..3694
-                     /label="trpC gene"
-                     /ApEinfo_revcolor="#d59687"
-                     /ApEinfo_fwdcolor="#d59687"
-                     /locus_tag="ANIA_00648"
-                     /old_locus_tag="AN0648.4"
-                     /old_locus_tag="AN0648.2"
                      /db_xref="GeneID:74896109"
      gene            complement(4188..4622)
                      /label="ANIA_00647"

@@ -1,0 +1,436 @@
+LOCUS       Anid_is1_GEC_LPG1-T-ver 6772 bp ds-DNA     linear       22-NOV-2023
+DEFINITION  .
+KEYWORDS    "creator:SnapGene License"
+FEATURES             Location/Qualifiers
+     primer_bind     1..19
+                     /label="PR_JB_0001 (mismatches: 9)"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: PR_JB_0001 (mismatches: 9) note: Primer: gggtttaauCCCCCGTGTCAAACCTTCT note: Number of mismatches: 9 note: Number of other matches on chro1_anid_int1: 0 note: Primer binding region: 2789..2816"
+     CDS             1..281
+                     /label="jgi.p|Aspnid1|4694"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4694 note: /ID=CDS_4694 note: /Parent=mRNA_4694 note: /frame=[2696605..2697911: 0, 2697966..2698372: 1,2698437..2698570: 2] note: /source=prediction transl_table: 1 translation: PPCQTFSPAHTIPGPNDDANSAAIFSCWDLIRKAKPRVHTMEETSGLFDRHQQVFLRVICDFIETGYSVRWALLNCMWYGVPQSRKRLIIIASG,,PGESLPRLPRPTHGLPGSGLRDLTTISQAIRDIPTGSPDHDVVAARGRGVHNRRAPFDGNRQARTITCGGGDNYHPSGLRGFTLREFACLQTFPLGFRFLGGRTQVKRQIGNAVPPLLAKAVFKEIIRSLQDTDE,,PAGLQNAVQPWRPRRAIGSDNTLDNGKRLSLFSAKTDSSGRSSN*"
+     gene            1..940
+                     /label="gene"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: gene note: /ID=gene_4694 note: /Name=jgi.p|Aspnid1|4694 note: /portal_id=Aspnid1 note: /proteinId=4694 note: /score=0 note: /source=prediction note: /transcriptId=4874"
+     misc_feature    1..940
+                     /label="AN6638"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: AN6638"
+     misc_feature    complement(1..967)
+                     /label="Homology _arm"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: Homology _arm note: /feature_type=Homology arm"
+     CDS             282..335
+                     /label="jgi.p|Aspnid1|4694"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4694 note: /ID=CDS_4694 note: /Parent=mRNA_4694 note: /frame=[2696605..2697911: 0, 2697966..2698372: 1,2698437..2698570: 2] note: /source=prediction transl_table: 1 translation: PPCQTFSPAHTIPGPNDDANSAAIFSCWDLIRKAKPRVHTMEETSGLFDRHQQVFLRVICDFIETGYSVRWALLNCMWYGVPQSRKRLIIIASG,,PGESLPRLPRPTHGLPGSGLRDLTTISQAIRDIPTGSPDHDVVAARGRGVHNRRAPFDGNRQARTITCGGGDNYHPSGLRGFTLREFACLQTFPLGFRFLGGRTQVKRQIGNAVPPLLAKAVFKEIIRSLQDTDE,,PAGLQNAVQPWRPRRAIGSDNTLDNGKRLSLFSAKTDSSGRSSN*"
+     CDS             336..742
+                     /label="jgi.p|Aspnid1|4694"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4694 note: /ID=CDS_4694 note: /Parent=mRNA_4694 note: /frame=[2696605..2697911: 0, 2697966..2698372: 1,2698437..2698570: 2] note: /source=prediction transl_table: 1 translation: PPCQTFSPAHTIPGPNDDANSAAIFSCWDLIRKAKPRVHTMEETSGLFDRHQQVFLRVICDFIETGYSVRWALLNCMWYGVPQSRKRLIIIASG,,PGESLPRLPRPTHGLPGSGLRDLTTISQAIRDIPTGSPDHDVVAARGRGVHNRRAPFDGNRQARTITCGGGDNYHPSGLRGFTLREFACLQTFPLGFRFLGGRTQVKRQIGNAVPPLLAKAVFKEIIRSLQDTDE,,PAGLQNAVQPWRPRRAIGSDNTLDNGKRLSLFSAKTDSSGRSSN*"
+     CDS             743..806
+                     /label="jgi.p|Aspnid1|4694"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4694 note: /ID=CDS_4694 note: /Parent=mRNA_4694 note: /frame=[2696605..2697911: 0, 2697966..2698372: 1,2698437..2698570: 2] note: /source=prediction transl_table: 1 translation: PPCQTFSPAHTIPGPNDDANSAAIFSCWDLIRKAKPRVHTMEETSGLFDRHQQVFLRVICDFIETGYSVRWALLNCMWYGVPQSRKRLIIIASG,,PGESLPRLPRPTHGLPGSGLRDLTTISQAIRDIPTGSPDHDVVAARGRGVHNRRAPFDGNRQARTITCGGGDNYHPSGLRGFTLREFACLQTFPLGFRFLGGRTQVKRQIGNAVPPLLAKAVFKEIIRSLQDTDE,,PAGLQNAVQPWRPRRAIGSDNTLDNGKRLSLFSAKTDSSGRSSN*"
+     CDS             807..940
+                     /label="jgi.p|Aspnid1|4694"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4694 note: /ID=CDS_4694 note: /Parent=mRNA_4694 note: /frame=[2696605..2697911: 0, 2697966..2698372: 1,2698437..2698570: 2] note: /source=prediction transl_table: 1 translation: PPCQTFSPAHTIPGPNDDANSAAIFSCWDLIRKAKPRVHTMEETSGLFDRHQQVFLRVICDFIETGYSVRWALLNCMWYGVPQSRKRLIIIASG,,PGESLPRLPRPTHGLPGSGLRDLTTISQAIRDIPTGSPDHDVVAARGRGVHNRRAPFDGNRQARTITCGGGDNYHPSGLRGFTLREFACLQTFPLGFRFLGGRTQVKRQIGNAVPPLLAKAVFKEIIRSLQDTDE,,PAGLQNAVQPWRPRRAIGSDNTLDNGKRLSLFSAKTDSSGRSSN*"
+     primer_bind     complement(943..959)
+                     /label="PR_JB_0002 (mismatches: 14)"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: PR_JB_0002 (mismatches: 14) note: Primer:acgcgaUCgcaCgcattCTTACACAGACCAGCAATCATCAAAC note: Number of mismatches: 14 note: Number of other hits on chro1_anid_int1: 0 note: Primer binding region: complement(3740..3782)"
+     Protospacer     949..959
+                     /label="Protospacer"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /note="label: Protospacer"
+     primer_bind     955..959
+                     /label="PR_JB_0003 (mismatches: 8)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: PR_JB_0003 (mismatches: 8) note: Primer: aTcGcgUGcaTtcGCGGTTGATTGAGTCGAGATAG note: Number of mismatches: 8 note: Number of other matches on chro1_anid_int1: 0 note: Primer binding region: 3752..3786"
+     terminator      complement(968..1524)
+                     /label="TtrpC_brunneoviolaceus"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     mRNA            complement(1265..1514)
+                     /label="BO95DRAFT_447363"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: BO95DRAFT_447363"
+     gene            complement(1265..1514)
+                     /label="BO95DRAFT_447363"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: BO95DRAFT_447363"
+     CDS             complement(1368..1514)
+                     /label="CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 transl_table: 1 translation: NVVETIQRLGKSSAKVVGVDVSSGIESDGAQDLEKIRAFVKAVKNLHA*"
+     exon            1744..1771
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: LPG1 exon"
+     mRNA            complement(1744..1771)
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             complement(1744..1771)
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     gene            complement(1744..3303)
+                     /label="LPG1 gene"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: LPG1 gene"
+     mat_peptide     1747..1771
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     exon            1828..1892
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: LPG1 exon"
+     mat_peptide     1828..1892
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     mRNA            complement(1828..1892)
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             complement(1828..1892)
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     exon            1949..2023
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: LPG1 exon"
+     mat_peptide     1949..2023
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     CDS             complement(1949..2023)
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mRNA            complement(1949..2023)
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     exon            2089..2635
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: LPG1 exon"
+     mat_peptide     2089..2635
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     CDS             complement(2089..2635)
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mRNA            complement(2089..2635)
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     exon            2689..2823
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 exon"
+     mat_peptide     2689..2823
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     mRNA            complement(2689..2823)
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             complement(2689..2823)
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     mat_peptide     2882..3072
+                     /label="LPG1 mat_peptide (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 mat_peptide (lignin peroxidase)"
+     exon            2882..3089
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="label: LPG1 exon"
+     mRNA            complement(2882..3089)
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             complement(2882..3089)
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     sig_peptide     3073..3089
+                     /label="LPG1 sig_peptide"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /note="label: LPG1 sig_peptide"
+     sig_peptide     3170..3230
+                     /label="LPG1 sig_peptide"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: LPG1 sig_peptide"
+     exon            3170..3230
+                     /label="LPG1 exon"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+                     /note="label: LPG1 exon"
+     mRNA            complement(3170..3230)
+                     /label="LPG1 mRNA (lignin peroxidase)"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /note="label: LPG1 mRNA (lignin peroxidase)"
+     CDS             complement(3170..3230)
+                     /label="LPG1 CDS (lignin peroxidase)"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: LPG1 CDS (lignin peroxidase)"
+     regulatory      3297..3303
+                     /label="LPG1 regulatory"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+                     /note="label: LPG1 regulatory"
+     promoter        3665..4492
+                     /label="h4h3 A. niger"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             4493..5167
+                     /label="mRFP"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /note="codon_start: 1 note: mammalian codon-optimized product: monomeric derivative of DsRed (Campbell et al., 2002) transl_table: 1 translation: MASSEDVIKEFMRFKVRMEGSVNGHEFEIEGEGEGRPYEGTQTAKLKVTKGGPLPFAWDILSPQFQYGSKAYVKHPADIPDYLKLSFPEGFKWERVMNFEDGGVVTVTQDSSLQDGEFIYKVKLRGTNFPSDGPVMQKKTMGWEASTERMYPEDGALKGEIKMRLKLKDGGHYDAEVKTTYMAKKPVQLPGAYKTDIKLDITSHNEDYTIVEQYERAEGRHSTGA"
+     mRNA            5189..5339
+                     /label="ACLA_022380"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: ACLA_022380"
+     gene            5189..5339
+                     /label="ACLA_022380"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+                     /note="label: ACLA_022380"
+     terminator      5189..5727
+                     /label="TtrpC_clavatus"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             5190..5339
+                     /label="CDS"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 transl_table: 1 translation: DPTNVFDIVRKLGESGRKVVGIDVSSGVESDGSQDPAKIRAFVQAVKSI*"
+     misc_feature    5728..6772
+                     /label="DW_homology_arm"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+                     /note="label: DW_homology_arm note: /feature_type=Homology arm"
+     Protospacer     5740..5740
+                     /label="Protospacer"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /note="label: Protospacer"
+     primer_bind     complement(5740..5757)
+                     /label="PR_JB_0002 (mismatches: 14)"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+                     /note="label: PR_JB_0002 (mismatches: 14) note: Primer:acgcgaUCgcaCgcattCTTACACAGACCAGCAATCATCAAAC note: Number of mismatches: 14 note: Number of other hits on chro1_anid_int1: 0 note: Primer binding region: complement(3740..3782)"
+     primer_bind     5740..5761
+                     /label="PR_JB_0003 (mismatches: 8)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: PR_JB_0003 (mismatches: 8) note: Primer: aTcGcgUGcaTtcGCGGTTGATTGAGTCGAGATAG note: Number of mismatches: 8 note: Number of other matches on chro1_anid_int1: 0 note: Primer binding region: 3752..3786"
+     PAM             5741..5743
+                     /label="PAM"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /note="label: PAM"
+     gene            5985..6772
+                     /label="gene"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+                     /note="label: gene note: /ID=gene_4695 note: /Name=jgi.p|Aspnid1|4695 note: /portal_id=Aspnid1 note: /proteinId=4695 note: /score=0 note: /source=prediction note: /transcriptId=4875"
+     misc_feature    5985..6772
+                     /label="AN6639"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: AN6639"
+     CDS             5985..6494
+                     /label="jgi.p|Aspnid1|4695"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4695 note: /ID=CDS_4695 note: /Parent=mRNA_4695 note: /frame=[2698843..2699352: 0, 2699424..2700201: 0,2700254..2700438: 2, 2700491..2700925: 0] note: /source=prediction transl_table: 1 translation: MYSLRCAGKCPAQRRKSHGLGSVGQPSIPPSQRLSRPFFFSPSPFLPTRRFLSSPSDINWVLQSQSYLCVLSLLFTMSASSALRRLTHRSPRNLQSRIASLSRTSCSPSSTFNSYRASSSPALPRASRFSTMASLRSAAPIPASSQVDYDPEIKDMADYIHNYKIDSDLA,,FDTARLVLLDTLGCGLEALKFKECTKLLGPVVDGTVVPNGTRVPGTPYQLDPVNGAFNIGAMIRWLDYN"
+     CDS             6495..6565
+                     /label="jgi.p|Aspnid1|4695"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4695 note: /ID=CDS_4695 note: /Parent=mRNA_4695 note: /frame=[2698843..2699352: 0, 2699424..2700201: 0,2700254..2700438: 2, 2700491..2700925: 0] note: /source=prediction transl_table: 1 translation: MYSLRCAGKCPAQRRKSHGLGSVGQPSIPPSQRLSRPFFFSPSPFLPTRRFLSSPSDINWVLQSQSYLCVLSLLFTMSASSALRRLTHRSPRNLQSRIASLSRTSCSPSSTFNSYRASSSPALPRASRFSTMASLRSAAPIPASSQVDYDPEIKDMADYIHNYKIDSDLA,,FDTARLVLLDTLGCGLEALKFKECTKLLGPVVDGTVVPNGTRVPGTPYQLDPVNGAFNIGAMIRWLDYN"
+     CDS             6566..6772
+                     /label="jgi.p|Aspnid1|4695"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /note="codon_start: 1 label: jgi.p|Aspnid1|4695 note: /ID=CDS_4695 note: /Parent=mRNA_4695 note: /frame=[2698843..2699352: 0, 2699424..2700201: 0,2700254..2700438: 2, 2700491..2700925: 0] note: /source=prediction transl_table: 1 translation: MYSLRCAGKCPAQRRKSHGLGSVGQPSIPPSQRLSRPFFFSPSPFLPTRRFLSSPSDINWVLQSQSYLCVLSLLFTMSASSALRRLTHRSPRNLQSRIASLSRTSCSPSSTFNSYRASSSPALPRASRFSTMASLRSAAPIPASSQVDYDPEIKDMADYIHNYKIDSDLA,,FDTARLVLLDTLGCGLEALKFKECTKLLGPVVDGTVVPNGTRVPGTPYQLDPVNGAFNIGAMIRWLDYN"
+     primer_bind     complement(6754..6772)
+                     /label="PR_JB_0004 (mismatches: 9)"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+                     /note="label: PR_JB_0004 (mismatches: 9) note: Primer: ggtcttaauATTGTAATCGAGCCAGCGG note: Number of mismatches: 9 note: Number of other hits on chro1_anid_int1: 0 note: Primer binding region: complement(4779..4806)"
+ORIGIN
+        1 CCCCCGTGTC AAACCTTCTC GCCTGCTCAC ACAATCCCAG GGCCCAATGA TGATGCCAAC
+       61 TCAGCAGCTA TATTCTCATG CTGGGACCTC ATTCGTAAAG CAAAACCGAG AGTTCATACC
+      121 ATGGAAGAAA CGAGCGGTCT GTTCGATCGG CATCAACAAG TGTTCCTCCG GGTTATCTGT
+      181 GATTTCATAG AGACAGGGTA CTCCGTCCGA TGGGCCCTTC TTAATTGTAT GTGGTATGGG
+      241 GTGCCACAGT CTCGAAAGAG ATTGATTATC ATTGCGTCAG GGTATGCGTG CTCAAGATTC
+      301 GATGCTGACT CATGACTAAC ATCGGTCCTT TTTAGGCCTG GGGAAAGCCT CCCACGGCTG
+      361 CCAAGGCCTA CTCATGGCCT GCCAGGGTCC GGGCTGCGTG ATCTTACAAC AATCAGCCAG
+      421 GCAATTCGCG ATATCCCCAC TGGAAGTCCC GATCACGACG TCGTTGCCGC ACGGGGTCGC
+      481 GGAGTTCATA ATCGAAGAGC TCCATTCGAC GGAAACCGAC AAGCTCGCAC AATAACATGC
+      541 GGCGGTGGGG ACAATTATCA TCCCTCTGGA TTGCGCGGTT TTACCCTCAG GGAGTTTGCT
+      601 TGTCTGCAAA CCTTTCCTCT GGGCTTTCGG TTCCTGGGCG GTAGGACGCA GGTAAAGAGG
+      661 CAGATCGGCA ATGCAGTGCC TCCCCTACTG GCCAAAGCTG TCTTTAAGGA AATCATCAGG
+      721 TCGCTGCAAG ACACCGATGA GCGTGAATTG CACGAAAACC AATGATCGCC ATTAGGGTCC
+      781 TGAGGAACCA CATGCTCTGG ACCTAGCCGC GGGATTGCAG AACGCCGTCC AACCGTGGAG
+      841 ACCTCGGCGA GCGATCGGAA GCGATAACAC GCTGGACAAC GGGAAGAGGC TCAGTCTGTT
+      901 CTCAGCCAAG ACAGATAGTA GTGGCAGATC TTCCAATTGA ACGTTTGATG ATTGCTGGTC
+      961 TGTGTAAcca tcaggcaatt acgatgtggc caaggcccga gaggatattg tcagaacccg
+     1021 aagattgaga taaacctcac aagatggtga tgtatgcatg tgaagaagat aaataattca
+     1081 ttaacatgga tatagagtag gggtaagcac gtatattcaa cccaagtcaa aggttgccct
+     1141 tttccattcc atgtaatgga aagacagtga caaaaggtga acagttaatt tgagaatcaa
+     1201 ttgttatgag gtgacagcta tgtgaatata tttaatcaca accagaacac cgctggtgtc
+     1261 ctattgccaa gagtatacga attgaaatga cccggaagta agaatgatat tgatgtgaac
+     1321 caattggttg tctcatagta taaatatatt atagtgacca gaccagatca tgcatgaagg
+     1381 ttcttgacag ccttaacaaa ggcgcggatc ttttccagat cctgtgcgcc gtcggactcg
+     1441 atgccagagc tgacgtccac gcccaccacc ttagCGCTGG ACTTGCCGAG CCTTTGGATC
+     1501 GTCTCAACGA CATTTGTAGG ATCCgtactc aatcgctggc aaagatgtgt ctagaacgag
+     1561 tatatttcaa ctttaagcca ctgatacaac cgctgttgtt acaacaaccc cgcgagaaag
+     1621 gggagaccga aagcacagat acaagtgata cgatgccgaa ctttgaaagg catataaggc
+     1681 caactacgag gcacggcctc gcacgaccat aaccgggtct ttgatgctag gccctaaata
+     1741 cccttacttc cgggcggcag ggggcttggg gctgttggaa cggctcgtaa ggtcacgtac
+     1801 acaagcaata tcggttgggg aacttacacg ggggcgacgg cggtcttggg tccggggtcg
+     1861 gtggggaagg tcgggaaggg ggtctcggca cactatagag caaatgggtc agtggagtat
+     1921 agtcggcgag ggactagatt gtgcttacag cctgctcgat gtcggcgttg ctcaggccag
+     1981 cggggaagtg cgtgtggccc tgagggtcag ccgggatggg gacctataca tgtggcagtt
+     2041 agtggctgtt acaggggggc acgaatgcgg aagaatggtg cgacgtacga cttcagtgca
+     2101 gtcgacgagc gtgttgatgt cctggccgaa gatggaaagg tcgtggaaca cgaactggaa
+     2161 catctgctga gccttcggct ggttgtcgac gaacgactgc cactcgcatg ccgtgcggga
+     2221 gtcgcgagcg atggtgtggt cggactggag acgcatctcg cccgcaaggg gagactcgac
+     2281 ctcgccctgg ttgccgccgg agccggggaa gctcgtgccg cggagctggg tctcgaggaa
+     2341 gaactgcgtg tcccagagct cgggggtgga gtcgaacggc aggccggact tggtggggtc
+     2401 gacgtcgttg gcggcagcaa cggtgtgcgc ggtcaggagc cagaccgtca ggatggggtc
+     2461 gaactcgccc tgagacgcgt ccgcgagacg gtcgaagatc tggtcgggcg tgtggaacgg
+     2521 ctcggggacg aggccgtcgg gggcgggctg ggtggcgtcc ttgcggccga cgaaggcagc
+     2581 gagctgggga gcacccgcgc agttcgaggc accgatggca ccagcgaatt gaatgctgca
+     2641 ccgacgtatc agtacaaggt cgattattgc ttcgcttcag gtactcacaa gtcagcaacg
+     2701 gagatgttgt gacgggcgat gaacggcttc tggagctcga tgatttcgtc gagaccaatg
+     2761 ttggggtgga agtttgtctc gatctcgggg aagatcgcga tggagccgtc ggcaccacca
+     2821 ccactgaaca gcatatcccg gttaatacat tcagctaagg gcagaaatct attcagcgta
+     2881 cccgaagatg ccctgggcct cgagagcggg ggagatggcg atggcgtcgt ggaaggtcag
+     2941 acggagagac tcgtgcgcct cagccgtgca gagaccgccg tggaacaggt tctgctggag
+     3001 gtcctcgcgg acagcgaaga gttggcagca cgccgcgttg gtagcggtgt tcacgccgtc
+     3061 ggggcaagcg acgcggcggg tcaacgcggc taaaagataa atgtgggtca gtatgctgca
+     3121 caaagatgct ctgtcgggac tcggcgaata cccgccacct cctacgcacc gttcgcgccc
+     3181 tggagcgctc caatgaccga gacaaaagaa agaagagact tgaaagccat gtcgaactgg
+     3241 gactgaggag gactgaggct tgagtgctct gaagaatgtc gccaatgtcg ccctgctttt
+     3301 atacatgtca gctgaggcag agaaaaagtt ggacgtgaaa catacacagt gtgatcaatg
+     3361 gtgcttccgc cgcaccaggg ccgccaagac cagacggtgc ggagccagta gccttgtcaa
+     3421 ggccaatggc agcgcataca tttcgctatt ctcgtcaatg tatgttccgc caccacagtc
+     3481 ctgtggtagt tcaacgcgtc catagcgtcg gtgtctcgcg ctgcatcgcg cgtgcaacca
+     3541 atccccgcgt cctgtgcgac gcctcggagc ctcttggtcg gatgtttgat cgcgcgcgtg
+     3601 tgcccctgag cccgccgcgg tcgccgacgc tgtgaaatta tcgagtcatt gggggtcagc
+     3661 aggcTGTGAA GGTTGTCTAT AAAGTAAACG GAAATAGAGT TGAATTAAAG TTGAGGGTGA
+     3721 AGATGGTGGA GATAAGTTAA GCGTTTTAGA GTGAGGATGG ATGTAAAGGG AAGAGGGCAG
+     3781 AGAGCATCCA TGGGACGGGA GATATTTGTA TAGCAGAAGG CGCGCCGCGG GGAGGGCGTT
+     3841 GGAATCACAC GCTAGAGCGC GGATCGACCA ATCAGAGCGC AGGATCCCGG CCGGCGGACT
+     3901 GATCTGGCGG CAACGTGACC GGGCAGGGAT GATTCCGCTG GGATGAGACT GATTCCCACG
+     3961 GGAATGCTCC CAACCACCCA GATCAGCAAT CAGAGGGTGT CAGGGACATT CCTGTCGATG
+     4021 GCCATGAGCA TCTGCAACAG GTTGATAGGA TCACATTCCG GGCCTGAGGT TGGGATCAAT
+     4081 GTGAGGCAGG GGCAGCTTCT AGATCCGTGA TCCTGGCTTC CTATTGGCTG GCGGGCATTA
+     4141 GGGCGCTCGC TTAGCGCTCC GAGCAGGCAG AAAGGGGACT GACCGCCTTT GGGCACTTTT
+     4201 GATTTTCCCA GCCAAAAGTG AGCCCCGAAA TCACGGCTTA TGGTGTGCTG CTTTCCGAAC
+     4261 ACTTTTTCGA TCAAAGGAAC GGCACGCTAA GGCCCCCTCC CTTTGCTGGC AAACCCAGAT
+     4321 CACCACCCAC CCTTTCGCTT ACTACAAATA CCTCTCCCCA CCCGCCTCCT CCATCCTTCT
+     4381 TCCATCTCCT CATCCCGTCT ACCCTTATCT ATCAACCTCC ATCAATCTTT CATCCTCAAC
+     4441 GTCATCTTTC CATCTCTAAA ACAACTAAAT CCATCAAACT TAATCCACTA AGatggcctc
+     4501 ctccgaggac gtcatcaagg agttcatgcg cttcaaggtg cgcatggagg gctccgtgaa
+     4561 cggccacgag ttcgagatcg agggcgaggg cgagggccgc ccctacgagg gcacccagac
+     4621 cgccaagctg aaggtgacca agggcggccc cctgcccttc gcctgggaca tcctgtcccc
+     4681 tcagttccag tacggctcca aggcctacgt gaagcacccc gccgacatcc ccgactactt
+     4741 gaagctgtcc ttccccgagg gcttcaagtg ggagcgcgtg atgaacttcg aggacggcgg
+     4801 cgtggtgacc gtgacccagg actcctccct gcaggacggc gagttcatct acaaggtgaa
+     4861 gctgcgcggc accaacttcc cctccgacgg ccccgtaatg cagaagaaga ccatgggctg
+     4921 ggaggcctcc accgagcgga tgtaccccga ggacggcgcc ctgaagggcg agatcaagat
+     4981 gaggctgaag ctgaaggacg gcggccacta cgacgccgag gtcaagacca cctacatggc
+     5041 caagaagccc gtgcagctgc ccggcgccta caagaccgac atcaagctgg acatcacctc
+     5101 ccacaacgag gactacacca tcgtggaaca gtacgagcgc gccgagggcc gccactccac
+     5161 cggcgcccat catcatcatc atcattaaGG ACCCTACCAA CGTTTTCGAC ATCGTCCGGA
+     5221 AGTTGGGTGA GTCTGGGCgc aaggttgtcg gcatagatgt cagctctggt gtggagtctg
+     5281 atggctcaca agatcctgcc aaaatccgtg cttttgtgca agccgtgaaa tccatctaat
+     5341 tgtgaggaga aggagttttg ttgactctca gtcctcggta aaaatctctg tgacatatct
+     5401 tcgatgatga ctttttatga ctaggaatct gattttcaag attccaattc gcaccatctt
+     5461 ttttcgggtt tcagtttcgg gttactttca cctcatttac gtgttgttga taaagcgcac
+     5521 ggctcatctt ctatttagac cattggagac tcatagcaat cttaatcaat gatcatttcc
+     5581 cggtcaccct actatcaaat tttatggctc tggggttttc tacctgctta tagatacaac
+     5641 tcctttctat ggcgatgaaa caccaaactc tcgcacccct taacaccatc ataagaacct
+     5701 aacaccccaa ctgcgtgcct taaaggcAgg cttctatctG CGGTTGATTG AGTCGAGATA
+     5761 GTCGAGATGG CCGGGTCATA GGAACGCTGG AGTGGTAGAT GCGGGGTACG GTGGGAAGCG
+     5821 CCATCTGGGG CACCCGTTGA CCAGCTTGGA AGGGCCGAAA AGCGCTACAA TCACTAAAGA
+     5881 GCACATTAAG GCGAGTCCGA TTCAAAGGAC GTAAAGCAGC TTGAGCAAGA TGCCAAATTC
+     5941 CGAGATCGGA TGGTAAAATC ACCGAGTGTA ACCGGCGAGC AGCTATGTAC TCCTTACGGT
+     6001 GTGCGGGTAA ATGCCCGGCC CAGAGGCGTA AAAGCCACGG CCTCGGCTCA GTCGGCCAAC
+     6061 CGTCAATCCC TCCCTCCCAG AGACTCAGCC GACCCTTCTT CTTCTCTCCC TCTCCCTTCC
+     6121 TTCCGACCAG GCGATTTCTT TCTTCTCCTT CTGACATCAA TTGGGTATTG CAATCTCAAT
+     6181 CCTATCTCTG TGTCCTTTCT CTTCTCTTCA CTATGTCTGC CTCTTCAGCG CTGAGACGGC
+     6241 TGACCCACAG GTCTCCCCGC AATCTCCAGT CCCGCATCGC TTCGCTCTCC CGCACCTCTT
+     6301 GTTCCCCTTC GTCGACGTTC AACTCCTACA GAGCTTCTTC ATCTCCTGCT TTACCTCGTG
+     6361 CTTCGAGATT CTCAACAATG GCTTCTCTAC GATCGGCGGC GCCAATTCCC GCGTCCTCCC
+     6421 AAGTGGACTA TGATCCTGAA ATCAAGGACA TGGCCGACTA CATCCACAAC TACAAGATCG
+     6481 ACTCTGATCT CGCGGTATGA GCTCCAATTG AGAACCCAAT TATGGATTGA TGGGGTAATA
+     6541 CGCAATTGGT ACTGATTAAA TACAGTTCGA CACCGCCCGC CTGGTTCTCC TTGATACTCT
+     6601 TGGATGTGGT CTGGAAGCTC TGAAGTTCAA GGAGTGCACC AAGCTCCTTG GACCGGTTGT
+     6661 TGATGGCACT GTCGTTCCTA ACGGCACTCG CGTTCCTGGT ACTCCCTACC AGCTAGACCC
+     6721 TGTAAATGGT GCCTTCAACA TCGGTGCAAT GATCCGCTGG CTCGATTACA AT
+//

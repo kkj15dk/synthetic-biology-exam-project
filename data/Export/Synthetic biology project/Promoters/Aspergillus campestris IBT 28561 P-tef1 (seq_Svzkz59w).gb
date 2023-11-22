@@ -5,14 +5,14 @@ COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry:
             XM_024835116 Description: Aspergillus campestris IBT 28561
             translation elongation factor (P168DRAFT_268930), partial mRNA
 FEATURES             Location/Qualifiers
-     source          1..1481
-                     /label="source"
-                     /ApEinfo_revcolor="#d59687"
-                     /ApEinfo_fwdcolor="#d59687"
      gene            1..1481
                      /label="P168DRAFT_268930 gene"
                      /ApEinfo_revcolor="#b1ff67"
                      /ApEinfo_fwdcolor="#b1ff67"
+     source          1..1481
+                     /label="source"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
      CDS             99..1481
                      /label="P168DRAFT_268930 CDS (translation elongation factor)"
                      /ApEinfo_revcolor="#d59687"

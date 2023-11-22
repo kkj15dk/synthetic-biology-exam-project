@@ -5,14 +5,6 @@ COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry: OR540301
             Accession: OR540301.1 Description: Aspergillus niger strain BB1
             translation elongation factor 1-alpha (tef1) gene, partial cds
 FEATURES             Location/Qualifiers
-     gene            1..601
-                     /label="tef1 gene"
-                     /ApEinfo_revcolor="#ffef86"
-                     /ApEinfo_fwdcolor="#ffef86"
-     source          1..601
-                     /label="source"
-                     /ApEinfo_revcolor="#faac61"
-                     /ApEinfo_fwdcolor="#faac61"
      mRNA            1..601
                      /label="tef1 mRNA (translation elongation factor 1-alpha)"
                      /ApEinfo_revcolor="#75c6a9"
@@ -21,6 +13,14 @@ FEATURES             Location/Qualifiers
                      /label="tef1 CDS (translation elongation factor 1-alpha)"
                      /ApEinfo_revcolor="#9eafd2"
                      /ApEinfo_fwdcolor="#9eafd2"
+     source          1..601
+                     /label="source"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     gene            1..601
+                     /label="tef1 gene"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
 ORIGIN
         1 cactggtacc tcccaggctg actgcgctat cctcatcatt gcctccggta ctggtgagtt
        61 cgaggctggt atctccaagg atggccagac tcgtgagcac gctctgcttg ctttcaccct

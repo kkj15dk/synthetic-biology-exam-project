@@ -1,0 +1,141 @@
+LOCUS       100%_Manganese_peroxida 1400 bp ds-DNA     linear       22-NOV-2023
+DEFINITION  .
+KEYWORDS    "accession:Z30668.1"
+COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry: Z30668
+            Accession: Z30668.1 Description: T.versicolor (Coriolus) PRL 572
+            MPGI gene for manganese peroxidase isozyme MP2
+FEATURES             Location/Qualifiers
+     source          1..1400
+                     /label="source"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     CDS             1..61
+                     /label="MPGI CDS (manganese peroxidase)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     exon            1..61
+                     /label="MPGI exon"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     gene            1..61
+                     /label="MPGI gene"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     sig_peptide     1..61
+                     /label="MPGI sig_peptide"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     intron          62..122
+                     /label="intron"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     sig_peptide     123..139
+                     /label="MPGI sig_peptide"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     gene            123..330
+                     /label="MPGI gene"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     CDS             123..330
+                     /label="MPGI CDS (manganese peroxidase)"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     exon            123..330
+                     /label="MPGI exon"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     mat_peptide     140..330
+                     /label="MPGI mat_peptide (manganese peroxidase)"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     CDS             392..526
+                     /label="MPGI CDS (manganese peroxidase)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     exon            392..526
+                     /label="MPGI exon"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     mat_peptide     392..526
+                     /label="MPGI mat_peptide (manganese peroxidase)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     gene            392..526
+                     /label="MPGI gene"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     exon            588..1030
+                     /label="MPGI exon"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     gene            588..1030
+                     /label="MPGI gene"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     CDS             588..1030
+                     /label="MPGI CDS (manganese peroxidase)"
+                     /ApEinfo_revcolor="#d6b295"
+                     /ApEinfo_fwdcolor="#d6b295"
+     mat_peptide     588..1030
+                     /label="MPGI mat_peptide (manganese peroxidase)"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     gene            1095..1332
+                     /label="MPGI gene"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     mat_peptide     1095..1332
+                     /label="MPGI mat_peptide (manganese peroxidase)"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     CDS             1095..1332
+                     /label="MPGI CDS (manganese peroxidase)"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     exon            1095..1332
+                     /label="MPGI exon"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     gene            1388..1400
+                     /label="MPGI gene"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             1388..1400
+                     /label="MPGI CDS (manganese peroxidase)"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     exon            1388..1400
+                     /label="MPGI exon"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     mat_peptide     1388..1397
+                     /label="MPGI mat_peptide (manganese peroxidase)"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+ORIGIN
+        1 atggctttca aaactctcgc ctctctcctc tcggttctgg tcaccatcca ggtcgcaggc
+       61 ggtgagcgat aaacgcagta tttctgctac gacgtcatcc tgatatcgtc ttccttgcct
+      121 aggcgcgctc acccgccgtg tcgcctgccc cgacggcgtg aacaccgcta ccaacgcggc
+      181 gtgctgtcag ctcttcgctg ttcgcgacga catccagcag aacctgttcg atggcggcga
+      241 gtgtggcgag gaggtccacg agtccctccg tctgaccttc cacgacgcca tcggcatctc
+      301 tccttccatc gcctctcgcg gccaattcgg gtaacttcat atcccctctg agcctccata
+      361 tcgtcaggta tctaacaatg gtgctttgca gaggcggagg tgccgacggc tccatcgccc
+      421 tctttgagga catcgagacc aacttccacg ccaacctcgg tgtcgacgag atcatcgacg
+      481 agcagcggcc gttcatcgcc cgccacaacc tcaccaccgc cgacttgttc gtaccatccc
+      541 ctggcaccca ttacgctgtc caaaactgac aacactttcc accacagcat ccagttcgcc
+      601 ggcgccatcg gcgtcagcaa ctgccccggc gcgccccagc tggacgtgtt catcggccgc
+      661 cccgacgcga cgcagcccgc gcccgacctg acggtgcccg agccgttcga caccgtcgac
+      721 agcatcatcg agcggttctc cgacgccggc ggcttcacgc ccgccgagat cgtcgcgctc
+      781 ctcgtgtcgc acacgatcgc agccgccgac catgtcgacc cgagcatccc cggaacgccc
+      841 ttcgactcga ccccggagga gttcgacacg cagttcttca tcgagaccca gctccgtggc
+      901 acgctcttcc ccggcaccgg cggcaaccag ggcgaggtcg agtcgcccct ccgcggcgag
+      961 ctgcgcctcc agtccgactc tgagctcgcg cgcgactccc gcactgcttg cgagtggcaa
+     1021 tccttcgtca gtgcgtacta ccacctcctc ccaaatcttc atgtacatcg cgatactgac
+     1081 gcgtgggaac gcagacaacc aggccaagct ccagtccgcg ttcaaggctg ccttccgcaa
+     1141 gatgaccgtg ctcggccacg acgagagcct gctgatcgag tgctccgagc tcgtgcccac
+     1201 gcccccgccc gcgacgagcg tcgcgcactt ccccgctggg ctcagcaacg ccgacgtcga
+     1261 gcaggcgtgc gccgagaccc ccttcccgac gctccccacc gaccccggac ccgtcaccac
+     1321 cgtcgccccc gtgtaagtgc ctgatcgctc gagtatggtt gcctgaagct gacttgttgc
+     1381 cttacagccc cccgtcgtaa
+//

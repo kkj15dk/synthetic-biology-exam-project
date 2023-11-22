@@ -5,14 +5,14 @@ COMMENT     Imported from database: NCBI Nucleotide (Genbank) Entry:
             XM_025702074 Description: Aspergillus vadensis CBS 113365
             translation elongation factor (BO88DRAFT_232724), mRNA
 FEATURES             Location/Qualifiers
-     gene            1..1851
-                     /label="BO88DRAFT_232724 gene"
-                     /ApEinfo_revcolor="#b7e6d7"
-                     /ApEinfo_fwdcolor="#b7e6d7"
      source          1..1851
                      /label="source"
                      /ApEinfo_revcolor="#75c6a9"
                      /ApEinfo_fwdcolor="#75c6a9"
+     gene            1..1851
+                     /label="BO88DRAFT_232724 gene"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
      CDS             135..1517
                      /label="BO88DRAFT_232724 CDS (translation elongation factor)"
                      /ApEinfo_revcolor="#d6b295"
