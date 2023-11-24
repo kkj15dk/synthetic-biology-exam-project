@@ -10,4 +10,4 @@ Using two integration site, IS1 and IS2 in *A. nidulans* and bidirectional histo
 Having four different places to insert the genes gives a lot of different combinations, but there could have been even more.
 For instance, we did not change the terminators, but kept them constant so that the same promoter always went with the same teminator.
 
-Also, in some mutant the same gene is inserted multiple times in different sites. This could create genetic instability, however, as bidirectional promoters are used, recombination would only cause the promoter to be flipped, no loop-out of the genome.
+Also, in some mutants the same gene is inserted multiple times in different sites. This could create genetic instability, however, as bidirectional promoters are used, recombination would only cause the promoter to be flipped, no loop-out of the genome.
